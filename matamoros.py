@@ -1,5 +1,5 @@
 import spacy
-import spacy
+import sys
 from spacy import displacy
 from collections import Counter
 import pandas as pd
@@ -204,4 +204,12 @@ def get_neighbor_words(keyword, bigrams, pos_label = None):
     #get_neighbor_words(keyword="YOUR KEY WORD", bigrams, pos_label=None)
     #TF IDF term frequency inverse document frequency
 
-    #sentiment analysis
+#sentiment analysis
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+# Initialize VADER so we can use it later
+sentimentAnalyzer = SentimentIntensityAnalyzer()
+
+pd.options.display.max_colwidth = 400
+
+corridos_df = pd.read_csv(r'C:\Users\dmlpz\Corridos\Corridos.csv')
+corridos_df.head()
