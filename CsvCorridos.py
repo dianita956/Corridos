@@ -1,10 +1,15 @@
 import spacy
 import sys
+import numpy as np
 from spacy import displacy
 from collections import Counter
 import pandas as pd
 #sentiment analysis
+
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+
+nlp = spacy.load("es_core_news_md")
+
 # Initialize VADER so we can use it later
 sid = SentimentIntensityAnalyzer()
 
@@ -26,3 +31,5 @@ def calculate_sentiment(lyrics):
 # Apply the function to every row in the "text" column and output the results into a new column "sentiment_score"
 corridos_df['sentiment_score'] = corridos_df['lyrics'].apply(calculate_sentiment)
 corridos_df.sort_values(by='sentiment_score', ascending=False)[:10]
+
+pd.DataFrame(corridos_df)
