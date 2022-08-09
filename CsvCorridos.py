@@ -4,9 +4,12 @@ import numpy as np
 from spacy import displacy
 from collections import Counter
 import pandas as pd
+
 #sentiment analysis
 
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from vaderSentiment import SentimentIntensityAnalyzer
+dir()
+
 
 nlp = spacy.load("es_core_news_md")
 
