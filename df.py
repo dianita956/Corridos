@@ -108,7 +108,7 @@ corridos = dict({'Title': ['la toma de Matamors',
                     Ya con ésta me despido,
                     me compadezco de todos,
                     y con tristeza les digo
-                    que perdimos Matamoros.,
+                    que perdimos Matamoros. ,
                     
                     Ese general Cortina
                     el libre y muy soberano,
