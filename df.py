@@ -126,5 +126,12 @@ corridos = dict({'Title': ['la toma de Matamors',
                     ese general Cortinas.'''],
                     'Sentiment Score':[' 10, 10 ']})
                     
-pd.DataFrame.from_dict(corridos)
-df.iloc
+df=pd.DataFrame.from_dict(corridos, orient ='index')
+df
+
+compression_opts = dict(method='zip', archive_name='out.csv')
+df.to_csv('out.zip', index=False, compression=compression_opts)
+
+import os
+os.makedirs('/c/users/dmlpz/Corridos', exist_ok=True)
+df.to_csv('/c/users/dmlpz/Corridos/out.csv')
