@@ -83,6 +83,7 @@ plot.axhline(y=0, color='orange', linestyle='-');
  
  # topic modeling
  pip install pyproject-toml
+ pip install wheel
  pip install hdbscan
  pip install top2vec
  from top2vect import Top2Vec
