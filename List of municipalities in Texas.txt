@@ -1,6 +1,3 @@
-List of municipalities in Texas
-2021 Rank|Municipality|Designation|Primary County|Secondary County(ies)|Population|
-2021 Estimate[3]|2020 Census[1]|2010 Census[4]|2010-2020 Change|
 1|Houston|City|Harris|Fort Bend,Montgomery|2,288,250|2,304,580|2,099,451|+9.77%|
 2|San Antonio|City|Bexar|Medina,Comal|1,451,853|1,434,625|1,327,407|+8.08%|
 3|Dallas|City|Dallas|Rockwall,Kaufman,Denton,Collin|1,288,457|1,304,379|1,197,816|+8.90%|
