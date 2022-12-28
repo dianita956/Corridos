@@ -1,5 +1,0 @@
-1|Houston|City|Harris|Fort Bend,Montgomery|2,288,250|2,304,580|2,099,451|+9.77%|
-2|San Antonio|City|Bexar|Medina,Comal|1,451,853|1,434,625|1,327,407|+8.08%|
-3|Dallas|City|Dallas|Rockwall,Kaufman,Denton,Collin|1,288,457|1,304,379|1,197,816|+8.90%|
-4|Austin|City|Travis|Williamson,Hays|964,177|961,855|790,390|+21.69%|
-5|Fort Worth|City|Tarrant|Denton,Parker,Wise|935,508|918,915|741,206|+23.98%|
