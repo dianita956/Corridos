@@ -1,0 +1,6504 @@
+{
+    "unincorparated communities": [
+        {
+            "Community Name": "Community",
+            "County": "County"
+        },
+        {
+            "Community Name": "Alderbranch",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Bethel",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Blackfoot",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Bois d'Arc",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Bradford",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Broom City",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Brushy Creek",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Cedar Creek",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Cayuga",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Cedar Creek",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Cronin",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Crystal Lake",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Days Chapel",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Denson Springs",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Elmtown",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Elmwood",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Fosterville",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Greens Bluff",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Long Lake",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Massey Lake",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Montalba",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Mound City",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Myrtle Springs",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Neches",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Pert",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Providence",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Redtown",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Salmon",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Slocum",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Springfield",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Swanson Hill Church",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Tennessee Colony",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Todd City",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Tucker",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Wells Creek",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Yard",
+            "County": "Anderson"
+        },
+        {
+            "Community Name": "Florey",
+            "County": "Andrews"
+        },
+        {
+            "Community Name": "Frankel City",
+            "County": "Andrews"
+        },
+        {
+            "Community Name": "McKinney Acres",
+            "County": "Andrews"
+        },
+        {
+            "Community Name": "Shafter Lake",
+            "County": "Andrews"
+        },
+        {
+            "Community Name": "Herty",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Homer",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Oak Flat",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Pollok",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Redland",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Holiday Beach",
+            "County": "Aransas"
+        },
+        {
+            "Community Name": "Lamar",
+            "County": "Aransas"
+        },
+        {
+            "Community Name": "Dundee",
+            "County": "Archer"
+        },
+        {
+            "Community Name": "Huff",
+            "County": "Archer"
+        },
+        {
+            "Community Name": "Mankins",
+            "County": "Archer"
+        },
+        {
+            "Community Name": "Washburn",
+            "County": "Armstrong"
+        },
+        {
+            "Community Name": "Goodnight",
+            "County": "Armstrong"
+        },
+        {
+            "Community Name": "Wayside",
+            "County": "Armstrong"
+        },
+        {
+            "Community Name": "Amphion",
+            "County": "Atascosa"
+        },
+        {
+            "Community Name": "Campbellton",
+            "County": "Atascosa"
+        },
+        {
+            "Community Name": "Leming",
+            "County": "Atascosa"
+        },
+        {
+            "Community Name": "Peggy",
+            "County": "Atascosa"
+        },
+        {
+            "Community Name": "McCoy",
+            "County": "Atascosa"
+        },
+        {
+            "Community Name": "Bleiblerville",
+            "County": "Austin"
+        },
+        {
+            "Community Name": "Cat Spring",
+            "County": "Austin"
+        },
+        {
+            "Community Name": "Kenney",
+            "County": "Austin"
+        },
+        {
+            "Community Name": "New Ulm",
+            "County": "Austin"
+        },
+        {
+            "Community Name": "Shelby",
+            "County": "Austin"
+        },
+        {
+            "Community Name": "Bula",
+            "County": "Bailey"
+        },
+        {
+            "Community Name": "Enochs",
+            "County": "Bailey"
+        },
+        {
+            "Community Name": "Virginia City",
+            "County": "Bailey"
+        },
+        {
+            "Community Name": "Maple",
+            "County": "Bailey"
+        },
+        {
+            "Community Name": "Needmore",
+            "County": "Bailey"
+        },
+        {
+            "Community Name": "Bandera Falls",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Lake Medina Shores",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Lakehills",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Pipe Creek",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Tarpley",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Vanderpool",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Medina",
+            "County": "Bandera"
+        },
+        {
+            "Community Name": "Alum Creek",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Bateman",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Butler",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Camp Swift",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Cedar Creek",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Circle D-KC Estates",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Colorado",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Jeddo",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Jorden",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Kovar",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "McDade",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Paige",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Pettytown",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Red Rock",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Rockne",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Rosanky",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Togo",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Upton",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Utley",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Wyldwood",
+            "County": "Bastrop"
+        },
+        {
+            "Community Name": "Mabelle",
+            "County": "Baylor"
+        },
+        {
+            "Community Name": "Red Springs",
+            "County": "Baylor"
+        },
+        {
+            "Community Name": "Blue Berry Hill",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Mineral",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Normanna",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Pawnee",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Pettus",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Skidmore",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Tuleta",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Tulsita",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Tynan",
+            "County": "Bee"
+        },
+        {
+            "Community Name": "Cyclone",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Ding Dong",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Fort Hood",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Heidenheimer",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Pendleton",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Prairie Dell",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "White Hall",
+            "County": "Bell"
+        },
+        {
+            "Community Name": "Adkins",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Atascosa",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Cross Mountain",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Lackland Air Force Base",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Leon Springs",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Macdona",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Randolph Air Force Base",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Sayers",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Scenic Oaks",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Timberwood Park",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Wetmore",
+            "County": "Bexar"
+        },
+        {
+            "Community Name": "Hye",
+            "County": "Blanco"
+        },
+        {
+            "Community Name": "Gail",
+            "County": "Borden"
+        },
+        {
+            "Community Name": "Mesquite",
+            "County": "Borden"
+        },
+        {
+            "Community Name": "Kopperl",
+            "County": "Bosque"
+        },
+        {
+            "Community Name": "Laguna Park",
+            "County": "Bosque"
+        },
+        {
+            "Community Name": "Mosheim",
+            "County": "Bosque"
+        },
+        {
+            "Community Name": "Womack",
+            "County": "Bosque"
+        },
+        {
+            "Community Name": "Boston",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Dalby Springs",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Friendship Village",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Hubbard",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Malta",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Simms",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "South Texarkana",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Friendship",
+            "County": "Bowie"
+        },
+        {
+            "Community Name": "Abercrombie",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Amsterdam",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Chocolate Bayou",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Damon",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Danciger",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Lochridge",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Old Ocean",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Otey",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Rosharon",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Sandy Point",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Turtle Cove",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Wild Peach Village",
+            "County": "Brazoria"
+        },
+        {
+            "Community Name": "Lake Bryan",
+            "County": "Brazos"
+        },
+        {
+            "Community Name": "Wellborn",
+            "County": "Brazos"
+        },
+        {
+            "Community Name": "Lajitas",
+            "County": "Brewster"
+        },
+        {
+            "Community Name": "Marathon",
+            "County": "Brewster"
+        },
+        {
+            "Community Name": "Study Butte",
+            "County": "Brewster"
+        },
+        {
+            "Community Name": "Terlingua",
+            "County": "Brewster"
+        },
+        {
+            "Community Name": "Airport Road Addition",
+            "County": "Brooks"
+        },
+        {
+            "Community Name": "Cantu Addition",
+            "County": "Brooks"
+        },
+        {
+            "Community Name": "Encino",
+            "County": "Brooks"
+        },
+        {
+            "Community Name": "Flowella",
+            "County": "Brooks"
+        },
+        {
+            "Community Name": "Rachal",
+            "County": "Brooks"
+        },
+        {
+            "Community Name": "Brookesmith",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "Lake Brownwood",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "May",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "Thunderbird Bay",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "Winchell",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "Zephyr",
+            "County": "Brown"
+        },
+        {
+            "Community Name": "Birch",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Chriesman",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Clay",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Cooks Point",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Davidson",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Deanville",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Frenstat",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Goodwill",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Gus",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Harmony",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Hix",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Hogg",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Lyons",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Merle",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Rita",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Scofield",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Tunis",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Wilcox",
+            "County": "Burleson"
+        },
+        {
+            "Community Name": "Briggs",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Lake Victor",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Oakalla",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Oatmeal",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Smithwick",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Spicewood",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Dale",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Fentress",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Lytton Springs",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Maxwell",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Pettytown",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Prairie Lea",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Saint Johns Colony",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Seawillow",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Stairtown",
+            "County": "Caldwell"
+        },
+        {
+            "Community Name": "Alamo Beach",
+            "County": "Calhoun"
+        },
+        {
+            "Community Name": "Indianola",
+            "County": "Calhoun"
+        },
+        {
+            "Community Name": "Long Mott",
+            "County": "Calhoun"
+        },
+        {
+            "Community Name": "Magnolia Beach",
+            "County": "Calhoun"
+        },
+        {
+            "Community Name": "Port O'Connor",
+            "County": "Calhoun"
+        },
+        {
+            "Community Name": "Belle Plain",
+            "County": "Callahan"
+        },
+        {
+            "Community Name": "Callahan City",
+            "County": "Callahan"
+        },
+        {
+            "Community Name": "Cottonwood",
+            "County": "Callahan"
+        },
+        {
+            "Community Name": "Eula",
+            "County": "Callahan"
+        },
+        {
+            "Community Name": "Arroyo Alto",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Arroyo Colorado Estates",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Arroyo Gardens",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Bixby",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Bluetown",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Cameron Park",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Del Mar Heights",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "El Camino Angosto",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Encantada-Ranchito El Calaboz",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Grand Acres",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Green Valley Farms",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Iglesia Antigua",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Juarez",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "La Feria North",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "La Paloma",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "La Tina Ranch",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Lago",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Laguna Heights",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Las Palmas II",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Lasana",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Laureles",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Lozano",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Olmito",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Orason",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Rangerville",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Ratamosa",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Reid Hope King",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "San Pedro",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Santa Maria",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Solis",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "South Point",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Tierra Bonita",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Villa del Sol",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Villa Pancho",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Yznaga",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Lantana",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Chula Vista",
+            "County": "Cameron"
+        },
+        {
+            "Community Name": "Leesburg",
+            "County": "Camp"
+        },
+        {
+            "Community Name": "Bivins",
+            "County": "Cass"
+        },
+        {
+            "Community Name": "Kildare",
+            "County": "Cass"
+        },
+        {
+            "Community Name": "McLeod",
+            "County": "Cass"
+        },
+        {
+            "Community Name": "Hilburn",
+            "County": "Castro"
+        },
+        {
+            "Community Name": "Summerfield",
+            "County": "Castro"
+        },
+        {
+            "Community Name": "Sunnyside",
+            "County": "Castro"
+        },
+        {
+            "Community Name": "Double Bayou",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Hankamer",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Monroe City",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Oak Island",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Seabreeze",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Smith Point",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Stowell",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Turtle Bayou",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Wallisville",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Winnie",
+            "County": "Chambers"
+        },
+        {
+            "Community Name": "Blackjack",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Dialville",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Etna",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Forest",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Maydelle",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Mount Selman",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Reese",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Shadybrook",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Carey",
+            "County": "Childress"
+        },
+        {
+            "Community Name": "Tell",
+            "County": "Childress"
+        },
+        {
+            "Community Name": "Bluegrove",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Buffalo Springs",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Charlie",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Halsell",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Hurnville",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Joy",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Shannon",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Stanfield",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Thornberry",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Vashti",
+            "County": "Clay"
+        },
+        {
+            "Community Name": "Bledsoe",
+            "County": "Cochran"
+        },
+        {
+            "Community Name": "Sanco",
+            "County": "Coke"
+        },
+        {
+            "Community Name": "Silver",
+            "County": "Coke"
+        },
+        {
+            "Community Name": "Tennyson",
+            "County": "Coke"
+        },
+        {
+            "Community Name": "Burkett",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Goldsboro",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Gouldbusk",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Leaday",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Rockwood",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Talpa",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Valera",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Voss",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Whon",
+            "County": "Coleman"
+        },
+        {
+            "Community Name": "Altoga",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Branch",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Copeville",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Culleoka",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Desert",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Frognot",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Pike",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Westminster",
+            "County": "Collin"
+        },
+        {
+            "Community Name": "Dozier",
+            "County": "Collingsworth"
+        },
+        {
+            "Community Name": "Quail",
+            "County": "Collingsworth"
+        },
+        {
+            "Community Name": "Samnorwood",
+            "County": "Collingsworth"
+        },
+        {
+            "Community Name": "Alleyton",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Altair",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Frelsburg",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Garwood",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Glidden",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Nada",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Oakland",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Rock Island",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Sheridan",
+            "County": "Colorado"
+        },
+        {
+            "Community Name": "Bracken",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Canyon City",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Canyon Lake",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Fischer",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Sattler",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Startzville",
+            "County": "Comal"
+        },
+        {
+            "Community Name": "Duster",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Energy",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Hasse",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Proctor",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Rucker",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Sidney",
+            "County": "Comanche"
+        },
+        {
+            "Community Name": "Eola",
+            "County": "Concho"
+        },
+        {
+            "Community Name": "Lowake",
+            "County": "Concho"
+        },
+        {
+            "Community Name": "Millersview",
+            "County": "Concho"
+        },
+        {
+            "Community Name": "Vick",
+            "County": "Concho"
+        },
+        {
+            "Community Name": "Bulcher",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Era",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Lake Kiowa",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Marysville",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Myra",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Rosston",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Sivells Bend",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Arnett",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Bee House",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Flat",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Fort Gates",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Fort Hood",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Jonesboro",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "King",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Leon Junction",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Mound",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Pancake",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Pearl",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Purmela",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "The Grove",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Topsey",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Turnersville[2]",
+            "County": "Coryell"
+        },
+        {
+            "Community Name": "Cee Vee",
+            "County": "Cottle"
+        },
+        {
+            "Community Name": "Narcisso",
+            "County": "Cottle"
+        },
+        {
+            "Community Name": "Tubbs Corner",
+            "County": "Crane"
+        },
+        {
+            "Community Name": "Emerald",
+            "County": "Crockett"
+        },
+        {
+            "Community Name": "Ozona",
+            "County": "Crockett"
+        },
+        {
+            "Community Name": "Cone",
+            "County": "Crosby"
+        },
+        {
+            "Community Name": "Kalgary",
+            "County": "Crosby"
+        },
+        {
+            "Community Name": "Kent",
+            "County": "Culberson"
+        },
+        {
+            "Community Name": "Kerrick",
+            "County": "Dallam"
+        },
+        {
+            "Community Name": "Perico",
+            "County": "Dallam"
+        },
+        {
+            "Community Name": "Sand Branch",
+            "County": "Dallas"
+        },
+        {
+            "Community Name": "Patricia",
+            "County": "Dawson"
+        },
+        {
+            "Community Name": "Welch",
+            "County": "Dawson"
+        },
+        {
+            "Community Name": "Klondike",
+            "County": "Dawson"
+        },
+        {
+            "Community Name": "Friendship",
+            "County": "Dawson"
+        },
+        {
+            "Community Name": "Bootleg",
+            "County": "Deaf Smith"
+        },
+        {
+            "Community Name": "Dawn",
+            "County": "Deaf Smith"
+        },
+        {
+            "Community Name": "Glenrio",
+            "County": "Deaf Smith"
+        },
+        {
+            "Community Name": "New Mexico",
+            "County": "Deaf Smith"
+        },
+        {
+            "Community Name": "Antioch",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Ben Franklin",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Charleston",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Enloe",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Klondike",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Lake Creek",
+            "County": "Delta"
+        },
+        {
+            "Community Name": "Bolivar",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Elizabethtown",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Lantana",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Navo",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Paloma Creek",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Paloma Creek South",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Savannah",
+            "County": "Denton"
+        },
+        {
+            "Community Name": "Hochheim",
+            "County": "DeWitt"
+        },
+        {
+            "Community Name": "Meyersville",
+            "County": "DeWitt"
+        },
+        {
+            "Community Name": "Pearl City",
+            "County": "DeWitt"
+        },
+        {
+            "Community Name": "Thomaston",
+            "County": "DeWitt"
+        },
+        {
+            "Community Name": "Westhoff",
+            "County": "DeWitt"
+        },
+        {
+            "Community Name": "Afton",
+            "County": "Dickens"
+        },
+        {
+            "Community Name": "McAdoo",
+            "County": "Dickens"
+        },
+        {
+            "Community Name": "Brundage",
+            "County": "Dimmit"
+        },
+        {
+            "Community Name": "Carrizo Hill",
+            "County": "Dimmit"
+        },
+        {
+            "Community Name": "Catarina",
+            "County": "Dimmit"
+        },
+        {
+            "Community Name": "Lelia Lake",
+            "County": "Donley"
+        },
+        {
+            "Community Name": "Concepcion",
+            "County": "Duval"
+        },
+        {
+            "Community Name": "Ramirez",
+            "County": "Duval"
+        },
+        {
+            "Community Name": "Realitos",
+            "County": "Duval"
+        },
+        {
+            "Community Name": "Rios",
+            "County": "Duval"
+        },
+        {
+            "Community Name": "Sejita",
+            "County": "Duval"
+        },
+        {
+            "Community Name": "Desdemona",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Mangum",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Morton Valley",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Okra",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Olden",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Romney",
+            "County": "Eastland"
+        },
+        {
+            "Community Name": "Notrees",
+            "County": "Ector"
+        },
+        {
+            "Community Name": "Penwell",
+            "County": "Ector"
+        },
+        {
+            "Community Name": "Pleasant Farms",
+            "County": "Ector"
+        },
+        {
+            "Community Name": "West Odessa",
+            "County": "Ector"
+        },
+        {
+            "Community Name": "Gardendale",
+            "County": "Ector"
+        },
+        {
+            "Community Name": "Barksdale",
+            "County": "Edwards"
+        },
+        {
+            "Community Name": "Carta Valley",
+            "County": "Edwards"
+        },
+        {
+            "Community Name": "Agua Dulce",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Butterfield",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Canutillo",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Fabens",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Fort Bliss",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Homestead Meadows North",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Homestead Meadows South",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Montana Vista",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Morning Glory",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Newman",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Prado Verde",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "San Elizario",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Sparks",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Tornillo",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Westway",
+            "County": "El Paso"
+        },
+        {
+            "Community Name": "Avalon",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Bristol",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Forreston",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Ike",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Rockett",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Telico",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Venus",
+            "County": "Ellis"
+        },
+        {
+            "Community Name": "Bluff Dale",
+            "County": "Erath"
+        },
+        {
+            "Community Name": "Huckabay",
+            "County": "Erath"
+        },
+        {
+            "Community Name": "Lingleville",
+            "County": "Erath"
+        },
+        {
+            "Community Name": "Morgan Mill",
+            "County": "Erath"
+        },
+        {
+            "Community Name": "Thurber",
+            "County": "Erath"
+        },
+        {
+            "Community Name": "Barclay",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Cedar Springs",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Cego",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Chilton",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Durango",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Highbank",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Otto",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Perry",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Reagan",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Satin",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Tomlinson Hill",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Westphalia",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Wilderville",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Zipperlandville",
+            "County": "Falls"
+        },
+        {
+            "Community Name": "Gober",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Ivanhoe",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Lannius",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Randolph",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Telephone",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Warren",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Elwood",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Ammannsville",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Black Jack Springs",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Bluff",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Cistern",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Dubina",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Ellinger",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Engle",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Freyburg",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "High Hill",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Holman",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Hostyn",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Kirtley",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Ledbetter",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Muldoon",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Mullins Prairie",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Nechanitz",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Oldenburg",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "O'Quinn",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Park",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Plum",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Praha",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Rabbs Prairie",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Rek Hill",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Roznov",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Rutersville",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "St. John",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Swiss Alp",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Waldeck",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Walhalla",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Warda",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "Warrenton",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "West Point",
+            "County": "Fayette"
+        },
+        {
+            "Community Name": "McCaulley",
+            "County": "Fisher"
+        },
+        {
+            "Community Name": "Sylvester",
+            "County": "Fisher"
+        },
+        {
+            "Community Name": "South Plains",
+            "County": "Floyd"
+        },
+        {
+            "Community Name": "Dougherty",
+            "County": "Floyd"
+        },
+        {
+            "Community Name": "McCoy",
+            "County": "Floyd"
+        },
+        {
+            "Community Name": "Aiken",
+            "County": "Floyd"
+        },
+        {
+            "Community Name": "Thalia",
+            "County": "Foard"
+        },
+        {
+            "Community Name": "Booth",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Cinco Ranch",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Clodine",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Cumings",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "DeWalt",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Fifth Street",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Foster",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Four Corners",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Fresno",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Greatwood",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Guy",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Long Point",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Mission Bend",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "New Territory",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Pecan Grove",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Pittsville",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Powell Point",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Sienna Plantation",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Tavener",
+            "County": "Fort Bend"
+        },
+        {
+            "Community Name": "Scroggins",
+            "County": "Franklin"
+        },
+        {
+            "Community Name": "Butler",
+            "County": "Freestone"
+        },
+        {
+            "Community Name": "Coutchman",
+            "County": "Freestone"
+        },
+        {
+            "Community Name": "Dew",
+            "County": "Freestone"
+        },
+        {
+            "Community Name": "Donie",
+            "County": "Freestone"
+        },
+        {
+            "Community Name": "Bigfoot",
+            "County": "Frio"
+        },
+        {
+            "Community Name": "Frio Town",
+            "County": "Frio"
+        },
+        {
+            "Community Name": "Moore",
+            "County": "Frio"
+        },
+        {
+            "Community Name": "North Pearsall",
+            "County": "Frio"
+        },
+        {
+            "Community Name": "Hilltop",
+            "County": "Frio"
+        },
+        {
+            "Community Name": "Loop",
+            "County": "Gaines"
+        },
+        {
+            "Community Name": "Algoa",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Alta Loma",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Bacliff",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Bayview",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Bolivar Peninsula",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Caplen",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Gilchrist",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "High Island",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "San Leon",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Arcadia",
+            "County": "Galveston"
+        },
+        {
+            "Community Name": "Close City",
+            "County": "Garza"
+        },
+        {
+            "Community Name": "Justiceburg",
+            "County": "Garza"
+        },
+        {
+            "Community Name": "Southland",
+            "County": "Garza"
+        },
+        {
+            "Community Name": "Doss",
+            "County": "Gillespie"
+        },
+        {
+            "Community Name": "Harper",
+            "County": "Gillespie"
+        },
+        {
+            "Community Name": "Luckenbach",
+            "County": "Gillespie"
+        },
+        {
+            "Community Name": "Garden City",
+            "County": "Glasscock"
+        },
+        {
+            "Community Name": "Saint Lawrence",
+            "County": "Glasscock"
+        },
+        {
+            "Community Name": "Berclair",
+            "County": "Goliad"
+        },
+        {
+            "Community Name": "Fannin",
+            "County": "Goliad"
+        },
+        {
+            "Community Name": "Weesatche",
+            "County": "Goliad"
+        },
+        {
+            "Community Name": "Bebe",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Belmont",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Cost",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Harwood",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Leesville",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Ottine",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Wrightsboro",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Thompsonville",
+            "County": "Gonzales"
+        },
+        {
+            "Community Name": "Alanreed",
+            "County": "Gray"
+        },
+        {
+            "Community Name": "Back, Texas",
+            "County": "Gray"
+        },
+        {
+            "Community Name": "Ambrose",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Bugtussle",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Gordonville",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Luella",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Preston",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Sherwood Shores",
+            "County": "Grayson"
+        },
+        {
+            "Community Name": "Elderville",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Judson",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Lake Cherokee",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Liberty City",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Shiloh",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Spring Hillannexed byLongview",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Courtney",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Iola",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Danville",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Pine Tree",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Plantersville",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Richards",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Roans Prairie",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Sabine",
+            "County": "Gregg"
+        },
+        {
+            "Community Name": "Shiro",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Singleton",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Stoneham",
+            "County": "Grimes"
+        },
+        {
+            "Community Name": "Geronimo",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Lake Dunlap",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "McQueeney",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Northcliff",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Redwood",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Zuehl",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Sweet Home",
+            "County": "Guadalupe"
+        },
+        {
+            "Community Name": "Cotton Center",
+            "County": "Hale"
+        },
+        {
+            "Community Name": "Seth Ward",
+            "County": "Hale"
+        },
+        {
+            "Community Name": "Carlton",
+            "County": "Hamilton"
+        },
+        {
+            "Community Name": "Fairy",
+            "County": "Hamilton"
+        },
+        {
+            "Community Name": "Jonesboro",
+            "County": "Hamilton"
+        },
+        {
+            "Community Name": "McGirk",
+            "County": "Hamilton"
+        },
+        {
+            "Community Name": "Pottsville",
+            "County": "Hamilton"
+        },
+        {
+            "Community Name": "Morse",
+            "County": "Hansford"
+        },
+        {
+            "Community Name": "Batson",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Bragg",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Honey Island",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Pinewood Estates",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Saratoga",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Thicket",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Village Mills",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Votaw",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Wildwood",
+            "County": "Hardin"
+        },
+        {
+            "Community Name": "Aldine",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Atascocita",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Bammel",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Barker",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Barrett",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Beaumont Place",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Bridgeland Community",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Cedar Bayou",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Champion Forest",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Channelview",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Cinco Ranch",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Cloverleaf",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Crosby",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Cypress",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Dyersdale",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Highlands",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Hockley",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Houmont Park",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Hufsmith",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Kinwood",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Klein",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Kleinbrook",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Kohrville",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Louetta",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Lynchburg",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "McNair",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Mission Bend",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "North Houston",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Northcliffe",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Northcliffe Manor",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Remington Ranch",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Satsuma",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Sheldon",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Spring",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "The Woodlands",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Timber Meadows",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Traces",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Westfield",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Rose Hill",
+            "County": "Harris"
+        },
+        {
+            "Community Name": "Elysian Fields",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Gill",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Harleton",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Jonesville",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Karnack",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Woodlawn",
+            "County": "Harrison"
+        },
+        {
+            "Community Name": "Hartley",
+            "County": "Hartley"
+        },
+        {
+            "Community Name": "Paint Creek",
+            "County": "Haskell"
+        },
+        {
+            "Community Name": "Sagerton",
+            "County": "Haskell"
+        },
+        {
+            "Community Name": "Driftwood",
+            "County": "Hays"
+        },
+        {
+            "Community Name": "Goforth",
+            "County": "Hays"
+        },
+        {
+            "Community Name": "Glazier",
+            "County": "Hemphill"
+        },
+        {
+            "Community Name": "Cross Roads",
+            "County": "Henderson"
+        },
+        {
+            "Community Name": "LaRue",
+            "County": "Henderson"
+        },
+        {
+            "Community Name": "Latex",
+            "County": "Henderson"
+        },
+        {
+            "Community Name": "New York",
+            "County": "Henderson"
+        },
+        {
+            "Community Name": "Tool",
+            "County": "Henderson"
+        },
+        {
+            "Community Name": "Abram",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Alton North",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Cesar Chavez",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Citrus City",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Cuevitas",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Doffing",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Doolittle",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "El Gato",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Faysville",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Hargill",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Havana",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Heidelberg",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Indian Hills",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "La Blanca",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "La Homa",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Laguna Seca",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Linn",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Llano Grande",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Lopezville",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Midway North",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Midway South",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Mila Doce",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Monte Alto",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Muniz",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Murillo",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "North Alamo",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Olivarez",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Palmview South",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Perezville",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Relampago",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Runn",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "San Carlos",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Scissors",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "South Alamo",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Villa Verde",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "West Sharyland",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Los Ebanos",
+            "County": "Hidalgo"
+        },
+        {
+            "Community Name": "Birome",
+            "County": "Hill"
+        },
+        {
+            "Community Name": "Brandon",
+            "County": "Hill"
+        },
+        {
+            "Community Name": "Irene",
+            "County": "Hill"
+        },
+        {
+            "Community Name": "Pep",
+            "County": "Hockley"
+        },
+        {
+            "Community Name": "Whitharral",
+            "County": "Hockley"
+        },
+        {
+            "Community Name": "Acton",
+            "County": "Hood"
+        },
+        {
+            "Community Name": "Canyon Creek",
+            "County": "Hood"
+        },
+        {
+            "Community Name": "Oak Trail Shores",
+            "County": "Hood"
+        },
+        {
+            "Community Name": "Paluxy",
+            "County": "Hood"
+        },
+        {
+            "Community Name": "Pecan Plantation",
+            "County": "Hood"
+        },
+        {
+            "Community Name": "Brashear",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Dike",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Gafford",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Pickton",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Pine Forest",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Saltillo",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Sulphur Bluff",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Who'd Thought It",
+            "County": "Hopkins"
+        },
+        {
+            "Community Name": "Austonio",
+            "County": "Houston"
+        },
+        {
+            "Community Name": "Pennington",
+            "County": "Houston"
+        },
+        {
+            "Community Name": "Ratcliff",
+            "County": "Houston"
+        },
+        {
+            "Community Name": "Elbow",
+            "County": "Howard"
+        },
+        {
+            "Community Name": "Knott",
+            "County": "Howard"
+        },
+        {
+            "Community Name": "Sand Springs",
+            "County": "Howard"
+        },
+        {
+            "Community Name": "Vealmoor",
+            "County": "Howard"
+        },
+        {
+            "Community Name": "Allamoore",
+            "County": "Hudspeth"
+        },
+        {
+            "Community Name": "Cornudas",
+            "County": "Hudspeth"
+        },
+        {
+            "Community Name": "Fort Hancock",
+            "County": "Hudspeth"
+        },
+        {
+            "Community Name": "Salt Flat",
+            "County": "Hudspeth"
+        },
+        {
+            "Community Name": "Sierra Blanca",
+            "County": "Hudspeth"
+        },
+        {
+            "Community Name": "Cash",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Clinton",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Fairlie",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Floyd",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Hogeye",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Jacobia",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Kingston",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Merit",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Wagner",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Wieland",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Hunt"
+        },
+        {
+            "Community Name": "Lake Meredith Estates",
+            "County": "Hutchinson"
+        },
+        {
+            "Community Name": "Phillips",
+            "County": "Hutchinson"
+        },
+        {
+            "Community Name": "Plemons",
+            "County": "Hutchinson"
+        },
+        {
+            "Community Name": "Pringle",
+            "County": "Hutchinson"
+        },
+        {
+            "Community Name": "Whittenburg",
+            "County": "Hutchinson"
+        },
+        {
+            "Community Name": "Barnhart",
+            "County": "Irion"
+        },
+        {
+            "Community Name": "Sherwood",
+            "County": "Irion"
+        },
+        {
+            "Community Name": "Antelope",
+            "County": "Jack"
+        },
+        {
+            "Community Name": "Jermyn",
+            "County": "Jack"
+        },
+        {
+            "Community Name": "Joplin",
+            "County": "Jack"
+        },
+        {
+            "Community Name": "Perrin",
+            "County": "Jack"
+        },
+        {
+            "Community Name": "Francitas",
+            "County": "Jackson"
+        },
+        {
+            "Community Name": "La Salle",
+            "County": "Jackson"
+        },
+        {
+            "Community Name": "Lolita",
+            "County": "Jackson"
+        },
+        {
+            "Community Name": "Vanderbilt",
+            "County": "Jackson"
+        },
+        {
+            "Community Name": "Beans",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Bessmay",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Bon Ami",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Brookeland",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Buna",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Ebenezer",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Erin",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Evadale",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Magnolia Springs",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Roganville",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Sam Rayburn",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Zeirath",
+            "County": "Jasper"
+        },
+        {
+            "Community Name": "Fort Davis",
+            "County": "Jeff Davis"
+        },
+        {
+            "Community Name": "Central Gardens",
+            "County": "Jefferson"
+        },
+        {
+            "Community Name": "Fannett",
+            "County": "Jefferson"
+        },
+        {
+            "Community Name": "Hamshire",
+            "County": "Jefferson"
+        },
+        {
+            "Community Name": "LaBelle",
+            "County": "Jefferson"
+        },
+        {
+            "Community Name": "Sabine Pass",
+            "County": "Jefferson"
+        },
+        {
+            "Community Name": "Agua Nueva",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Guerra",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Hebbronville",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Las Lomitas",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Randado",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "South Fork Estates",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Thompsonville",
+            "County": "Jim Hogg"
+        },
+        {
+            "Community Name": "Alfred",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Alice Acres",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Amargosa",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Ben Bolt",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Bentonville",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Coyote Acres",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "K-Bar Ranch",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Owl Ranch",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Palito Blanco",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Rancho Alegre",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Rancho de la Parita",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Sandia",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "South La Paloma",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Westdale",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Casa Blanca",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "La Gloria",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Loma Linda East",
+            "County": "Jim Wells"
+        },
+        {
+            "Community Name": "Bono",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Egan",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Lillian",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Marystown",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Parker",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Johnson",
+            "County": "Johnson"
+        },
+        {
+            "Community Name": "Avoca",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Corinth",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Noodle",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Nugent",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Radium",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Tuxedo",
+            "County": "Jones"
+        },
+        {
+            "Community Name": "Cestohowa",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Ecleto",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Gillett",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Helena",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Hobson",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Panna Maria",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Wintergreen",
+            "County": "Karnes"
+        },
+        {
+            "Community Name": "Ables Springs",
+            "County": "Kaufman"
+        },
+        {
+            "Community Name": "Elmo",
+            "County": "Kaufman"
+        },
+        {
+            "Community Name": "Poetry",
+            "County": "Kaufman"
+        },
+        {
+            "Community Name": "Travis Ranch",
+            "County": "Kaufman"
+        },
+        {
+            "Community Name": "McCoy",
+            "County": "Kaufman"
+        },
+        {
+            "Community Name": "Bergheim",
+            "County": "Kendall"
+        },
+        {
+            "Community Name": "Comfort",
+            "County": "Kendall"
+        },
+        {
+            "Community Name": "Kendalia",
+            "County": "Kendall"
+        },
+        {
+            "Community Name": "Sisterdale",
+            "County": "Kendall"
+        },
+        {
+            "Community Name": "Waring",
+            "County": "Kendall"
+        },
+        {
+            "Community Name": "Armstrong",
+            "County": "Kenedy"
+        },
+        {
+            "Community Name": "Sarita",
+            "County": "Kenedy"
+        },
+        {
+            "Community Name": "Clairemont",
+            "County": "Kent"
+        },
+        {
+            "Community Name": "Girard",
+            "County": "Kent"
+        },
+        {
+            "Community Name": "Camp Verde",
+            "County": "Kerr"
+        },
+        {
+            "Community Name": "Center Point",
+            "County": "Kerr"
+        },
+        {
+            "Community Name": "Hunt",
+            "County": "Kerr"
+        },
+        {
+            "Community Name": "Mountain Home",
+            "County": "Kerr"
+        },
+        {
+            "Community Name": "London",
+            "County": "Kimble"
+        },
+        {
+            "Community Name": "Telegraph",
+            "County": "Kimble"
+        },
+        {
+            "Community Name": "Roosevelt",
+            "County": "Kimble"
+        },
+        {
+            "Community Name": "Dumont",
+            "County": "King"
+        },
+        {
+            "Community Name": "Finney",
+            "County": "King"
+        },
+        {
+            "Community Name": "Grow",
+            "County": "King"
+        },
+        {
+            "Community Name": "Guthrie",
+            "County": "King"
+        },
+        {
+            "Community Name": "Fort Clark Springs",
+            "County": "Kinney"
+        },
+        {
+            "Community Name": "Loyola Beach",
+            "County": "Kleberg"
+        },
+        {
+            "Community Name": "Ricardo",
+            "County": "Kleberg"
+        },
+        {
+            "Community Name": "Riviera",
+            "County": "Kleberg"
+        },
+        {
+            "Community Name": "Vattman",
+            "County": "Kleberg"
+        },
+        {
+            "Community Name": "Rhineland",
+            "County": "Knox"
+        },
+        {
+            "Community Name": "Truscott",
+            "County": "Knox"
+        },
+        {
+            "Community Name": "Artesia Wells",
+            "County": "La Salle"
+        },
+        {
+            "Community Name": "Fowlerton",
+            "County": "La Salle"
+        },
+        {
+            "Community Name": "Gardendale",
+            "County": "La Salle"
+        },
+        {
+            "Community Name": "Los Angeles",
+            "County": "La Salle"
+        },
+        {
+            "Community Name": "Arthur City",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Brookston",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Chicota",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Cunningham",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "High",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Midcity",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Pattonville",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Petty",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Powderly",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Sumner",
+            "County": "Lamar"
+        },
+        {
+            "Community Name": "Earth",
+            "County": "Lamb"
+        },
+        {
+            "Community Name": "Fieldton",
+            "County": "Lamb"
+        },
+        {
+            "Community Name": "Spade",
+            "County": "Lamb"
+        },
+        {
+            "Community Name": "Bend",
+            "County": "Lampasas"
+        },
+        {
+            "Community Name": "Izoro",
+            "County": "Lampasas"
+        },
+        {
+            "Community Name": "Speaks",
+            "County": "Lavaca"
+        },
+        {
+            "Community Name": "Sublime",
+            "County": "Lavaca"
+        },
+        {
+            "Community Name": "Sweet Home",
+            "County": "Lavaca"
+        },
+        {
+            "Community Name": "Blue",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Dime Box",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Hills",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Lincoln",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Serbin",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Sweet Home",
+            "County": "Lee"
+        },
+        {
+            "Community Name": "Flynn",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Hilltop Lakes",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Keechi",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Friendship",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Egypt",
+            "County": "Leon"
+        },
+        {
+            "Community Name": "Big Thicket Lake Estates",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Dolen",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Hightower",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Hoop and Holler",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Hull",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Moss Bluff",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Moss Hill",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Rayburn",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Raywood",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Romayor",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Rye",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Stilson",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Tarkington Prairie",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Liberty"
+        },
+        {
+            "Community Name": "Ben Hur",
+            "County": "Limestone"
+        },
+        {
+            "Community Name": "Fair Oaks",
+            "County": "Limestone"
+        },
+        {
+            "Community Name": "Forest Glade",
+            "County": "Limestone"
+        },
+        {
+            "Community Name": "Prairie Hill",
+            "County": "Limestone"
+        },
+        {
+            "Community Name": "Lipscomb",
+            "County": "Lipscomb"
+        },
+        {
+            "Community Name": "Dinero",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Lebanon",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Oakville",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Pernitas Point[6]",
+            "County": "Live OakandJim Wells"
+        },
+        {
+            "Community Name": "Ray Point",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Swinney Switch",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Whitsett",
+            "County": "Live Oak"
+        },
+        {
+            "Community Name": "Bluffton",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Buchanan Dam",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Buchanan Lake Village",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Castell",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Kingsland",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Tow",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Valley Spring",
+            "County": "Llano"
+        },
+        {
+            "Community Name": "Mentone",
+            "County": "Loving"
+        },
+        {
+            "Community Name": "Porterville",
+            "County": "Loving"
+        },
+        {
+            "Community Name": "Acuff",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Heckville",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Reese Center",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Roosevelt",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Slide",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Woodrow",
+            "County": "Lubbock"
+        },
+        {
+            "Community Name": "Grassland",
+            "County": "Lynn"
+        },
+        {
+            "Community Name": "Wayside",
+            "County": "Lynn"
+        },
+        {
+            "Community Name": "North Zulch",
+            "County": "Madison"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Madison"
+        },
+        {
+            "Community Name": "Elwood",
+            "County": "Madison"
+        },
+        {
+            "Community Name": "Lodi",
+            "County": "Marion"
+        },
+        {
+            "Community Name": "Pine Harbor",
+            "County": "Marion"
+        },
+        {
+            "Community Name": "Smithland",
+            "County": "Marion"
+        },
+        {
+            "Community Name": "Lenorah",
+            "County": "Martin"
+        },
+        {
+            "Community Name": "Tarzan",
+            "County": "Martin"
+        },
+        {
+            "Community Name": "Art",
+            "County": "Mason"
+        },
+        {
+            "Community Name": "Fredonia",
+            "County": "Mason"
+        },
+        {
+            "Community Name": "Loyal Valley",
+            "County": "Mason"
+        },
+        {
+            "Community Name": "Katemcy",
+            "County": "Mason"
+        },
+        {
+            "Community Name": "Pontotoc",
+            "County": "Mason"
+        },
+        {
+            "Community Name": "Allenhurst",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Blessing",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Caney",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Cedar Lake",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Cedar Lane",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Clemville",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Collegeport",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Elmaton",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Hawkinsville",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Markham",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Matagorda",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Midfield",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Pledger",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Sargent",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Van Vleck",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Wadsworth",
+            "County": "Matagorda"
+        },
+        {
+            "Community Name": "Eidson Road",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "El Indio",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Elm Creek",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Fabrica",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Las Quintas Fronterizas",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Quemado",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Radar Base",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Rosita",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Seco Mines",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Siesta Acres",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Chula Vista",
+            "County": "Maverick"
+        },
+        {
+            "Community Name": "Doole",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Fife",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Lohn",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Mercury",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Pear Valley",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Rochelle",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Voca",
+            "County": "McCulloch"
+        },
+        {
+            "Community Name": "Axtell",
+            "County": "McLennan"
+        },
+        {
+            "Community Name": "China Spring",
+            "County": "McLennan"
+        },
+        {
+            "Community Name": "Elm Mott",
+            "County": "McLennan"
+        },
+        {
+            "Community Name": "Ocee",
+            "County": "McLennan"
+        },
+        {
+            "Community Name": "Calliham",
+            "County": "McMullen"
+        },
+        {
+            "Community Name": "Tilden",
+            "County": "McMullen"
+        },
+        {
+            "Community Name": "D'Hanis",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Dunlay",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Lake Medina Shores",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Mico",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Pearson",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Rio Medina",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Yancey",
+            "County": "Medina"
+        },
+        {
+            "Community Name": "Beyer Crossing",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Callan",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Fort McKavett",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Hext",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Saline",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Sunnyside",
+            "County": "Menard"
+        },
+        {
+            "Community Name": "Greenwood",
+            "County": "Midland"
+        },
+        {
+            "Community Name": "Ben Arnold",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Burlington",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Cummins Crossing",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Davilla",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Elevation",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Gause",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Maysfield",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Salty",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "San Gabriel",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Val Verde",
+            "County": "Milam"
+        },
+        {
+            "Community Name": "Priddy",
+            "County": "Mills"
+        },
+        {
+            "Community Name": "Star",
+            "County": "Mills"
+        },
+        {
+            "Community Name": "Lake Colorado City",
+            "County": "Mitchell"
+        },
+        {
+            "Community Name": "Belcherville",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Bonita",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Capps Corner",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Forestburg",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Illinois Bend",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Montague",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Nocona Hills",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Red River Station",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Ringgold",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Spanish Fort",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Stoneburg",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Sunset",
+            "County": "Montague"
+        },
+        {
+            "Community Name": "Chateau Woods",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Dobbin",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Grangerland",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Imperial Oaks",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Pinehurst",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Porter",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Porter Heights",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Tamina",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "The Woodlands",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Egypt",
+            "County": "Montgomery"
+        },
+        {
+            "Community Name": "Masterson",
+            "County": "Moore"
+        },
+        {
+            "Community Name": "Cason",
+            "County": "Morris"
+        },
+        {
+            "Community Name": "Flomot",
+            "County": "Motley"
+        },
+        {
+            "Community Name": "Northfield",
+            "County": "Motley"
+        },
+        {
+            "Community Name": "Tee Pee City",
+            "County": "Motley"
+        },
+        {
+            "Community Name": "Douglass",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Etoile",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Martinsville",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Redfield",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Sacul",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Woden",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Chatfield",
+            "County": "Navarro"
+        },
+        {
+            "Community Name": "Goodnight",
+            "County": "Navarro"
+        },
+        {
+            "Community Name": "Purdon",
+            "County": "Navarro"
+        },
+        {
+            "Community Name": "Biloxi",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Bon Wier",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Call",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Deweyville",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Princeton",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "South Toledo Bend",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Trotti",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Wiergate",
+            "County": "Newton"
+        },
+        {
+            "Community Name": "Bitter Creek",
+            "County": "Nolan"
+        },
+        {
+            "Community Name": "Maryneal",
+            "County": "Nolan"
+        },
+        {
+            "Community Name": "Nolan",
+            "County": "Nolan"
+        },
+        {
+            "Community Name": "Banquete",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Chapman Ranch",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "La Paloma-Lost Creek",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "North San Pedro",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Rabb",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Rancho Banquete",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Sandy Hollow-Escondidas",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Spring Gardens",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Tierra Grande",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Tierra Verde",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Violet",
+            "County": "Nueces"
+        },
+        {
+            "Community Name": "Farnsworth",
+            "County": "Ochiltree"
+        },
+        {
+            "Community Name": "Waka",
+            "County": "Ochiltree"
+        },
+        {
+            "Community Name": "Boise",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Boys Ranch",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Gruhlkey",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Herring",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Landergin",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Magenta",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Tascosa",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Trujillo",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Wildorado",
+            "County": "Oldham"
+        },
+        {
+            "Community Name": "Forest Heights",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Lemonville",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Little Cypress",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Mauriceville",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Orangefield",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Texla",
+            "County": "Orange"
+        },
+        {
+            "Community Name": "Brazos",
+            "County": "Palo Pinto"
+        },
+        {
+            "Community Name": "Lone Camp",
+            "County": "Palo Pinto"
+        },
+        {
+            "Community Name": "Oran",
+            "County": "Palo Pinto"
+        },
+        {
+            "Community Name": "Palo Pinto",
+            "County": "Palo Pinto"
+        },
+        {
+            "Community Name": "Santo",
+            "County": "Palo Pinto"
+        },
+        {
+            "Community Name": "Clayton",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Deadwood",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "DeBerry",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Galloway",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Long Branch",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Mineral Springs",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Murvaul",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Panola",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "McCoy",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Briar",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Brock",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Dennis",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Garner",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Horseshoe Bend",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Peaster",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Poolville",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Western Lake",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Whitt",
+            "County": "Parker"
+        },
+        {
+            "Community Name": "Black",
+            "County": "Parmer"
+        },
+        {
+            "Community Name": "Lazbuddie",
+            "County": "Parmer"
+        },
+        {
+            "Community Name": "Bakersfield",
+            "County": "Pecos"
+        },
+        {
+            "Community Name": "Coyanosa",
+            "County": "Pecos"
+        },
+        {
+            "Community Name": "Girvin",
+            "County": "Pecos"
+        },
+        {
+            "Community Name": "Imperial",
+            "County": "Pecos"
+        },
+        {
+            "Community Name": "Sheffield",
+            "County": "Pecos"
+        },
+        {
+            "Community Name": "Ace",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Barnum",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Big Thicket Lake Estates",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Blanchard",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Camden",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Cedar Point",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Dallardsville",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Indian Springs",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Laurelia",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Leggett",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Moscow",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Pleasant Hill",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Segno",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "West Livingston",
+            "County": "Polk"
+        },
+        {
+            "Community Name": "Bushland",
+            "County": "Potter"
+        },
+        {
+            "Community Name": "Candelaria",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Chinati",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Plata",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Redford",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Ruidosa",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Shafter",
+            "County": "Presidio"
+        },
+        {
+            "Community Name": "Dougherty",
+            "County": "Rains"
+        },
+        {
+            "Community Name": "Umbarger",
+            "County": "Randall"
+        },
+        {
+            "Community Name": "Best",
+            "County": "Reagan"
+        },
+        {
+            "Community Name": "Stiles",
+            "County": "Reagan"
+        },
+        {
+            "Community Name": "Texon",
+            "County": "Reagan"
+        },
+        {
+            "Community Name": "Rio Frio",
+            "County": "Real"
+        },
+        {
+            "Community Name": "Bagwell",
+            "County": "Red River"
+        },
+        {
+            "Community Name": "Maple",
+            "County": "Red River"
+        },
+        {
+            "Community Name": "McCoy",
+            "County": "Red River"
+        },
+        {
+            "Community Name": "Lindsay",
+            "County": "Reeves"
+        },
+        {
+            "Community Name": "Saragosa",
+            "County": "Reeves"
+        },
+        {
+            "Community Name": "Toyahvale",
+            "County": "Reeves"
+        },
+        {
+            "Community Name": "Verhalen",
+            "County": "Reeves"
+        },
+        {
+            "Community Name": "Tivoli",
+            "County": "Refugio"
+        },
+        {
+            "Community Name": "Wayside",
+            "County": "Roberts"
+        },
+        {
+            "Community Name": "Black Jack",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Easterly",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Hammond",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Mumford",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "New Baden",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Ridge",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Tidwell Prairie",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Wheelock",
+            "County": "Robertson"
+        },
+        {
+            "Community Name": "Marie",
+            "County": "Runnels"
+        },
+        {
+            "Community Name": "Maverick",
+            "County": "Runnels"
+        },
+        {
+            "Community Name": "Norton",
+            "County": "Runnels"
+        },
+        {
+            "Community Name": "Rowena",
+            "County": "Runnels"
+        },
+        {
+            "Community Name": "Wingate",
+            "County": "Runnels"
+        },
+        {
+            "Community Name": "Concord",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Joinerville",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Laird Hill",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Lake Cherokee",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Laneville",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Leverett's Chapel",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Price",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Selman City",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Turnertown",
+            "County": "Rusk"
+        },
+        {
+            "Community Name": "Bronson",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Brookeland",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Fairmount",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Geneva",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Isla",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Milam",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Rosevine",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Sexton",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Yellowpine",
+            "County": "Sabine"
+        },
+        {
+            "Community Name": "Cape Royale",
+            "County": "San Jacinto"
+        },
+        {
+            "Community Name": "Oakhurst",
+            "County": "San Jacinto"
+        },
+        {
+            "Community Name": "Rose Hill",
+            "County": "San Jacinto"
+        },
+        {
+            "Community Name": "Country Acres",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Del Sol",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Doyle",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Edgewater Estates",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Edroy",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Falman",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "La Paloma Addition",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Lakeshore Gardens-Hidden Acres",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Loma Linda",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Morgan Farm",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Paisano Park",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Rancho Chico",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "St. Paul",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Taft Southwest",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Tradewinds",
+            "County": "San Patricio"
+        },
+        {
+            "Community Name": "Bend",
+            "County": "San Saba"
+        },
+        {
+            "Community Name": "Cherokee",
+            "County": "San Saba"
+        },
+        {
+            "Community Name": "Adams",
+            "County": "Schleicher"
+        },
+        {
+            "Community Name": "Hulldale",
+            "County": "Schleicher"
+        },
+        {
+            "Community Name": "Dermott",
+            "County": "Scurry"
+        },
+        {
+            "Community Name": "Dunn",
+            "County": "Scurry"
+        },
+        {
+            "Community Name": "Fluvanna",
+            "County": "Scurry"
+        },
+        {
+            "Community Name": "Hermleigh",
+            "County": "Scurry"
+        },
+        {
+            "Community Name": "Ira",
+            "County": "Scurry"
+        },
+        {
+            "Community Name": "Aiken",
+            "County": "Shelby"
+        },
+        {
+            "Community Name": "Arcadia",
+            "County": "Shelby"
+        },
+        {
+            "Community Name": "Dreka",
+            "County": "Shelby"
+        },
+        {
+            "Community Name": "Shelbyville",
+            "County": "Shelby"
+        },
+        {
+            "Community Name": "New Harmony",
+            "County": "Shelby"
+        },
+        {
+            "Community Name": "Bascom",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Dogwood City",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Emerald Bay",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Flint",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Gresham",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Mount Sylvan",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "New Harmony",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "New Hope",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Owentown",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Red Springs",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Starrville",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Swan",
+            "County": "Smith"
+        },
+        {
+            "Community Name": "Cottonwood",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "George\u00e2\u20ac\u2122s Creek",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Glass",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Nemo",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Rainbow",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Rock Creek",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Wilcox",
+            "County": "Somervell"
+        },
+        {
+            "Community Name": "Airport Heights",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Alto Bonito Heights",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Amada Acres",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Anacua",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "B and E",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Barrera",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Benjamin Perez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Buena Vista",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Camargito",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Campo Verde",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Casa Blanca",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Casas",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Chaparrito",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Chapeno",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Delmita",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "East Alto Bonito",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "East Lopez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Brazil",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Castillo",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Cenizo",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Chaparral",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Mesquite",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Quiote",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Rancho Vela",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Refugio",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "El Socio",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Elias-Fela Solis",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Escobar I",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Eugenio Saenz",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Evergreen",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Falcon Heights",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Falcon Village",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Falconaire",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Fernando Salinas",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Flor del Rio",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Fronton",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Fronton Ranchettes",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Garceno",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Garciasville",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Garza-Salinas II",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Guadalupe-Guerra",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Gutierrez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "H. Cuellar Estates",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Hilltop",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Indio",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Jardin de San Julian",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "JF Villarreal",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Carla",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Casita",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Chuparosa",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Escondida",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Esperanza",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Gloria",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Loma de Falcon",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Minita",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Paloma Ranchettes",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Puerta",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Reforma",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Rosita",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "La Victoria",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Lago Vista",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Las Lomas",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Loma Linda East",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Loma Linda West",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Longoria",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Los Alvarez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Los Arrieros",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Los Barreras",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Los Ebanos",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Manuel Garcia",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Manuel Garcia II",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Martinez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Mesquite",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Mi Ranchito Estate",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Miguel Barrera",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Mikes",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Moraida",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Narciso Pena",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Netos",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Nina",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "North Escobares",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Northridge",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Old Escobares",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Olivia Lopez de Gutierrez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Olmito and Olmito",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Pablo Pena",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Palo Blanco",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Pena",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Quesada",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Rafael Pena",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Ramirez-Perez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Ramos",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Ranchitos del Norte",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Rancho Viejo",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Regino Ramirez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Rivera",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Rivereno",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Roma Creek",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Saline\u00c3\u00b1o",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Saline\u00c3\u00b1o North",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Sammy Martinez",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "San Fernando",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "San Isidro",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "San Juan",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Sandoval",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santa Anna",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santa Catarina",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santa Cruz",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santa Elena",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santa Rosa",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Santel",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Sunset",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Tierra Dorada",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Valle Hermoso",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Valle Vista",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Victoria Vera",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Villarreal",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "West Alto Bonito",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Zarate",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Loma Vista",
+            "County": "Starr"
+        },
+        {
+            "Community Name": "Caddo",
+            "County": "Stephens"
+        },
+        {
+            "Community Name": "La Casa",
+            "County": "Stephens"
+        },
+        {
+            "Community Name": "Broome",
+            "County": "Sterling"
+        },
+        {
+            "Community Name": "Old Glory",
+            "County": "Stonewall"
+        },
+        {
+            "Community Name": "Peacock",
+            "County": "Stonewall"
+        },
+        {
+            "Community Name": "Rath City",
+            "County": "Stonewall"
+        },
+        {
+            "Community Name": "Swenson",
+            "County": "Stonewall"
+        },
+        {
+            "Community Name": "Happy",
+            "County": "Swisher"
+        },
+        {
+            "Community Name": "Vigo Park",
+            "County": "Swisher"
+        },
+        {
+            "Community Name": "Eagle Mountain",
+            "County": "Tarrant"
+        },
+        {
+            "Community Name": "Pecan Acres",
+            "County": "Tarrant"
+        },
+        {
+            "Community Name": "Rendon",
+            "County": "Tarrant"
+        },
+        {
+            "Community Name": "Briar",
+            "County": "Tarrant"
+        },
+        {
+            "Community Name": "Caps",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "Hamby",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "Ovalo",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "Potosi",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "View",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "Wylie",
+            "County": "Taylor"
+        },
+        {
+            "Community Name": "Dryden",
+            "County": "Terrell"
+        },
+        {
+            "Community Name": "Sanderson",
+            "County": "Terrell"
+        },
+        {
+            "Community Name": "Needmore",
+            "County": "Terry"
+        },
+        {
+            "Community Name": "Tokio",
+            "County": "Terry"
+        },
+        {
+            "Community Name": "Elbert",
+            "County": "Throckmorton"
+        },
+        {
+            "Community Name": "Cookville",
+            "County": "Titus"
+        },
+        {
+            "Community Name": "Ben Ficklin",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Carlsbad",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Christoval",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Grape Creek",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Harriett",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Knickerbocker",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Mereta",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Orient",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Tankersley",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Vancourt",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Veribest",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Wall",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Water Valley",
+            "County": "Tom Green"
+        },
+        {
+            "Community Name": "Anderson Mill",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Barton Creek",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Del Valle",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Garfield",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Hornsby Bend",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Hudson Bend",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Jollyville",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Lost Creek",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Manchaca",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Onion Creek",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Shady Hollow",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Turnersville[7]",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Wells Branch",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Windemere",
+            "County": "Travis"
+        },
+        {
+            "Community Name": "Apple Springs",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Centralia",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Nogalus Prairie",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Pennington",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Westwood Shores",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Woodlake",
+            "County": "Trinity"
+        },
+        {
+            "Community Name": "Doucette",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Fred",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Hillister",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Rockland",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Spurger",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Warren",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Wildwood",
+            "County": "Tyler"
+        },
+        {
+            "Community Name": "Bettie",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Cox",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Diana",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Enoch",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Friendship",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Glenwood",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Kelsey",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Latch",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Pritchett",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Rhonesboro",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Rosewood",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Sand Hill",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Simpsonville",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Union Hill",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Union Ridge",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "West Mountain",
+            "County": "Upshur"
+        },
+        {
+            "Community Name": "Midkiff",
+            "County": "Upton"
+        },
+        {
+            "Community Name": "Knippa",
+            "County": "Uvalde"
+        },
+        {
+            "Community Name": "Utopia",
+            "County": "Uvalde"
+        },
+        {
+            "Community Name": "Uvalde Estates",
+            "County": "Uvalde"
+        },
+        {
+            "Community Name": "Amistad",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Box Canyon",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Cienegas Terrace",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Comstock",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Juno",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Lake View",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Langtry",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Laughlin Air Force Base",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Pandale",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Val Verde Park",
+            "County": "Val Verde"
+        },
+        {
+            "Community Name": "Ben Wheeler",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Callender Lake",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Elwood",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Martin's Mill",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Myrtle Springs",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Whitton",
+            "County": "Van Zandt"
+        },
+        {
+            "Community Name": "Bloomington",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Inez",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "McFaddin",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Moursund",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Nursery",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Placedo",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Quail Creek",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Raisin",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Telferner",
+            "County": "Victoria"
+        },
+        {
+            "Community Name": "Dodge",
+            "County": "Walker"
+        },
+        {
+            "Community Name": "Fields Store",
+            "County": "Waller"
+        },
+        {
+            "Community Name": "Monaville",
+            "County": "Waller"
+        },
+        {
+            "Community Name": "Shiloh",
+            "County": "Waller"
+        },
+        {
+            "Community Name": "Royalty",
+            "County": "Ward"
+        },
+        {
+            "Community Name": "Berlin",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Chappell Hill",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Greenvine",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Independence",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Latium",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Phillipsburg",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Prairie Hill",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Quarry",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Rehburg",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Salem",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Washington-on-the-Brazos",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "William Penn",
+            "County": "Washington"
+        },
+        {
+            "Community Name": "Aguilares",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Bonanza Hills",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Botines",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Bruni",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Callaghan",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Colorado Acres",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Darwin",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Four Points",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Hillside Acres",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Islitas",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "La Coma",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "La Presa",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Laredo Ranchettes",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Laredo Ranchettes West",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Larga Vista",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Las Haciendas",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Las Pilas",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Las Tiendas",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Altos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Arcos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Centenarios",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Corralitos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Fresnos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Huisaches",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Minerales",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Nopalitos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Ojuelos",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Veteranos I",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Los Veteranos II",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Mirando City",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Oilton",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Pescadito",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Pueblo East",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Pueblo Nuevo",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Ranchitos East",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Ranchitos Las Lomas",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Ranchos Penitas West",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "San Carlos I",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "San Carlos II",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Santo Tom\u00c3\u00a1s",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Sunset Acres",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Tanquecitos South Acres",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Tanquecitos South Acres II",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Valle Verde",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Webb",
+            "County": "Webb"
+        },
+        {
+            "Community Name": "Boling",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Bonus",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Danevang",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Egypt",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Glen Flora",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Hillje",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Hungerford",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Iago",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Lane City",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Lissie",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Louise",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Newgulf",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Pierce",
+            "County": "Wharton"
+        },
+        {
+            "Community Name": "Allison",
+            "County": "Wheeler"
+        },
+        {
+            "Community Name": "Briscoe",
+            "County": "Wheeler"
+        },
+        {
+            "Community Name": "Kelton",
+            "County": "Wheeler"
+        },
+        {
+            "Community Name": "Lela",
+            "County": "Wheeler"
+        },
+        {
+            "Community Name": "Twitty",
+            "County": "Wheeler"
+        },
+        {
+            "Community Name": "Bacon",
+            "County": "Wichita"
+        },
+        {
+            "Community Name": "Haynesville",
+            "County": "Wichita"
+        },
+        {
+            "Community Name": "Kamay",
+            "County": "Wichita"
+        },
+        {
+            "Community Name": "Valley View",
+            "County": "Wichita"
+        },
+        {
+            "Community Name": "Harrold",
+            "County": "Wilbarger"
+        },
+        {
+            "Community Name": "Odell",
+            "County": "Wilbarger"
+        },
+        {
+            "Community Name": "Oklaunion",
+            "County": "Wilbarger"
+        },
+        {
+            "Community Name": "Lasara",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Los Angeles",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Lyford South",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Port Mansfield",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Ranchette Estates",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Santa Monica",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Sebastian",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Willamar",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Zapata Ranch",
+            "County": "Willacy"
+        },
+        {
+            "Community Name": "Anderson Mill",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Brushy Creek",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Hare",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Jollyville",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Jonah",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Norman's Crossing",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Schwertner",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Serenada",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Walburg",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Waterloo",
+            "County": "Williamson"
+        },
+        {
+            "Community Name": "Alum",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Carpenter",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Doseido Colony",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Grass Pond Colony",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Kicaster",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Pandora",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Sandy Hills",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Saspamco",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Sutherland Springs",
+            "County": "Wilson"
+        },
+        {
+            "Community Name": "Briar",
+            "County": "Wise"
+        },
+        {
+            "Community Name": "Greenwood",
+            "County": "Wise"
+        },
+        {
+            "Community Name": "Paradise",
+            "County": "Wise"
+        },
+        {
+            "Community Name": "Pecan Acres",
+            "County": "Wise"
+        },
+        {
+            "Community Name": "Slidell",
+            "County": "Wise"
+        },
+        {
+            "Community Name": "Crow",
+            "County": "Wood"
+        },
+        {
+            "Community Name": "Golden",
+            "County": "Wood"
+        },
+        {
+            "Community Name": "Hainesville",
+            "County": "Wood"
+        },
+        {
+            "Community Name": "Holly Lake Ranch",
+            "County": "Wood"
+        },
+        {
+            "Community Name": "Eliasville",
+            "County": "Young"
+        },
+        {
+            "Community Name": "Loving",
+            "County": "Young"
+        },
+        {
+            "Community Name": "South Bend",
+            "County": "Young"
+        },
+        {
+            "Community Name": "Falcon",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Falcon Lake Estates",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Falcon Mesa",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Las Palmas",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Lopeno",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Los Lobos",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Medina",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Morales-Sanchez",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "New Falcon",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Ramireno",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "San Ygnacio",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Siesta Shores",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Zapata",
+            "County": "Zapata"
+        },
+        {
+            "Community Name": "Amaya",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Batesville",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Chula Vista",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Cometa",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "La Pryor",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Loma Grande",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Loma Vista",
+            "County": "Zavala"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Angelina"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Burnet"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Cherokee"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Cooke"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Dallas"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Fannin"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Houston"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Kerr"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Nacogdoches"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Panola"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Rains"
+        },
+        {
+            "Community Name": "Shady Grove",
+            "County": "Smith"
+        }
+    ]
+}

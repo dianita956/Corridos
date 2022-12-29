@@ -1,0 +1,2204 @@
+{
+    "ghost town": [
+        {
+            "Name": "Acala",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Acme",
+            "County": "Hardeman"
+        },
+        {
+            "Name": "Adkins",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Adobe Walls",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Adobes",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Albert",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Albuquerque",
+            "County": "Gonzales"
+        },
+        {
+            "Name": "Aldridge",
+            "County": "Jasper"
+        },
+        {
+            "Name": "Alexander",
+            "County": "Erath"
+        },
+        {
+            "Name": "Allamore",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Alum",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Ammans Crossing",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Anarene",
+            "County": "Archer"
+        },
+        {
+            "Name": "Aransas City",
+            "County": "Aransas"
+        },
+        {
+            "Name": "Arden",
+            "County": "Irion"
+        },
+        {
+            "Name": "Arno",
+            "County": "Reeves"
+        },
+        {
+            "Name": "Arispe",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Auburn",
+            "County": "Ellis"
+        },
+        {
+            "Name": "Audra",
+            "County": "Taylor"
+        },
+        {
+            "Name": "Audubon",
+            "County": "Wise"
+        },
+        {
+            "Name": "Ayr",
+            "County": "Deaf Smith"
+        },
+        {
+            "Name": "Ayres",
+            "County": "Washington"
+        },
+        {
+            "Name": "Bankersmith",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Bartonsite",
+            "County": "Hale"
+        },
+        {
+            "Name": "Becton",
+            "County": "Lubbock"
+        },
+        {
+            "Name": "Belcherville",
+            "County": "Montague"
+        },
+        {
+            "Name": "Belknap",
+            "County": "Young"
+        },
+        {
+            "Name": "Belle Plain",
+            "County": "Callahan"
+        },
+        {
+            "Name": "Belzora",
+            "County": "Smith"
+        },
+        {
+            "Name": "Ben Ficklin",
+            "County": "Tom Green"
+        },
+        {
+            "Name": "Benina",
+            "County": "San Augustine"
+        },
+        {
+            "Name": "Benton",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Benton City",
+            "County": "Atascosa"
+        },
+        {
+            "Name": "Best",
+            "County": "Reagan"
+        },
+        {
+            "Name": "Bettina",
+            "County": "Llano"
+        },
+        {
+            "Name": "Bexar",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Birchville",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Bitter Creek",
+            "County": "Nolan"
+        },
+        {
+            "Name": "Block Creek",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Blumenthal",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Boise",
+            "County": "Oldham"
+        },
+        {
+            "Name": "Boldtville",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Bomarton",
+            "County": "Baylor"
+        },
+        {
+            "Name": "Boonville",
+            "County": "Brazos"
+        },
+        {
+            "Name": "Boracho",
+            "County": "Culberson"
+        },
+        {
+            "Name": "Boz",
+            "County": "Ellis"
+        },
+        {
+            "Name": "Bragg",
+            "County": "Hardin"
+        },
+        {
+            "Name": "Brazos Point",
+            "County": "Bosque"
+        },
+        {
+            "Name": "Britton",
+            "County": "Ellis"
+        },
+        {
+            "Name": "Bronco",
+            "County": "Yoakum"
+        },
+        {
+            "Name": "Browning",
+            "County": "Smith"
+        },
+        {
+            "Name": "Bryant Station",
+            "County": "Milam"
+        },
+        {
+            "Name": "Bucksnort",
+            "County": "Falls"
+        },
+        {
+            "Name": "Burning Bush Colony",
+            "County": "Smith"
+        },
+        {
+            "Name": "Caddo",
+            "County": "Milam"
+        },
+        {
+            "Name": "Caddo",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Cain City",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Calaveras",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Calf Creek",
+            "County": "McCulloch"
+        },
+        {
+            "Name": "Callahan City",
+            "County": "Callahan"
+        },
+        {
+            "Name": "Calliham",
+            "County": "McMullen"
+        },
+        {
+            "Name": "Camey Spur",
+            "County": "Denton"
+        },
+        {
+            "Name": "Camp Verde",
+            "County": "Kerr"
+        },
+        {
+            "Name": "Canada Verde",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Candelaria",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Candlish",
+            "County": "Bee"
+        },
+        {
+            "Name": "Canyon City",
+            "County": "Comal"
+        },
+        {
+            "Name": "Canyon Valley",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Cap Rock",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Caput",
+            "County": "Gaines"
+        },
+        {
+            "Name": "Carlton",
+            "County": "Hamilton"
+        },
+        {
+            "Name": "Carpenter",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Carta Valley",
+            "County": "Edwards"
+        },
+        {
+            "Name": "Carter",
+            "County": "Parker"
+        },
+        {
+            "Name": "Casa Blanca",
+            "County": "Jim Wells"
+        },
+        {
+            "Name": "Casa Piedra",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Castolon",
+            "County": "Brewster"
+        },
+        {
+            "Name": "Cedar Creek",
+            "County": "Washington"
+        },
+        {
+            "Name": "Cedar Station",
+            "County": "Liberty"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Camp"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Hays"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Hopkins"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Kerr"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Panola"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Trinity"
+        },
+        {
+            "Name": "Center Point",
+            "County": "Upshur"
+        },
+        {
+            "Name": "Chalk Mountain",
+            "County": "Erath"
+        },
+        {
+            "Name": "Cheapside",
+            "County": "Gonzales"
+        },
+        {
+            "Name": "Cheyenne",
+            "County": "Winkler"
+        },
+        {
+            "Name": "Chinati",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Chinese Coal Mine",
+            "County": "Jeff Davis"
+        },
+        {
+            "Name": "Chispa",
+            "County": "Jeff Davis"
+        },
+        {
+            "Name": "Cibolo Settlement",
+            "County": "Comal"
+        },
+        {
+            "Name": "Cincinnati",
+            "County": "Walker"
+        },
+        {
+            "Name": "Clairemont",
+            "County": "Kent"
+        },
+        {
+            "Name": "Clairette",
+            "County": "Erath"
+        },
+        {
+            "Name": "Clara",
+            "County": "Wichita"
+        },
+        {
+            "Name": "Clareville",
+            "County": "Bee"
+        },
+        {
+            "Name": "Click",
+            "County": "Llano"
+        },
+        {
+            "Name": "Clinton",
+            "County": "DeWitt"
+        },
+        {
+            "Name": "Clifden",
+            "County": "Medina"
+        },
+        {
+            "Name": "Close City",
+            "County": "Garza"
+        },
+        {
+            "Name": "County Line",
+            "County": "HaleLubbock"
+        },
+        {
+            "Name": "Coffeeville",
+            "County": "Upshur"
+        },
+        {
+            "Name": "Coke",
+            "County": "Wood"
+        },
+        {
+            "Name": "Coker",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Cold Springs",
+            "County": "Uvalde"
+        },
+        {
+            "Name": "Coles Settlement",
+            "County": "Washington"
+        },
+        {
+            "Name": "College Mound",
+            "County": "Kaufman"
+        },
+        {
+            "Name": "Coltharp",
+            "County": "Houston"
+        },
+        {
+            "Name": "Comyn",
+            "County": "Comanche"
+        },
+        {
+            "Name": "Concrete",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Copano",
+            "County": "Refugio"
+        },
+        {
+            "Name": "Cora",
+            "County": "Comanche"
+        },
+        {
+            "Name": "Corn Hill",
+            "County": "Williamson"
+        },
+        {
+            "Name": "Cottage Hill",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Cowden Place",
+            "County": "Winkler"
+        },
+        {
+            "Name": "Crestonio",
+            "County": "Duval"
+        },
+        {
+            "Name": "Crisp",
+            "County": "Ellis"
+        },
+        {
+            "Name": "Cryer Creek",
+            "County": "Navarro"
+        },
+        {
+            "Name": "Currey's Creek",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Curry",
+            "County": "Stephens"
+        },
+        {
+            "Name": "Cuthbert",
+            "County": "Mitchell"
+        },
+        {
+            "Name": "Dalby Springs",
+            "County": "Bowie"
+        },
+        {
+            "Name": "Danville",
+            "County": "Gregg"
+        },
+        {
+            "Name": "Darilek",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Darwin",
+            "County": "Webb"
+        },
+        {
+            "Name": "Decker",
+            "County": "Nolan"
+        },
+        {
+            "Name": "Deland",
+            "County": "Erath"
+        },
+        {
+            "Name": "Denhawken",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Desdemona",
+            "County": "Eastland"
+        },
+        {
+            "Name": "Dewees",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Dias E Ocho Creek Camp",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Dido",
+            "County": "Tarrant"
+        },
+        {
+            "Name": "Dietz",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Dillon",
+            "County": "Hopkins"
+        },
+        {
+            "Name": "Dixie",
+            "County": "Grayson"
+        },
+        {
+            "Name": "Doan's Crossing",
+            "County": "Wilbarger"
+        },
+        {
+            "Name": "Dodge City",
+            "County": "Williamson"
+        },
+        {
+            "Name": "Dolores",
+            "County": "Webb"
+        },
+        {
+            "Name": "Dolores Viejo",
+            "County": "Zapata"
+        },
+        {
+            "Name": "Dolores Nuevo",
+            "County": "Zapata"
+        },
+        {
+            "Name": "Doseido Colony",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Doole",
+            "County": "Concho"
+        },
+        {
+            "Name": "Drumright",
+            "County": "Glasscock"
+        },
+        {
+            "Name": "Dryden",
+            "County": "Terrell"
+        },
+        {
+            "Name": "Duffau",
+            "County": "Erath"
+        },
+        {
+            "Name": "Dull",
+            "County": "La Salle"
+        },
+        {
+            "Name": "Dumas",
+            "County": "Wood"
+        },
+        {
+            "Name": "Dye Mound",
+            "County": "Montague"
+        },
+        {
+            "Name": "Eagle Creek",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Eagle's Nest",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Ebony",
+            "County": "Mills"
+        },
+        {
+            "Name": "Eckert",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Egypt",
+            "County": "Leon"
+        },
+        {
+            "Name": "Eliasville",
+            "County": "Young"
+        },
+        {
+            "Name": "Elizabethtown",
+            "County": "Denton"
+        },
+        {
+            "Name": "Elm Creek",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Emerald",
+            "County": "Crockett"
+        },
+        {
+            "Name": "Emma",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Enon",
+            "County": "Houston"
+        },
+        {
+            "Name": "Enon",
+            "County": "Upshur"
+        },
+        {
+            "Name": "Epworth",
+            "County": "Hale"
+        },
+        {
+            "Name": "Esperanza",
+            "County": "Montgomery"
+        },
+        {
+            "Name": "Estacado",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Etholen",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Etna",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Fairview",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Farewell",
+            "County": "Dallam"
+        },
+        {
+            "Name": "Farmer",
+            "County": "Young"
+        },
+        {
+            "Name": "Fasken",
+            "County": "Andrews"
+        },
+        {
+            "Name": "Fastrill",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Flora",
+            "County": "Smith"
+        },
+        {
+            "Name": "Fort Belknap",
+            "County": "Young"
+        },
+        {
+            "Name": "Fort Griffin",
+            "County": "Shackelford"
+        },
+        {
+            "Name": "Fort Holland",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Fort Hudson",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Fort Martin Scott",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Fort McKavett",
+            "County": "Menard"
+        },
+        {
+            "Name": "Fort Oldham",
+            "County": "Burleson"
+        },
+        {
+            "Name": "Fort Phantom Hill",
+            "County": "Jones"
+        },
+        {
+            "Name": "Fort Quitman",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Fort Terrett",
+            "County": "Sutton"
+        },
+        {
+            "Name": "Frio Town",
+            "County": "Frio"
+        },
+        {
+            "Name": "Frosa",
+            "County": "Limestone"
+        },
+        {
+            "Name": "Fry",
+            "County": "Brown"
+        },
+        {
+            "Name": "Fuqua",
+            "County": "Liberty"
+        },
+        {
+            "Name": "Gander Slu",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Gansel",
+            "County": "Concho"
+        },
+        {
+            "Name": "Gay Hill",
+            "County": "Washington"
+        },
+        {
+            "Name": "Ghent",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Gilliland",
+            "County": "Knox"
+        },
+        {
+            "Name": "Girvin",
+            "County": "Pecos"
+        },
+        {
+            "Name": "Glenrio",
+            "County": "Deaf Smith"
+        },
+        {
+            "Name": "Goforth",
+            "County": "Hays"
+        },
+        {
+            "Name": "Gold, Texas",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Golden Pond, Texas",
+            "County": "Stonewall"
+        },
+        {
+            "Name": "Gomez, Texas",
+            "County": "Terry"
+        },
+        {
+            "Name": "Goodwill",
+            "County": "Washington"
+        },
+        {
+            "Name": "Goshen",
+            "County": "Walker"
+        },
+        {
+            "Name": "Graball",
+            "County": "Washington"
+        },
+        {
+            "Name": "Granville",
+            "County": "Angelina"
+        },
+        {
+            "Name": "Grapetown",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Grass Pond Colony",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Grassyville",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "Gray Mule",
+            "County": "Floyd"
+        },
+        {
+            "Name": "Graytown",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Green Valley",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Grice",
+            "County": "Upshur"
+        },
+        {
+            "Name": "Grit",
+            "County": "Mason"
+        },
+        {
+            "Name": "Gruene",
+            "County": "Comal"
+        },
+        {
+            "Name": "Guadalupe City",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Gulf",
+            "County": "Matagorda"
+        },
+        {
+            "Name": "Gunsight",
+            "County": "Stephens"
+        },
+        {
+            "Name": "Hackberry",
+            "County": "Lavaca"
+        },
+        {
+            "Name": "Hagerman",
+            "County": "Grayson"
+        },
+        {
+            "Name": "Hale City",
+            "County": "Hale"
+        },
+        {
+            "Name": "Hart Camp",
+            "County": "Lamb"
+        },
+        {
+            "Name": "Haslam",
+            "County": "Shelby"
+        },
+        {
+            "Name": "Hay Flat",
+            "County": "Loving"
+        },
+        {
+            "Name": "Hayrick",
+            "County": "Coke"
+        },
+        {
+            "Name": "Heckville",
+            "County": "Lubbock"
+        },
+        {
+            "Name": "Hedwigs Hill, Texas",
+            "County": "Mason"
+        },
+        {
+            "Name": "Helena",
+            "County": "Karnes"
+        },
+        {
+            "Name": "Helmic",
+            "County": "Trinity"
+        },
+        {
+            "Name": "Henry's Chapel",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Hickory Flats",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "Hilda",
+            "County": "Mason"
+        },
+        {
+            "Name": "Holt",
+            "County": "San Saba"
+        },
+        {
+            "Name": "Hot Springs",
+            "County": "Brewster"
+        },
+        {
+            "Name": "Huff",
+            "County": "Archer"
+        },
+        {
+            "Name": "Hughes",
+            "County": "Irion"
+        },
+        {
+            "Name": "Huron",
+            "County": "Hill"
+        },
+        {
+            "Name": "Ilka",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Illinois Bend",
+            "County": "Montague"
+        },
+        {
+            "Name": "Indianola",
+            "County": "Calhoun"
+        },
+        {
+            "Name": "Indio",
+            "County": "Starr"
+        },
+        {
+            "Name": "Ireland",
+            "County": "Coryell"
+        },
+        {
+            "Name": "Iron Bridge",
+            "County": "Gregg"
+        },
+        {
+            "Name": "Islitas",
+            "County": "Webb"
+        },
+        {
+            "Name": "Izoro",
+            "County": "Lampasas"
+        },
+        {
+            "Name": "Jakes Colony",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Jarvis",
+            "County": "Anderson"
+        },
+        {
+            "Name": "Jean",
+            "County": "Young"
+        },
+        {
+            "Name": "Jermyn",
+            "County": "Jack"
+        },
+        {
+            "Name": "Jewel",
+            "County": "Eastland"
+        },
+        {
+            "Name": "Jim Town",
+            "County": "Dallas"
+        },
+        {
+            "Name": "Jimkurn",
+            "County": "Stephens"
+        },
+        {
+            "Name": "Joinerville",
+            "County": "Rusk"
+        },
+        {
+            "Name": "Jonesboro",
+            "County": "Coryell"
+        },
+        {
+            "Name": "Jud",
+            "County": "Haskell"
+        },
+        {
+            "Name": "Juniper",
+            "County": "Coke"
+        },
+        {
+            "Name": "Juno",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Justiceburg",
+            "County": "Garza"
+        },
+        {
+            "Name": "Kellyville",
+            "County": "Marion"
+        },
+        {
+            "Name": "Kelm",
+            "County": "Navarro"
+        },
+        {
+            "Name": "Kelsey",
+            "County": "Upshur"
+        },
+        {
+            "Name": "Kelso",
+            "County": "Deaf Smith"
+        },
+        {
+            "Name": "Kent",
+            "County": "Culberson"
+        },
+        {
+            "Name": "Kicaster",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Kimball",
+            "County": "Bosque"
+        },
+        {
+            "Name": "Kingsmill",
+            "County": "Gray"
+        },
+        {
+            "Name": "Kirk",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Kirkland",
+            "County": "Childress"
+        },
+        {
+            "Name": "Kittieaka Kittie West",
+            "County": "Live Oak"
+        },
+        {
+            "Name": "Kittrell",
+            "County": "Walker"
+        },
+        {
+            "Name": "Knight",
+            "County": "Polk"
+        },
+        {
+            "Name": "Knoxville",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "La Casa",
+            "County": "Stephens"
+        },
+        {
+            "Name": "La Lomita",
+            "County": "Hidalgo"
+        },
+        {
+            "Name": "La Plata",
+            "County": "Presidio"
+        },
+        {
+            "Name": "La Reunion",
+            "County": "Dallas"
+        },
+        {
+            "Name": "Lajitas",
+            "County": "Brewster"
+        },
+        {
+            "Name": "Langtry",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Larissa",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Las Cabras",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Las Islas",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Laurelia",
+            "County": "Polk"
+        },
+        {
+            "Name": "League Four",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Leesville",
+            "County": "Gonzales"
+        },
+        {
+            "Name": "Lemonville",
+            "County": "Orange"
+        },
+        {
+            "Name": "Levita",
+            "County": "Coryell"
+        },
+        {
+            "Name": "Linnville, Brazoria County, Texas",
+            "County": "Brazoria"
+        },
+        {
+            "Name": "Linnville, Calhoun County, Texas",
+            "County": "Calhoun"
+        },
+        {
+            "Name": "Lobo",
+            "County": "Culberson"
+        },
+        {
+            "Name": "Locker",
+            "County": "San Saba"
+        },
+        {
+            "Name": "Lodi",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Loire",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Loma Vista",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Lone Oak",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Longfellow",
+            "County": "Pecos"
+        },
+        {
+            "Name": "Lookout Valley",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Los Ojuelos",
+            "County": "Webb"
+        },
+        {
+            "Name": "Louetta",
+            "County": "Harris"
+        },
+        {
+            "Name": "Lowell",
+            "County": "Erath"
+        },
+        {
+            "Name": "Lozier",
+            "County": "Pecos"
+        },
+        {
+            "Name": "Luckenbach",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Luxello",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Lyra",
+            "County": "Palo Pinto"
+        },
+        {
+            "Name": "Lytton Springs",
+            "County": "Caldwell"
+        },
+        {
+            "Name": "Macksville",
+            "County": "Comanche"
+        },
+        {
+            "Name": "Madera Springs",
+            "County": "Jeff Davis"
+        },
+        {
+            "Name": "Magwalt",
+            "County": "Winkler"
+        },
+        {
+            "Name": "Manda",
+            "County": "Travis"
+        },
+        {
+            "Name": "Manestee",
+            "County": "Tom Green"
+        },
+        {
+            "Name": "Mangum",
+            "County": "Eastland"
+        },
+        {
+            "Name": "Manning",
+            "County": "Angelina"
+        },
+        {
+            "Name": "Mantua",
+            "County": "Collin"
+        },
+        {
+            "Name": "Marcelina",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Marysville",
+            "County": "Cooke"
+        },
+        {
+            "Name": "Maxdale",
+            "County": "Bell"
+        },
+        {
+            "Name": "McDuff",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "McGirk",
+            "County": "Hamilton"
+        },
+        {
+            "Name": "McNeil",
+            "County": "Williamson"
+        },
+        {
+            "Name": "Medicine Mound",
+            "County": "Hardeman"
+        },
+        {
+            "Name": "Mendota",
+            "County": "Hemphill"
+        },
+        {
+            "Name": "Mentone",
+            "County": "Loving"
+        },
+        {
+            "Name": "Merle",
+            "County": "Burleson"
+        },
+        {
+            "Name": "Merrilltown",
+            "County": "Travis"
+        },
+        {
+            "Name": "Mesquite",
+            "County": "Borden"
+        },
+        {
+            "Name": "Mill Creek",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Millville",
+            "County": "Rusk"
+        },
+        {
+            "Name": "Mineral Springs",
+            "County": "Panola"
+        },
+        {
+            "Name": "Minters Chapel",
+            "County": "Tarrant"
+        },
+        {
+            "Name": "Mobeetie",
+            "County": "Wheeler"
+        },
+        {
+            "Name": "Monte Christo",
+            "County": "Hidalgo"
+        },
+        {
+            "Name": "Monthalia",
+            "County": "Gonzales"
+        },
+        {
+            "Name": "Morales",
+            "County": "Jackson"
+        },
+        {
+            "Name": "Mormon Mill",
+            "County": "Burnet"
+        },
+        {
+            "Name": "Morrill",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "Morris Ranch",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Mount Blanco",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Mount Olive",
+            "County": "Mills"
+        },
+        {
+            "Name": "Muellersville",
+            "County": "Washington"
+        },
+        {
+            "Name": "Mustang Prairie",
+            "County": "Falls"
+        },
+        {
+            "Name": "Narcisso",
+            "County": "Cottle"
+        },
+        {
+            "Name": "Neighborsville",
+            "County": "Comal"
+        },
+        {
+            "Name": "Neuse Store",
+            "County": "Comal"
+        },
+        {
+            "Name": "New Birmingham",
+            "County": "Cherokee"
+        },
+        {
+            "Name": "New Danville",
+            "County": "Gregg"
+        },
+        {
+            "Name": "New Fountain",
+            "County": "Medina"
+        },
+        {
+            "Name": "New Gulf",
+            "County": "Wharton"
+        },
+        {
+            "Name": "New Lynn",
+            "County": "Lynn"
+        },
+        {
+            "Name": "New Sweden",
+            "County": "Travis"
+        },
+        {
+            "Name": "Newport",
+            "County": "Clay"
+        },
+        {
+            "Name": "Nix",
+            "County": "Lampasas"
+        },
+        {
+            "Name": "Nockenut",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Nogal",
+            "County": "Ochiltree"
+        },
+        {
+            "Name": "Norfleet",
+            "County": "Hale"
+        },
+        {
+            "Name": "North Roby",
+            "County": "Fisher"
+        },
+        {
+            "Name": "Nottawa",
+            "County": "Wharton"
+        },
+        {
+            "Name": "Noxville",
+            "County": "Kimble"
+        },
+        {
+            "Name": "O'Daniel",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Oak Forest",
+            "County": "Gonzales"
+        },
+        {
+            "Name": "Oak Hill",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "Oakland",
+            "County": "Colorado"
+        },
+        {
+            "Name": "Ochiltree",
+            "County": "Ochiltree"
+        },
+        {
+            "Name": "Ochoa",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Odds",
+            "County": "Limestone"
+        },
+        {
+            "Name": "Ohio",
+            "County": "Hamilton"
+        },
+        {
+            "Name": "Ojo de Veranda",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Olga",
+            "County": "Nolan"
+        },
+        {
+            "Name": "Olive",
+            "County": "Hardin"
+        },
+        {
+            "Name": "Olmos",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Opdykenamesake ofOpdyke West",
+            "County": "Hockley"
+        },
+        {
+            "Name": "Orient",
+            "County": "Tom Green"
+        },
+        {
+            "Name": "Orla",
+            "County": "Reeves"
+        },
+        {
+            "Name": "Orlena",
+            "County": "Cooke"
+        },
+        {
+            "Name": "Osage",
+            "County": "Colorado"
+        },
+        {
+            "Name": "Oso",
+            "County": "Fayette"
+        },
+        {
+            "Name": "Otis Chalk",
+            "County": "Howard"
+        },
+        {
+            "Name": "Otto",
+            "County": "Falls"
+        },
+        {
+            "Name": "Owens",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Owensville",
+            "County": "Robertson"
+        },
+        {
+            "Name": "Owenville",
+            "County": "Sutton"
+        },
+        {
+            "Name": "Pandora",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Padgett",
+            "County": "Young"
+        },
+        {
+            "Name": "Palm Valley",
+            "County": "Williamson"
+        },
+        {
+            "Name": "Pandale",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Parita",
+            "County": "Bexar"
+        },
+        {
+            "Name": "Park Springs",
+            "County": "Wise"
+        },
+        {
+            "Name": "Parris",
+            "County": "Collin"
+        },
+        {
+            "Name": "Paso Real",
+            "County": "Cameron"
+        },
+        {
+            "Name": "Peach Creek",
+            "County": "Wharton"
+        },
+        {
+            "Name": "Peach Tree Village",
+            "County": "Tyler"
+        },
+        {
+            "Name": "Pear Valley",
+            "County": "McCulloch"
+        },
+        {
+            "Name": "Pedernales",
+            "County": "Gillespie"
+        },
+        {
+            "Name": "Penick",
+            "County": "Jones"
+        },
+        {
+            "Name": "Perico",
+            "County": "Dallam"
+        },
+        {
+            "Name": "Pescadito",
+            "County": "Webb"
+        },
+        {
+            "Name": "Peyton Colony",
+            "County": "Blanco"
+        },
+        {
+            "Name": "Phelan",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "Phillips",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Pila Blanca",
+            "County": "Duval"
+        },
+        {
+            "Name": "Pilares",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Pine Springs",
+            "County": "Culberson"
+        },
+        {
+            "Name": "Pisek",
+            "County": "Colorado"
+        },
+        {
+            "Name": "Pisgah",
+            "County": "Navarro"
+        },
+        {
+            "Name": "Pittsville",
+            "County": "Fort Bend"
+        },
+        {
+            "Name": "Plata",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Pleasant Hill",
+            "County": "Houston"
+        },
+        {
+            "Name": "Plemons",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Plummer Crossing",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Poesta",
+            "County": "Bee"
+        },
+        {
+            "Name": "Polonia",
+            "County": "Caldwll"
+        },
+        {
+            "Name": "Pontotoc",
+            "County": "Mason Couny"
+        },
+        {
+            "Name": "Port Sullivan",
+            "County": "Milam"
+        },
+        {
+            "Name": "Porterville",
+            "County": "Loving"
+        },
+        {
+            "Name": "Porvenir",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Praha",
+            "County": "Newton"
+        },
+        {
+            "Name": "Preston",
+            "County": "Wharton"
+        },
+        {
+            "Name": "Princeton",
+            "County": "Newton"
+        },
+        {
+            "Name": "Pringle",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Proffitt",
+            "County": "Young"
+        },
+        {
+            "Name": "Provident City",
+            "County": "Colorado"
+        },
+        {
+            "Name": "Pumpville",
+            "County": "Val Verde"
+        },
+        {
+            "Name": "Pyote",
+            "County": "Ward"
+        },
+        {
+            "Name": "Quigley",
+            "County": "Jasper"
+        },
+        {
+            "Name": "Quincy",
+            "County": "Bee"
+        },
+        {
+            "Name": "Rath City",
+            "County": "Stonewall"
+        },
+        {
+            "Name": "Rayner",
+            "County": "Stonewall"
+        },
+        {
+            "Name": "Redbarn",
+            "County": "Pecos"
+        },
+        {
+            "Name": "Red River Station",
+            "County": "Montague"
+        },
+        {
+            "Name": "Regency",
+            "County": "Mills"
+        },
+        {
+            "Name": "Remlig",
+            "County": "Jasper"
+        },
+        {
+            "Name": "Rexville",
+            "County": "Austin"
+        },
+        {
+            "Name": "Ridout",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Rock Island",
+            "County": "Washington"
+        },
+        {
+            "Name": "Roosevelt",
+            "County": "Kimble"
+        },
+        {
+            "Name": "Rooster Springs",
+            "County": "Hays"
+        },
+        {
+            "Name": "Ross City",
+            "County": "Howard"
+        },
+        {
+            "Name": "Royston, Texas",
+            "County": "Fisher"
+        },
+        {
+            "Name": "Runnels City",
+            "County": "Runnels"
+        },
+        {
+            "Name": "Rustler Springs",
+            "County": "Culberson"
+        },
+        {
+            "Name": "St. Mary's of Aransas",
+            "County": "Refugio"
+        },
+        {
+            "Name": "Sage",
+            "County": "Burnet"
+        },
+        {
+            "Name": "Salona",
+            "County": "Montague"
+        },
+        {
+            "Name": "Salt Flat",
+            "County": "Hudspeth"
+        },
+        {
+            "Name": "Salt Gap",
+            "County": "McCullouch"
+        },
+        {
+            "Name": "Sam Fordyce",
+            "County": "Hidalgo"
+        },
+        {
+            "Name": "Saspamco",
+            "County": "Wilson"
+        },
+        {
+            "Name": "San Vicente",
+            "County": "Brewster"
+        },
+        {
+            "Name": "Sanco",
+            "County": "Coke"
+        },
+        {
+            "Name": "Sandy Hills",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Santa Rita",
+            "County": "Cameron"
+        },
+        {
+            "Name": "Santo Tom\u00c3\u00a1s",
+            "County": "Webb"
+        },
+        {
+            "Name": "Sarahville de Viesca",
+            "County": "Falls"
+        },
+        {
+            "Name": "Savage",
+            "County": "Crosby"
+        },
+        {
+            "Name": "Savage",
+            "County": "Fannin"
+        },
+        {
+            "Name": "Senterfitt",
+            "County": "Lampasas"
+        },
+        {
+            "Name": "Shafter",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Shafter Lake",
+            "County": "Andrews"
+        },
+        {
+            "Name": "Shannon",
+            "County": "Clay"
+        },
+        {
+            "Name": "Sher-Han",
+            "County": "Hansford"
+        },
+        {
+            "Name": "Sherwood",
+            "County": "Irion"
+        },
+        {
+            "Name": "Signal Hill",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Silver",
+            "County": "Coke"
+        },
+        {
+            "Name": "Sipe Springs",
+            "County": "Comanche"
+        },
+        {
+            "Name": "Sipe Springs",
+            "County": "Milam"
+        },
+        {
+            "Name": "Sivells Bend",
+            "County": "Cooke"
+        },
+        {
+            "Name": "Slide",
+            "County": "Lubbock"
+        },
+        {
+            "Name": "Smeltertown",
+            "County": "El Paso"
+        },
+        {
+            "Name": "Smithfield",
+            "County": "Tarrant"
+        },
+        {
+            "Name": "Soash",
+            "County": "Howard"
+        },
+        {
+            "Name": "Sowers",
+            "County": "Dallas"
+        },
+        {
+            "Name": "Spanish Fort",
+            "County": "Montague"
+        },
+        {
+            "Name": "Spurlin",
+            "County": "Hamilton"
+        },
+        {
+            "Name": "Starrville",
+            "County": "Smith"
+        },
+        {
+            "Name": "Sterley",
+            "County": "Floyd"
+        },
+        {
+            "Name": "Sterling",
+            "County": "Robertson"
+        },
+        {
+            "Name": "Steward's Mill",
+            "County": "Freestone"
+        },
+        {
+            "Name": "Stiles",
+            "County": "Reagan"
+        },
+        {
+            "Name": "Sullivan",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Sumpter",
+            "County": "Trinity"
+        },
+        {
+            "Name": "Sunnyside",
+            "County": "Menard"
+        },
+        {
+            "Name": "Sunshine Hill",
+            "County": "Wichita"
+        },
+        {
+            "Name": "Sutherland Springs",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Swartwout",
+            "County": "Polk"
+        },
+        {
+            "Name": "Swastika",
+            "County": "Hale"
+        },
+        {
+            "Name": "Sweden",
+            "County": "Duval"
+        },
+        {
+            "Name": "Sweet Home",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Sycamore",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Tarrant",
+            "County": "Hopkins"
+        },
+        {
+            "Name": "Tascosa",
+            "County": "Oldham"
+        },
+        {
+            "Name": "Tee Pee City",
+            "County": "Motley"
+        },
+        {
+            "Name": "Tehuacana",
+            "County": "Limestone"
+        },
+        {
+            "Name": "Telegraph",
+            "County": "Kimble"
+        },
+        {
+            "Name": "Telico",
+            "County": "Ellis"
+        },
+        {
+            "Name": "Tennyson",
+            "County": "Coke"
+        },
+        {
+            "Name": "Terlingua",
+            "County": "Brewster"
+        },
+        {
+            "Name": "Texana",
+            "County": "Jackson"
+        },
+        {
+            "Name": "Texla",
+            "County": "Orange"
+        },
+        {
+            "Name": "Texon",
+            "County": "Reagan"
+        },
+        {
+            "Name": "The Grove",
+            "County": "Coryell"
+        },
+        {
+            "Name": "Three Oaks",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Thurber",
+            "County": "Erath"
+        },
+        {
+            "Name": "Tiemann",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Tigertown",
+            "County": "Washington"
+        },
+        {
+            "Name": "Toadsuck",
+            "County": "Grayson"
+        },
+        {
+            "Name": "Tokio",
+            "County": "Terry"
+        },
+        {
+            "Name": "Tolbert",
+            "County": "Wilbarger"
+        },
+        {
+            "Name": "Toyah",
+            "County": "Reeves"
+        },
+        {
+            "Name": "Toyahvale",
+            "County": "Reeves"
+        },
+        {
+            "Name": "Towash",
+            "County": "Hill"
+        },
+        {
+            "Name": "Trickham",
+            "County": "Coleman"
+        },
+        {
+            "Name": "Tucker",
+            "County": "Anderson"
+        },
+        {
+            "Name": "Tuckertown",
+            "County": "Navarro"
+        },
+        {
+            "Name": "Tuff",
+            "County": "Bandera"
+        },
+        {
+            "Name": "Tuleta",
+            "County": "Bee"
+        },
+        {
+            "Name": "Turpentine",
+            "County": "Jasper"
+        },
+        {
+            "Name": "Twin Sisters",
+            "County": "Blanco"
+        },
+        {
+            "Name": "Union Valley",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Unity",
+            "County": "Wilson"
+        },
+        {
+            "Name": "Upland",
+            "County": "Upton"
+        },
+        {
+            "Name": "Upton",
+            "County": "Bastrop"
+        },
+        {
+            "Name": "Utica",
+            "County": "Smith"
+        },
+        {
+            "Name": "Vandenburg",
+            "County": "Medina"
+        },
+        {
+            "Name": "Verbena",
+            "County": "Garza"
+        },
+        {
+            "Name": "Vesrue",
+            "County": "Winkler"
+        },
+        {
+            "Name": "Vieja Springs",
+            "County": "Presidio"
+        },
+        {
+            "Name": "Virginia City",
+            "County": "Bailey"
+        },
+        {
+            "Name": "Waring",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Warren",
+            "County": "Fannin"
+        },
+        {
+            "Name": "Wasp Creek",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Wastella",
+            "County": "Nolan"
+        },
+        {
+            "Name": "Watson",
+            "County": "Red River/Comanche"
+        },
+        {
+            "Name": "Watkins",
+            "County": "Terrell"
+        },
+        {
+            "Name": "Watkins",
+            "County": "Van Zandt"
+        },
+        {
+            "Name": "Wayside",
+            "County": "Lynn"
+        },
+        {
+            "Name": "Welfare",
+            "County": "Kendall"
+        },
+        {
+            "Name": "Wenasco",
+            "County": "Jasper"
+        },
+        {
+            "Name": "White City",
+            "County": "Gaines"
+        },
+        {
+            "Name": "Whiteway",
+            "County": "Hamilton"
+        },
+        {
+            "Name": "Whiteflat",
+            "County": "Motley"
+        },
+        {
+            "Name": "Whittenburg",
+            "County": "Hutchinson"
+        },
+        {
+            "Name": "Who'd Thought It",
+            "County": "Hopkins"
+        },
+        {
+            "Name": "Whon",
+            "County": "Coleman"
+        },
+        {
+            "Name": "Wild Cat Bluff",
+            "County": "Anderson"
+        },
+        {
+            "Name": "Williams Ranch",
+            "County": "Mills"
+        },
+        {
+            "Name": "Winklemann",
+            "County": "Washington"
+        },
+        {
+            "Name": "Wintergreen",
+            "County": "Karnes"
+        },
+        {
+            "Name": "Woodward",
+            "County": "LaSalle"
+        },
+        {
+            "Name": "Woody",
+            "County": "Loving"
+        },
+        {
+            "Name": "Yegua",
+            "County": "Washington"
+        },
+        {
+            "Name": "Zeirath",
+            "County": "Jasper"
+        },
+        {
+            "Name": "Zella",
+            "County": "McMullen"
+        },
+        {
+            "Name": "Ziler",
+            "County": "Howard"
+        },
+        {
+            "Name": "Zionville",
+            "County": "Washington"
+        },
+        {
+            "Name": "Zorn",
+            "County": "Guadalupe"
+        },
+        {
+            "Name": "Zuehl",
+            "County": "Guadalupe"
+        }
+    ]
+}
