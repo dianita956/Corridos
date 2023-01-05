@@ -1,0 +1,1997 @@
+{"label":"GPE","pattern":"Houston"}
+{"label":"GPE","pattern":"San Antonio"}
+{"label":"GPE","pattern":"Dallas"}
+{"label":"GPE","pattern":"Austin"}
+{"label":"GPE","pattern":"Fort Worth"}
+{"label":"GPE","pattern":"El Paso"}
+{"label":"GPE","pattern":"Arlington"}
+{"label":"GPE","pattern":"Corpus Christi"}
+{"label":"GPE","pattern":"Plano"}
+{"label":"GPE","pattern":"Lubbock"}
+{"label":"GPE","pattern":"Laredo"}
+{"label":"GPE","pattern":"Irving"}
+{"label":"GPE","pattern":"Garland"}
+{"label":"GPE","pattern":"Frisco"}
+{"label":"GPE","pattern":"McKinney"}
+{"label":"GPE","pattern":"Amarillo"}
+{"label":"GPE","pattern":"Grand Prairie"}
+{"label":"GPE","pattern":"Brownsville"}
+{"label":"GPE","pattern":"Killeen"}
+{"label":"GPE","pattern":"Pasadena"}
+{"label":"GPE","pattern":"Denton"}
+{"label":"GPE","pattern":"Mesquite"}
+{"label":"GPE","pattern":"McAllen"}
+{"label":"GPE","pattern":"Waco"}
+{"label":"GPE","pattern":"Carrollton"}
+{"label":"GPE","pattern":"Midland"}
+{"label":"GPE","pattern":"Pearland"}
+{"label":"GPE","pattern":"Abilene"}
+{"label":"GPE","pattern":"Round Rock"}
+{"label":"GPE","pattern":"College Station"}
+{"label":"GPE","pattern":"Richardson"}
+{"label":"GPE","pattern":"League City"}
+{"label":"GPE","pattern":"Lewisville"}
+{"label":"GPE","pattern":"Beaumont"}
+{"label":"GPE","pattern":"Odessa"}
+{"label":"GPE","pattern":"Sugar Land"}
+{"label":"GPE","pattern":"Tyler"}
+{"label":"GPE","pattern":"Allen"}
+{"label":"GPE","pattern":"Wichita Falls"}
+{"label":"GPE","pattern":"Edinburg"}
+{"label":"GPE","pattern":"San Angelo"}
+{"label":"GPE","pattern":"New Braunfels"}
+{"label":"GPE","pattern":"Conroe"}
+{"label":"GPE","pattern":"Bryan"}
+{"label":"GPE","pattern":"Mission"}
+{"label":"GPE","pattern":"Temple"}
+{"label":"GPE","pattern":"Baytown"}
+{"label":"GPE","pattern":"Longview"}
+{"label":"GPE","pattern":"Pharr"}
+{"label":"GPE","pattern":"Cedar Park"}
+{"label":"GPE","pattern":"Flower Mound"}
+{"label":"GPE","pattern":"Georgetown"}
+{"label":"GPE","pattern":"Missouri City"}
+{"label":"GPE","pattern":"Mansfield"}
+{"label":"GPE","pattern":"Harlingen"}
+{"label":"GPE","pattern":"North Richland Hills"}
+{"label":"GPE","pattern":"San Marcos"}
+{"label":"GPE","pattern":"Leander"}
+{"label":"GPE","pattern":"Pflugerville"}
+{"label":"GPE","pattern":"Victoria"}
+{"label":"GPE","pattern":"Rowlett"}
+{"label":"GPE","pattern":"Euless"}
+{"label":"GPE","pattern":"Wylie"}
+{"label":"GPE","pattern":"DeSoto"}
+{"label":"GPE","pattern":"Port Arthur"}
+{"label":"GPE","pattern":"Texas City"}
+{"label":"GPE","pattern":"Galveston"}
+{"label":"GPE","pattern":"Kyle"}
+{"label":"GPE","pattern":"Burleson"}
+{"label":"GPE","pattern":"Little Elm"}
+{"label":"GPE","pattern":"Grapevine"}
+{"label":"GPE","pattern":"Rockwall"}
+{"label":"GPE","pattern":"Bedford"}
+{"label":"GPE","pattern":"Cedar Hill"}
+{"label":"GPE","pattern":"Huntsville"}
+{"label":"GPE","pattern":"Haltom City"}
+{"label":"GPE","pattern":"Keller"}
+{"label":"GPE","pattern":"The Colony"}
+{"label":"GPE","pattern":"Sherman"}
+{"label":"GPE","pattern":"Waxahachie"}
+{"label":"GPE","pattern":"Schertz"}
+{"label":"GPE","pattern":"Coppell"}
+{"label":"GPE","pattern":"Weslaco"}
+{"label":"GPE","pattern":"Friendswood"}
+{"label":"GPE","pattern":"Lancaster"}
+{"label":"GPE","pattern":"Hurst"}
+{"label":"GPE","pattern":"Duncanville"}
+{"label":"GPE","pattern":"Rosenberg"}
+{"label":"GPE","pattern":"Midlothian"}
+{"label":"GPE","pattern":"Copperas Cove"}
+{"label":"GPE","pattern":"Farmers Branch"}
+{"label":"GPE","pattern":"Socorro"}
+{"label":"GPE","pattern":"Texarkana"}
+{"label":"GPE","pattern":"La Porte"}
+{"label":"GPE","pattern":"San Juan"}
+{"label":"GPE","pattern":"Del Rio"}
+{"label":"GPE","pattern":"Prosper"}
+{"label":"GPE","pattern":"Lufkin"}
+{"label":"GPE","pattern":"Weatherford"}
+{"label":"GPE","pattern":"Deer Park"}
+{"label":"GPE","pattern":"Harker Heights"}
+{"label":"GPE","pattern":"Cibolo"}
+{"label":"GPE","pattern":"Nacogdoches"}
+{"label":"GPE","pattern":"Cleburne"}
+{"label":"GPE","pattern":"Southlake"}
+{"label":"GPE","pattern":"Seguin"}
+{"label":"GPE","pattern":"Hutto"}
+{"label":"GPE","pattern":"Greenville"}
+{"label":"GPE","pattern":"Sachse"}
+{"label":"GPE","pattern":"Converse"}
+{"label":"GPE","pattern":"Eagle Pass"}
+{"label":"GPE","pattern":"Lake Jackson"}
+{"label":"GPE","pattern":"Alvin"}
+{"label":"GPE","pattern":"Forney"}
+{"label":"GPE","pattern":"Balch Springs"}
+{"label":"GPE","pattern":"Colleyville"}
+{"label":"GPE","pattern":"Big Spring"}
+{"label":"GPE","pattern":"Corsicana"}
+{"label":"GPE","pattern":"Denison"}
+{"label":"GPE","pattern":"Fulshear"}
+{"label":"GPE","pattern":"Kingsville"}
+{"label":"GPE","pattern":"University Park"}
+{"label":"GPE","pattern":"San Benito"}
+{"label":"GPE","pattern":"Benbrook"}
+{"label":"GPE","pattern":"Kerrville"}
+{"label":"GPE","pattern":"Paris"}
+{"label":"GPE","pattern":"Saginaw"}
+{"label":"GPE","pattern":"Katy"}
+{"label":"GPE","pattern":"Belton"}
+{"label":"GPE","pattern":"Celina"}
+{"label":"GPE","pattern":"Watauga"}
+{"label":"GPE","pattern":"Horizon City"}
+{"label":"GPE","pattern":"Corinth"}
+{"label":"GPE","pattern":"Marshall"}
+{"label":"GPE","pattern":"Dickinson"}
+{"label":"GPE","pattern":"Murphy"}
+{"label":"GPE","pattern":"Ennis"}
+{"label":"GPE","pattern":"Stephenville"}
+{"label":"GPE","pattern":"Fate"}
+{"label":"GPE","pattern":"Portland"}
+{"label":"GPE","pattern":"Anna"}
+{"label":"GPE","pattern":"Princeton"}
+{"label":"GPE","pattern":"Alamo"}
+{"label":"GPE","pattern":"Universal City"}
+{"label":"GPE","pattern":"Plainview"}
+{"label":"GPE","pattern":"Angleton"}
+{"label":"GPE","pattern":"Crowley"}
+{"label":"GPE","pattern":"Lakeway"}
+{"label":"GPE","pattern":"Orange"}
+{"label":"GPE","pattern":"Boerne"}
+{"label":"GPE","pattern":"Alton"}
+{"label":"GPE","pattern":"Seagoville"}
+{"label":"GPE","pattern":"Brownwood"}
+{"label":"GPE","pattern":"Palestine"}
+{"label":"GPE","pattern":"La Marque"}
+{"label":"GPE","pattern":"Terrell"}
+{"label":"GPE","pattern":"Nederland"}
+{"label":"GPE","pattern":"Manor"}
+{"label":"GPE","pattern":"Brenham"}
+{"label":"GPE","pattern":"White Settlement"}
+{"label":"GPE","pattern":"Bay City"}
+{"label":"GPE","pattern":"Alice"}
+{"label":"GPE","pattern":"Gainesville"}
+{"label":"GPE","pattern":"Stafford"}
+{"label":"GPE","pattern":"Glenn Heights"}
+{"label":"GPE","pattern":"Addison"}
+{"label":"GPE","pattern":"Bellaire"}
+{"label":"GPE","pattern":"Melissa"}
+{"label":"GPE","pattern":"Groves"}
+{"label":"GPE","pattern":"Gatesville"}
+{"label":"GPE","pattern":"Donna"}
+{"label":"GPE","pattern":"Taylor"}
+{"label":"GPE","pattern":"Pampa"}
+{"label":"GPE","pattern":"Humble"}
+{"label":"GPE","pattern":"Mercedes"}
+{"label":"GPE","pattern":"Hewitt"}
+{"label":"GPE","pattern":"Mount Pleasant"}
+{"label":"GPE","pattern":"Sulphur Springs"}
+{"label":"GPE","pattern":"Royse City"}
+{"label":"GPE","pattern":"Highland Village"}
+{"label":"GPE","pattern":"Palmview"}
+{"label":"GPE","pattern":"South Houston"}
+{"label":"GPE","pattern":"Live Oak"}
+{"label":"GPE","pattern":"Rio Grande City"}
+{"label":"GPE","pattern":"Buda"}
+{"label":"GPE","pattern":"Red Oak"}
+{"label":"GPE","pattern":"Uvalde"}
+{"label":"GPE","pattern":"Canyon"}
+{"label":"GPE","pattern":"Mineral Wells"}
+{"label":"GPE","pattern":"Lockhart"}
+{"label":"GPE","pattern":"Hereford"}
+{"label":"GPE","pattern":"West University Place"}
+{"label":"GPE","pattern":"Dumas"}
+{"label":"GPE","pattern":"Hidalgo"}
+{"label":"GPE","pattern":"Jacksonville"}
+{"label":"GPE","pattern":"Forest Hill"}
+{"label":"GPE","pattern":"Lumberton"}
+{"label":"GPE","pattern":"Trophy Club"}
+{"label":"GPE","pattern":"Beeville"}
+{"label":"GPE","pattern":"Seabrook"}
+{"label":"GPE","pattern":"Azle"}
+{"label":"GPE","pattern":"Henderson"}
+{"label":"GPE","pattern":"Port Neches"}
+{"label":"GPE","pattern":"Kilgore"}
+{"label":"GPE","pattern":"Andrews"}
+{"label":"GPE","pattern":"Athens"}
+{"label":"GPE","pattern":"Tomball"}
+{"label":"GPE","pattern":"Santa Fe"}
+{"label":"GPE","pattern":"Robinson"}
+{"label":"GPE","pattern":"Pecos"}
+{"label":"GPE","pattern":"Levelland"}
+{"label":"GPE","pattern":"Borger"}
+{"label":"GPE","pattern":"Manvel"}
+{"label":"GPE","pattern":"El Campo"}
+{"label":"GPE","pattern":"Richmond"}
+{"label":"GPE","pattern":"Webster"}
+{"label":"GPE","pattern":"Selma"}
+{"label":"GPE","pattern":"Roma"}
+{"label":"GPE","pattern":"Leon Valley"}
+{"label":"GPE","pattern":"Granbury"}
+{"label":"GPE","pattern":"Snyder"}
+{"label":"GPE","pattern":"Port Lavaca"}
+{"label":"GPE","pattern":"Fredericksburg"}
+{"label":"GPE","pattern":"Burkburnett"}
+{"label":"GPE","pattern":"Iowa Colony"}
+{"label":"GPE","pattern":"Pleasanton"}
+{"label":"GPE","pattern":"Fairview"}
+{"label":"GPE","pattern":"Freeport"}
+{"label":"GPE","pattern":"Clute"}
+{"label":"GPE","pattern":"Bellmead"}
+{"label":"GPE","pattern":"Bonham"}
+{"label":"GPE","pattern":"Elgin"}
+{"label":"GPE","pattern":"Sweetwater"}
+{"label":"GPE","pattern":"Raymondville"}
+{"label":"GPE","pattern":"Fair Oaks Ranch"}
+{"label":"GPE","pattern":"Galena Park"}
+{"label":"GPE","pattern":"Rockport"}
+{"label":"GPE","pattern":"Bastrop"}
+{"label":"GPE","pattern":"Heath"}
+{"label":"GPE","pattern":"Robstown"}
+{"label":"GPE","pattern":"San Elizario[b]"}
+{"label":"GPE","pattern":"Vernon"}
+{"label":"GPE","pattern":"Ingleside"}
+{"label":"GPE","pattern":"Roanoke"}
+{"label":"GPE","pattern":"Vidor"}
+{"label":"GPE","pattern":"Bridge City"}
+{"label":"GPE","pattern":"Woodway"}
+{"label":"GPE","pattern":"Sanger"}
+{"label":"GPE","pattern":"Jacinto City"}
+{"label":"GPE","pattern":"Lago Vista"}
+{"label":"GPE","pattern":"Helotes"}
+{"label":"GPE","pattern":"Dayton"}
+{"label":"GPE","pattern":"Bee Cave"}
+{"label":"GPE","pattern":"Brownfield"}
+{"label":"GPE","pattern":"Commerce"}
+{"label":"GPE","pattern":"Graham"}
+{"label":"GPE","pattern":"Lamesa"}
+{"label":"GPE","pattern":"Highland Park"}
+{"label":"GPE","pattern":"Whitehouse"}
+{"label":"GPE","pattern":"Wharton"}
+{"label":"GPE","pattern":"Liberty"}
+{"label":"GPE","pattern":"Richland Hills"}
+{"label":"GPE","pattern":"Kennedale"}
+{"label":"GPE","pattern":"Fort Stockton"}
+{"label":"GPE","pattern":"Hondo"}
+{"label":"GPE","pattern":"Dalhart"}
+{"label":"GPE","pattern":"Mont Belvieu"}
+{"label":"GPE","pattern":"Hillsboro"}
+{"label":"GPE","pattern":"Perryton"}
+{"label":"GPE","pattern":"Cuero"}
+{"label":"GPE","pattern":"Los Fresnos"}
+{"label":"GPE","pattern":"Kirby"}
+{"label":"GPE","pattern":"Joshua"}
+{"label":"GPE","pattern":"Navasota"}
+{"label":"GPE","pattern":"Sunnyvale"}
+{"label":"GPE","pattern":"Lucas"}
+{"label":"GPE","pattern":"Aransas Pass"}
+{"label":"GPE","pattern":"Cleveland"}
+{"label":"GPE","pattern":"Providence Village[b]"}
+{"label":"GPE","pattern":"Jersey Village"}
+{"label":"GPE","pattern":"Lake Dallas"}
+{"label":"GPE","pattern":"Pearsall"}
+{"label":"GPE","pattern":"Floresville"}
+{"label":"GPE","pattern":"River Oaks"}
+{"label":"GPE","pattern":"Lampasas"}
+{"label":"GPE","pattern":"Monahans"}
+{"label":"GPE","pattern":"Hitchcock"}
+{"label":"GPE","pattern":"Alamo Heights"}
+{"label":"GPE","pattern":"Kaufman"}
+{"label":"GPE","pattern":"Jasper"}
+{"label":"GPE","pattern":"Marble Falls"}
+{"label":"GPE","pattern":"Gonzales"}
+{"label":"GPE","pattern":"Lacy-Lakeview"}
+{"label":"GPE","pattern":"Seminole"}
+{"label":"GPE","pattern":"Mexia"}
+{"label":"GPE","pattern":"Decatur"}
+{"label":"GPE","pattern":"Silsbee"}
+{"label":"GPE","pattern":"Prairie View"}
+{"label":"GPE","pattern":"Northlake"}
+{"label":"GPE","pattern":"La Feria"}
+{"label":"GPE","pattern":"Liberty Hill"}
+{"label":"GPE","pattern":"Sealy"}
+{"label":"GPE","pattern":"Willis"}
+{"label":"GPE","pattern":"Burnet"}
+{"label":"GPE","pattern":"Iowa Park"}
+{"label":"GPE","pattern":"Carthage"}
+{"label":"GPE","pattern":"Aubrey"}
+{"label":"GPE","pattern":"Crockett"}
+{"label":"GPE","pattern":"Pe\u00f1itas"}
+{"label":"GPE","pattern":"Gun Barrel City"}
+{"label":"GPE","pattern":"Keene"}
+{"label":"GPE","pattern":"Crystal City"}
+{"label":"GPE","pattern":"Lindale"}
+{"label":"GPE","pattern":"Nolanville"}
+{"label":"GPE","pattern":"White Oak"}
+{"label":"GPE","pattern":"Gladewater"}
+{"label":"GPE","pattern":"Everman"}
+{"label":"GPE","pattern":"Hempstead"}
+{"label":"GPE","pattern":"Kermit"}
+{"label":"GPE","pattern":"Wolfforth"}
+{"label":"GPE","pattern":"Bulverde"}
+{"label":"GPE","pattern":"Bridgeport"}
+{"label":"GPE","pattern":"Edna"}
+{"label":"GPE","pattern":"Yoakum"}
+{"label":"GPE","pattern":"Wake Village"}
+{"label":"GPE","pattern":"Littlefield"}
+{"label":"GPE","pattern":"Childress"}
+{"label":"GPE","pattern":"Parker"}
+{"label":"GPE","pattern":"Livingston"}
+{"label":"GPE","pattern":"Windcrest"}
+{"label":"GPE","pattern":"Krum"}
+{"label":"GPE","pattern":"Alpine"}
+{"label":"GPE","pattern":"Slaton"}
+{"label":"GPE","pattern":"Dripping Springs"}
+{"label":"GPE","pattern":"Venus"}
+{"label":"GPE","pattern":"Elsa"}
+{"label":"GPE","pattern":"Hutchins"}
+{"label":"GPE","pattern":"Sinton"}
+{"label":"GPE","pattern":"Oak Point"}
+{"label":"GPE","pattern":"Marlin"}
+{"label":"GPE","pattern":"Rusk"}
+{"label":"GPE","pattern":"Bowie"}
+{"label":"GPE","pattern":"McGregor"}
+{"label":"GPE","pattern":"Luling"}
+{"label":"GPE","pattern":"Brookshire"}
+{"label":"GPE","pattern":"Atlanta"}
+{"label":"GPE","pattern":"Rockdale"}
+{"label":"GPE","pattern":"Sansom Park"}
+{"label":"GPE","pattern":"Aledo"}
+{"label":"GPE","pattern":"Cameron"}
+{"label":"GPE","pattern":"Lavon"}
+{"label":"GPE","pattern":"Wilmer"}
+{"label":"GPE","pattern":"Primera"}
+{"label":"GPE","pattern":"Breckenridge"}
+{"label":"GPE","pattern":"Hickory Creek"}
+{"label":"GPE","pattern":"Granite Shoals"}
+{"label":"GPE","pattern":"Nassau Bay"}
+{"label":"GPE","pattern":"Willow Park"}
+{"label":"GPE","pattern":"Van Alstyne"}
+{"label":"GPE","pattern":"Center"}
+{"label":"GPE","pattern":"Sandy Oaks[b]"}
+{"label":"GPE","pattern":"Alvarado"}
+{"label":"GPE","pattern":"Port Isabel"}
+{"label":"GPE","pattern":"Muleshoe"}
+{"label":"GPE","pattern":"Giddings"}
+{"label":"GPE","pattern":"Terrell Hills"}
+{"label":"GPE","pattern":"Brady"}
+{"label":"GPE","pattern":"Justin"}
+{"label":"GPE","pattern":"Hudson"}
+{"label":"GPE","pattern":"Mineola"}
+{"label":"GPE","pattern":"Progreso"}
+{"label":"GPE","pattern":"Gilmer"}
+{"label":"GPE","pattern":"Carrizo Springs"}
+{"label":"GPE","pattern":"Post"}
+{"label":"GPE","pattern":"Falfurrias"}
+{"label":"GPE","pattern":"Richwood"}
+{"label":"GPE","pattern":"Morgan's Point Resort"}
+{"label":"GPE","pattern":"Argyle"}
+{"label":"GPE","pattern":"Lake Worth"}
+{"label":"GPE","pattern":"Meadows Place"}
+{"label":"GPE","pattern":"Pilot Point"}
+{"label":"GPE","pattern":"La Joya"}
+{"label":"GPE","pattern":"New Boston"}
+{"label":"GPE","pattern":"Josephine"}
+{"label":"GPE","pattern":"Madisonville"}
+{"label":"GPE","pattern":"Mabank"}
+{"label":"GPE","pattern":"Hearne"}
+{"label":"GPE","pattern":"Hallsville"}
+{"label":"GPE","pattern":"Horseshoe Bay"}
+{"label":"GPE","pattern":"Tulia"}
+{"label":"GPE","pattern":"Diboll"}
+{"label":"GPE","pattern":"La Grange"}
+{"label":"GPE","pattern":"Palacios"}
+{"label":"GPE","pattern":"Devine"}
+{"label":"GPE","pattern":"Rio Bravo"}
+{"label":"GPE","pattern":"Colorado City"}
+{"label":"GPE","pattern":"Denver City"}
+{"label":"GPE","pattern":"Pittsburg"}
+{"label":"GPE","pattern":"Mathis"}
+{"label":"GPE","pattern":"Ovilla"}
+{"label":"GPE","pattern":"Garden Ridge"}
+{"label":"GPE","pattern":"Hunters Creek Village"}
+{"label":"GPE","pattern":"Canton"}
+{"label":"GPE","pattern":"Crandall"}
+{"label":"GPE","pattern":"Comanche"}
+{"label":"GPE","pattern":"Spring Valley Village"}
+{"label":"GPE","pattern":"Whitesboro"}
+{"label":"GPE","pattern":"Jacksboro"}
+{"label":"GPE","pattern":"McLendon-Chisholm"}
+{"label":"GPE","pattern":"Dimmitt"}
+{"label":"GPE","pattern":"Friona"}
+{"label":"GPE","pattern":"Jourdanton"}
+{"label":"GPE","pattern":"Caldwell"}
+{"label":"GPE","pattern":"Bellville"}
+{"label":"GPE","pattern":"Weston Lakes"}
+{"label":"GPE","pattern":"Smithville"}
+{"label":"GPE","pattern":"Castle Hills"}
+{"label":"GPE","pattern":"Clyde"}
+{"label":"GPE","pattern":"Coleman"}
+{"label":"GPE","pattern":"Sullivan City"}
+{"label":"GPE","pattern":"Cisco"}
+{"label":"GPE","pattern":"Wills Point"}
+{"label":"GPE","pattern":"Nash"}
+{"label":"GPE","pattern":"Farmersville"}
+{"label":"GPE","pattern":"Bunker Hill Village"}
+{"label":"GPE","pattern":"Edgecliff Village"}
+{"label":"GPE","pattern":"San Diego"}
+{"label":"GPE","pattern":"Cotulla"}
+{"label":"GPE","pattern":"Cockrell Hill"}
+{"label":"GPE","pattern":"Bullard"}
+{"label":"GPE","pattern":"Anthony"}
+{"label":"GPE","pattern":"Groesbeck"}
+{"label":"GPE","pattern":"Kenedy"}
+{"label":"GPE","pattern":"Eastland"}
+{"label":"GPE","pattern":"Taylor Lake Village"}
+{"label":"GPE","pattern":"Howe"}
+{"label":"GPE","pattern":"West Columbia"}
+{"label":"GPE","pattern":"Laguna Vista"}
+{"label":"GPE","pattern":"Shenandoah"}
+{"label":"GPE","pattern":"Sweeny"}
+{"label":"GPE","pattern":"Columbus"}
+{"label":"GPE","pattern":"Ballinger"}
+{"label":"GPE","pattern":"Shavano Park"}
+{"label":"GPE","pattern":"Winnsboro"}
+{"label":"GPE","pattern":"Clifton"}
+{"label":"GPE","pattern":"Crane"}
+{"label":"GPE","pattern":"Eagle Lake"}
+{"label":"GPE","pattern":"Reno"}
+{"label":"GPE","pattern":"Teague"}
+{"label":"GPE","pattern":"Dublin"}
+{"label":"GPE","pattern":"West Orange"}
+{"label":"GPE","pattern":"Chandler"}
+{"label":"GPE","pattern":"Springtown"}
+{"label":"GPE","pattern":"Llano"}
+{"label":"GPE","pattern":"West Lake Hills"}
+{"label":"GPE","pattern":"Dilley"}
+{"label":"GPE","pattern":"Presidio"}
+{"label":"GPE","pattern":"Karnes City"}
+{"label":"GPE","pattern":"Hideaway"}
+{"label":"GPE","pattern":"Beach City"}
+{"label":"GPE","pattern":"Grand Saline"}
+{"label":"GPE","pattern":"Bishop"}
+{"label":"GPE","pattern":"Annetta"}
+{"label":"GPE","pattern":"San Saba"}
+{"label":"GPE","pattern":"Early"}
+{"label":"GPE","pattern":"Onalaska"}
+{"label":"GPE","pattern":"Hollywood Park"}
+{"label":"GPE","pattern":"Port Aransas"}
+{"label":"GPE","pattern":"DeCordova"}
+{"label":"GPE","pattern":"Henrietta"}
+{"label":"GPE","pattern":"Reno"}
+{"label":"GPE","pattern":"Spearman"}
+{"label":"GPE","pattern":"Piney Point Village"}
+{"label":"GPE","pattern":"Needville"}
+{"label":"GPE","pattern":"Nocona"}
+{"label":"GPE","pattern":"Double Oak"}
+{"label":"GPE","pattern":"Cactus"}
+{"label":"GPE","pattern":"Haskell"}
+{"label":"GPE","pattern":"Combes"}
+{"label":"GPE","pattern":"Oak Ridge North"}
+{"label":"GPE","pattern":"Olney"}
+{"label":"GPE","pattern":"El Lago"}
+{"label":"GPE","pattern":"Castroville"}
+{"label":"GPE","pattern":"Stamford"}
+{"label":"GPE","pattern":"Lytle"}
+{"label":"GPE","pattern":"Hackberry"}
+{"label":"GPE","pattern":"Shallowater"}
+{"label":"GPE","pattern":"Fairfield"}
+{"label":"GPE","pattern":"Poteet"}
+{"label":"GPE","pattern":"Wimberley"}
+{"label":"GPE","pattern":"Hamilton"}
+{"label":"GPE","pattern":"Ferris"}
+{"label":"GPE","pattern":"Rancho Viejo"}
+{"label":"GPE","pattern":"Big Lake"}
+{"label":"GPE","pattern":"Shady Shores"}
+{"label":"GPE","pattern":"Glen Rose"}
+{"label":"GPE","pattern":"Brazoria"}
+{"label":"GPE","pattern":"Taft"}
+{"label":"GPE","pattern":"Abernathy"}
+{"label":"GPE","pattern":"Waller"}
+{"label":"GPE","pattern":"Clarksville"}
+{"label":"GPE","pattern":"Refugio"}
+{"label":"GPE","pattern":"Vinton"}
+{"label":"GPE","pattern":"Van"}
+{"label":"GPE","pattern":"Hallettsville"}
+{"label":"GPE","pattern":"Balcones Heights"}
+{"label":"GPE","pattern":"Edcouch"}
+{"label":"GPE","pattern":"La Villa"}
+{"label":"GPE","pattern":"Talty"}
+{"label":"GPE","pattern":"Schulenburg"}
+{"label":"GPE","pattern":"Floydada"}
+{"label":"GPE","pattern":"Stanton"}
+{"label":"GPE","pattern":"Magnolia"}
+{"label":"GPE","pattern":"Pottsboro"}
+{"label":"GPE","pattern":"Palmhurst"}
+{"label":"GPE","pattern":"Westworth Village"}
+{"label":"GPE","pattern":"Seymour"}
+{"label":"GPE","pattern":"Escobares"}
+{"label":"GPE","pattern":"West"}
+{"label":"GPE","pattern":"Panorama Village"}
+{"label":"GPE","pattern":"The Hills"}
+{"label":"GPE","pattern":"Pantego"}
+{"label":"GPE","pattern":"Hooks"}
+{"label":"GPE","pattern":"Daingerfield"}
+{"label":"GPE","pattern":"El Cenizo"}
+{"label":"GPE","pattern":"Junction"}
+{"label":"GPE","pattern":"Hudson Oaks"}
+{"label":"GPE","pattern":"Mount Vernon"}
+{"label":"GPE","pattern":"Freer"}
+{"label":"GPE","pattern":"Troy"}
+{"label":"GPE","pattern":"Sonora"}
+{"label":"GPE","pattern":"Palmer"}
+{"label":"GPE","pattern":"Merkel"}
+{"label":"GPE","pattern":"Jonestown"}
+{"label":"GPE","pattern":"Premont"}
+{"label":"GPE","pattern":"Woodville"}
+{"label":"GPE","pattern":"Ponder"}
+{"label":"GPE","pattern":"Santa Rosa"}
+{"label":"GPE","pattern":"Salado"}
+{"label":"GPE","pattern":"Tahoka"}
+{"label":"GPE","pattern":"Trinity"}
+{"label":"GPE","pattern":"Haslet"}
+{"label":"GPE","pattern":"Winters"}
+{"label":"GPE","pattern":"Blue Mound"}
+{"label":"GPE","pattern":"Combine"}
+{"label":"GPE","pattern":"Nixon"}
+{"label":"GPE","pattern":"Anson"}
+{"label":"GPE","pattern":"Panhandle"}
+{"label":"GPE","pattern":"Hedwig Village"}
+{"label":"GPE","pattern":"Caddo Mills"}
+{"label":"GPE","pattern":"Montgomery"}
+{"label":"GPE","pattern":"De Leon"}
+{"label":"GPE","pattern":"Electra"}
+{"label":"GPE","pattern":"Ranger"}
+{"label":"GPE","pattern":"Overton"}
+{"label":"GPE","pattern":"Dalworthington Gardens"}
+{"label":"GPE","pattern":"Quanah"}
+{"label":"GPE","pattern":"Odem"}
+{"label":"GPE","pattern":"St. Hedwig"}
+{"label":"GPE","pattern":"Gunter"}
+{"label":"GPE","pattern":"Canadian"}
+{"label":"GPE","pattern":"East Bernard"}
+{"label":"GPE","pattern":"Pelican Bay"}
+{"label":"GPE","pattern":"Malakoff"}
+{"label":"GPE","pattern":"Pinehurst"}
+{"label":"GPE","pattern":"Tool"}
+{"label":"GPE","pattern":"Lyford"}
+{"label":"GPE","pattern":"George West"}
+{"label":"GPE","pattern":"Seagraves"}
+{"label":"GPE","pattern":"Kountze"}
+{"label":"GPE","pattern":"Olmos Park"}
+{"label":"GPE","pattern":"Arcola"}
+{"label":"GPE","pattern":"Shiner"}
+{"label":"GPE","pattern":"Idalou"}
+{"label":"GPE","pattern":"Briarcliff"}
+{"label":"GPE","pattern":"Mason"}
+{"label":"GPE","pattern":"Jarrell"}
+{"label":"GPE","pattern":"Weimar"}
+{"label":"GPE","pattern":"South Padre Island"}
+{"label":"GPE","pattern":"Memphis"}
+{"label":"GPE","pattern":"Shepherd"}
+{"label":"GPE","pattern":"Leonard"}
+{"label":"GPE","pattern":"Troup"}
+{"label":"GPE","pattern":"Whitney"}
+{"label":"GPE","pattern":"Elmendorf"}
+{"label":"GPE","pattern":"Huntington"}
+{"label":"GPE","pattern":"Rio Hondo"}
+{"label":"GPE","pattern":"Hale Center"}
+{"label":"GPE","pattern":"Kirbyville"}
+{"label":"GPE","pattern":"Newton"}
+{"label":"GPE","pattern":"Quitman"}
+{"label":"GPE","pattern":"Little River-Academy"}
+{"label":"GPE","pattern":"Ganado"}
+{"label":"GPE","pattern":"Italy"}
+{"label":"GPE","pattern":"Olton"}
+{"label":"GPE","pattern":"Anahuac"}
+{"label":"GPE","pattern":"Jones Creek"}
+{"label":"GPE","pattern":"Stratford"}
+{"label":"GPE","pattern":"Cooper"}
+{"label":"GPE","pattern":"Van Horn"}
+{"label":"GPE","pattern":"Waskom"}
+{"label":"GPE","pattern":"West Tawakoni"}
+{"label":"GPE","pattern":"Collinsville"}
+{"label":"GPE","pattern":"Albany"}
+{"label":"GPE","pattern":"Meadowlakes"}
+{"label":"GPE","pattern":"Krugerville"}
+{"label":"GPE","pattern":"Grandview"}
+{"label":"GPE","pattern":"Hamlin"}
+{"label":"GPE","pattern":"Beverly Hills"}
+{"label":"GPE","pattern":"Roman Forest"}
+{"label":"GPE","pattern":"Clarendon"}
+{"label":"GPE","pattern":"Wellington"}
+{"label":"GPE","pattern":"Poth"}
+{"label":"GPE","pattern":"Godley"}
+{"label":"GPE","pattern":"San Augustine"}
+{"label":"GPE","pattern":"Fritch"}
+{"label":"GPE","pattern":"Cresson"}
+{"label":"GPE","pattern":"Jefferson"}
+{"label":"GPE","pattern":"Southside Place"}
+{"label":"GPE","pattern":"McCamey"}
+{"label":"GPE","pattern":"Cross Roads"}
+{"label":"GPE","pattern":"Ingram"}
+{"label":"GPE","pattern":"Yorktown"}
+{"label":"GPE","pattern":"Woodcreek"}
+{"label":"GPE","pattern":"Kemah"}
+{"label":"GPE","pattern":"Sour Lake"}
+{"label":"GPE","pattern":"Lorena"}
+{"label":"GPE","pattern":"Mart"}
+{"label":"GPE","pattern":"Buffalo"}
+{"label":"GPE","pattern":"Linden"}
+{"label":"GPE","pattern":"Blanco"}
+{"label":"GPE","pattern":"Splendora"}
+{"label":"GPE","pattern":"Shamrock"}
+{"label":"GPE","pattern":"Bartonville"}
+{"label":"GPE","pattern":"Somerset"}
+{"label":"GPE","pattern":"Bertram"}
+{"label":"GPE","pattern":"Copper Canyon"}
+{"label":"GPE","pattern":"Bayou Vista"}
+{"label":"GPE","pattern":"Honey Grove"}
+{"label":"GPE","pattern":"Whitewright"}
+{"label":"GPE","pattern":"Marfa"}
+{"label":"GPE","pattern":"Gregory"}
+{"label":"GPE","pattern":"Rhome"}
+{"label":"GPE","pattern":"Patton Village"}
+{"label":"GPE","pattern":"Johnson City"}
+{"label":"GPE","pattern":"Goldthwaite"}
+{"label":"GPE","pattern":"Bovina"}
+{"label":"GPE","pattern":"Sunray"}
+{"label":"GPE","pattern":"Lowry Crossing"}
+{"label":"GPE","pattern":"Westlake"}
+{"label":"GPE","pattern":"Franklin"}
+{"label":"GPE","pattern":"Morton"}
+{"label":"GPE","pattern":"Uhland"}
+{"label":"GPE","pattern":"Runaway Bay"}
+{"label":"GPE","pattern":"Danbury"}
+{"label":"GPE","pattern":"Bartlett"}
+{"label":"GPE","pattern":"Ralls"}
+{"label":"GPE","pattern":"Stinnett"}
+{"label":"GPE","pattern":"Itasca"}
+{"label":"GPE","pattern":"Goliad"}
+{"label":"GPE","pattern":"Lakeside"}
+{"label":"GPE","pattern":"Oak Leaf"}
+{"label":"GPE","pattern":"Edgewood"}
+{"label":"GPE","pattern":"Eldorado"}
+{"label":"GPE","pattern":"Archer City"}
+{"label":"GPE","pattern":"Muenster"}
+{"label":"GPE","pattern":"Holliday"}
+{"label":"GPE","pattern":"Three Rivers"}
+{"label":"GPE","pattern":"Charlotte"}
+{"label":"GPE","pattern":"Brookside Village"}
+{"label":"GPE","pattern":"Fulton"}
+{"label":"GPE","pattern":"Eden"}
+{"label":"GPE","pattern":"Hughes Springs"}
+{"label":"GPE","pattern":"Bangs"}
+{"label":"GPE","pattern":"Bells"}
+{"label":"GPE","pattern":"Shoreacres"}
+{"label":"GPE","pattern":"Cottonwood Shores"}
+{"label":"GPE","pattern":"De Kalb"}
+{"label":"GPE","pattern":"Kerens"}
+{"label":"GPE","pattern":"Baird"}
+{"label":"GPE","pattern":"Grapeland"}
+{"label":"GPE","pattern":"Crosbyton"}
+{"label":"GPE","pattern":"Boyd"}
+{"label":"GPE","pattern":"Lockney"}
+{"label":"GPE","pattern":"Corrigan"}
+{"label":"GPE","pattern":"Wheeler"}
+{"label":"GPE","pattern":"Quinlan"}
+{"label":"GPE","pattern":"Aurora"}
+{"label":"GPE","pattern":"Rollingwood"}
+{"label":"GPE","pattern":"New Fairview"}
+{"label":"GPE","pattern":"Stockdale"}
+{"label":"GPE","pattern":"Alvord"}
+{"label":"GPE","pattern":"Bruceville-Eddy"}
+{"label":"GPE","pattern":"Woodbranch"}
+{"label":"GPE","pattern":"Moody"}
+{"label":"GPE","pattern":"Queen City"}
+{"label":"GPE","pattern":"Lone Star"}
+{"label":"GPE","pattern":"Meridian"}
+{"label":"GPE","pattern":"Wolfe City"}
+{"label":"GPE","pattern":"Hubbard"}
+{"label":"GPE","pattern":"Seven Points"}
+{"label":"GPE","pattern":"Blossom"}
+{"label":"GPE","pattern":"Sabinal"}
+{"label":"GPE","pattern":"Brackettville"}
+{"label":"GPE","pattern":"Palm Valley"}
+{"label":"GPE","pattern":"Naples"}
+{"label":"GPE","pattern":"Farwell"}
+{"label":"GPE","pattern":"Ivanhoe"}
+{"label":"GPE","pattern":"Booker"}
+{"label":"GPE","pattern":"Menard"}
+{"label":"GPE","pattern":"Plains"}
+{"label":"GPE","pattern":"Rotan"}
+{"label":"GPE","pattern":"Rosebud"}
+{"label":"GPE","pattern":"Plum Grove"}
+{"label":"GPE","pattern":"Hico"}
+{"label":"GPE","pattern":"Tatum"}
+{"label":"GPE","pattern":"Flatonia"}
+{"label":"GPE","pattern":"Nevada"}
+{"label":"GPE","pattern":"Somerville"}
+{"label":"GPE","pattern":"Hawkins"}
+{"label":"GPE","pattern":"Old River-Winfree"}
+{"label":"GPE","pattern":"Woodsboro"}
+{"label":"GPE","pattern":"Wallis"}
+{"label":"GPE","pattern":"Emory"}
+{"label":"GPE","pattern":"Thorndale"}
+{"label":"GPE","pattern":"Elkhart"}
+{"label":"GPE","pattern":"Natalia"}
+{"label":"GPE","pattern":"Point Venture"}
+{"label":"GPE","pattern":"Sundown"}
+{"label":"GPE","pattern":"Big Sandy"}
+{"label":"GPE","pattern":"Clear Lake Shores"}
+{"label":"GPE","pattern":"Gholson"}
+{"label":"GPE","pattern":"Roscoe"}
+{"label":"GPE","pattern":"Valley Mills"}
+{"label":"GPE","pattern":"China"}
+{"label":"GPE","pattern":"Munday"}
+{"label":"GPE","pattern":"Rice"}
+{"label":"GPE","pattern":"Lexington"}
+{"label":"GPE","pattern":"Brownsboro"}
+{"label":"GPE","pattern":"Martindale"}
+{"label":"GPE","pattern":"La Grulla"}
+{"label":"GPE","pattern":"Florence"}
+{"label":"GPE","pattern":"Benavides"}
+{"label":"GPE","pattern":"Granger"}
+{"label":"GPE","pattern":"Tioga"}
+{"label":"GPE","pattern":"Tye"}
+{"label":"GPE","pattern":"Blue Ridge"}
+{"label":"GPE","pattern":"Oyster Creek"}
+{"label":"GPE","pattern":"Claude"}
+{"label":"GPE","pattern":"Orange Grove"}
+{"label":"GPE","pattern":"Kempner"}
+{"label":"GPE","pattern":"Kemp"}
+{"label":"GPE","pattern":"Von Ormy"}
+{"label":"GPE","pattern":"Ransom Canyon"}
+{"label":"GPE","pattern":"Pine Island"}
+{"label":"GPE","pattern":"La Vernia"}
+{"label":"GPE","pattern":"Eustace"}
+{"label":"GPE","pattern":"Lakeside City"}
+{"label":"GPE","pattern":"Newark"}
+{"label":"GPE","pattern":"Ore City"}
+{"label":"GPE","pattern":"Cut and Shoot"}
+{"label":"GPE","pattern":"China Grove"}
+{"label":"GPE","pattern":"Sterling City"}
+{"label":"GPE","pattern":"Frankston"}
+{"label":"GPE","pattern":"Gruver"}
+{"label":"GPE","pattern":"LaCoste"}
+{"label":"GPE","pattern":"Rogers"}
+{"label":"GPE","pattern":"Tiki Island"}
+{"label":"GPE","pattern":"Bogata"}
+{"label":"GPE","pattern":"Holland"}
+{"label":"GPE","pattern":"Rio Vista"}
+{"label":"GPE","pattern":"Jamaica Beach"}
+{"label":"GPE","pattern":"Riesel"}
+{"label":"GPE","pattern":"Lindsay"}
+{"label":"GPE","pattern":"Paducah"}
+{"label":"GPE","pattern":"Bevil Oaks"}
+{"label":"GPE","pattern":"Knox City"}
+{"label":"GPE","pattern":"Marion"}
+{"label":"GPE","pattern":"Iraan"}
+{"label":"GPE","pattern":"Alto"}
+{"label":"GPE","pattern":"Pleak"}
+{"label":"GPE","pattern":"Holiday Lakes"}
+{"label":"GPE","pattern":"Robert Lee"}
+{"label":"GPE","pattern":"Santa Anna"}
+{"label":"GPE","pattern":"Southmayd"}
+{"label":"GPE","pattern":"Los Indios"}
+{"label":"GPE","pattern":"Ames"}
+{"label":"GPE","pattern":"Hemphill"}
+{"label":"GPE","pattern":"Wortham"}
+{"label":"GPE","pattern":"Seadrift"}
+{"label":"GPE","pattern":"Chico"}
+{"label":"GPE","pattern":"St. Paul"}
+{"label":"GPE","pattern":"Daisetta"}
+{"label":"GPE","pattern":"Tenaha"}
+{"label":"GPE","pattern":"Timpson"}
+{"label":"GPE","pattern":"Gorman"}
+{"label":"GPE","pattern":"Tolar"}
+{"label":"GPE","pattern":"Petersburg"}
+{"label":"GPE","pattern":"Maud"}
+{"label":"GPE","pattern":"Lakeport"}
+{"label":"GPE","pattern":"Mustang Ridge"}
+{"label":"GPE","pattern":"New Waverly"}
+{"label":"GPE","pattern":"Lorenzo"}
+{"label":"GPE","pattern":"Runge"}
+{"label":"GPE","pattern":"Calvert"}
+{"label":"GPE","pattern":"New London"}
+{"label":"GPE","pattern":"Bronte"}
+{"label":"GPE","pattern":"Maypearl"}
+{"label":"GPE","pattern":"Waelder"}
+{"label":"GPE","pattern":"Hill Country Village"}
+{"label":"GPE","pattern":"Sudan"}
+{"label":"GPE","pattern":"Red Lick"}
+{"label":"GPE","pattern":"Omaha"}
+{"label":"GPE","pattern":"Tom Bean"}
+{"label":"GPE","pattern":"Clint"}
+{"label":"GPE","pattern":"Arp"}
+{"label":"GPE","pattern":"Cross Plains"}
+{"label":"GPE","pattern":"East Mountain"}
+{"label":"GPE","pattern":"Centerville"}
+{"label":"GPE","pattern":"Fairchilds"}
+{"label":"GPE","pattern":"Coahoma"}
+{"label":"GPE","pattern":"Groveton"}
+{"label":"GPE","pattern":"Miles"}
+{"label":"GPE","pattern":"White Deer"}
+{"label":"GPE","pattern":"Crawford"}
+{"label":"GPE","pattern":"Earth"}
+{"label":"GPE","pattern":"St. Jo"}
+{"label":"GPE","pattern":"Pineland"}
+{"label":"GPE","pattern":"Oak Ridge"}
+{"label":"GPE","pattern":"Anton"}
+{"label":"GPE","pattern":"Hart"}
+{"label":"GPE","pattern":"Wink"}
+{"label":"GPE","pattern":"Blooming Grove"}
+{"label":"GPE","pattern":"Rocksprings"}
+{"label":"GPE","pattern":"Vega"}
+{"label":"GPE","pattern":"Wells"}
+{"label":"GPE","pattern":"Moulton"}
+{"label":"GPE","pattern":"Trinidad"}
+{"label":"GPE","pattern":"Thrall"}
+{"label":"GPE","pattern":"New Summerfield"}
+{"label":"GPE","pattern":"Bremond"}
+{"label":"GPE","pattern":"Garrett"}
+{"label":"GPE","pattern":"Berryville"}
+{"label":"GPE","pattern":"Indian Lake"}
+{"label":"GPE","pattern":"Redwater"}
+{"label":"GPE","pattern":"East Tawakoni"}
+{"label":"GPE","pattern":"Tuscola"}
+{"label":"GPE","pattern":"Bandera"}
+{"label":"GPE","pattern":"Dawson"}
+{"label":"GPE","pattern":"Celeste"}
+{"label":"GPE","pattern":"Walnut Springs"}
+{"label":"GPE","pattern":"Hardin"}
+{"label":"GPE","pattern":"Hilshire Village"}
+{"label":"GPE","pattern":"Hebron"}
+{"label":"GPE","pattern":"Jewett"}
+{"label":"GPE","pattern":"Garrison"}
+{"label":"GPE","pattern":"Bailey's Prairie"}
+{"label":"GPE","pattern":"Clarksville City"}
+{"label":"GPE","pattern":"Road Runner[b]"}
+{"label":"GPE","pattern":"Coldspring"}
+{"label":"GPE","pattern":"Coolidge"}
+{"label":"GPE","pattern":"Knollwood"}
+{"label":"GPE","pattern":"Trenton"}
+{"label":"GPE","pattern":"Mertzon"}
+{"label":"GPE","pattern":"Santa Clara"}
+{"label":"GPE","pattern":"Lometa"}
+{"label":"GPE","pattern":"Rising Star"}
+{"label":"GPE","pattern":"Sunrise Beach Village"}
+{"label":"GPE","pattern":"Point"}
+{"label":"GPE","pattern":"Ector"}
+{"label":"GPE","pattern":"Post Oak Bend City"}
+{"label":"GPE","pattern":"Aspermont"}
+{"label":"GPE","pattern":"Rankin"}
+{"label":"GPE","pattern":"Valley View"}
+{"label":"GPE","pattern":"Payne Springs"}
+{"label":"GPE","pattern":"Crowell"}
+{"label":"GPE","pattern":"Log Cabin"}
+{"label":"GPE","pattern":"Throckmorton"}
+{"label":"GPE","pattern":"Pecan Hill"}
+{"label":"GPE","pattern":"Spur"}
+{"label":"GPE","pattern":"Beckville"}
+{"label":"GPE","pattern":"Como"}
+{"label":"GPE","pattern":"Savoy"}
+{"label":"GPE","pattern":"Scurry"}
+{"label":"GPE","pattern":"Milford"}
+{"label":"GPE","pattern":"New Deal"}
+{"label":"GPE","pattern":"Joaquin"}
+{"label":"GPE","pattern":"O'Donnell"}
+{"label":"GPE","pattern":"Lone Oak"}
+{"label":"GPE","pattern":"Asherton"}
+{"label":"GPE","pattern":"Weir"}
+{"label":"GPE","pattern":"Detroit"}
+{"label":"GPE","pattern":"Lake Tanglewood"}
+{"label":"GPE","pattern":"Cumby"}
+{"label":"GPE","pattern":"Hillcrest"}
+{"label":"GPE","pattern":"Burke"}
+{"label":"GPE","pattern":"Agua Dulce"}
+{"label":"GPE","pattern":"San Felipe"}
+{"label":"GPE","pattern":"Graford"}
+{"label":"GPE","pattern":"New Berlin"}
+{"label":"GPE","pattern":"Driscoll"}
+{"label":"GPE","pattern":"Niederwald"}
+{"label":"GPE","pattern":"Oak Grove"}
+{"label":"GPE","pattern":"Kenefick"}
+{"label":"GPE","pattern":"Lott"}
+{"label":"GPE","pattern":"Golinda"}
+{"label":"GPE","pattern":"Amherst"}
+{"label":"GPE","pattern":"New Hope"}
+{"label":"GPE","pattern":"Point Blank"}
+{"label":"GPE","pattern":"Lakewood Village"}
+{"label":"GPE","pattern":"Mountain City"}
+{"label":"GPE","pattern":"Sunset Valley"}
+{"label":"GPE","pattern":"Surfside Beach"}
+{"label":"GPE","pattern":"McLean"}
+{"label":"GPE","pattern":"Winona"}
+{"label":"GPE","pattern":"Simonton"}
+{"label":"GPE","pattern":"Westover Hills"}
+{"label":"GPE","pattern":"Annetta South"}
+{"label":"GPE","pattern":"Bardwell"}
+{"label":"GPE","pattern":"Frost"}
+{"label":"GPE","pattern":"New Chapel Hill"}
+{"label":"GPE","pattern":"Noonday"}
+{"label":"GPE","pattern":"Happy"}
+{"label":"GPE","pattern":"Silverton"}
+{"label":"GPE","pattern":"Ladonia"}
+{"label":"GPE","pattern":"Ingleside on the Bay"}
+{"label":"GPE","pattern":"Kress"}
+{"label":"GPE","pattern":"Zavalla"}
+{"label":"GPE","pattern":"Beasley"}
+{"label":"GPE","pattern":"Pattison"}
+{"label":"GPE","pattern":"Roby"}
+{"label":"GPE","pattern":"Meadow"}
+{"label":"GPE","pattern":"Stagecoach"}
+{"label":"GPE","pattern":"Lovelady"}
+{"label":"GPE","pattern":"Point Comfort"}
+{"label":"GPE","pattern":"Annetta North"}
+{"label":"GPE","pattern":"Matador"}
+{"label":"GPE","pattern":"Buffalo Gap"}
+{"label":"GPE","pattern":"Rule"}
+{"label":"GPE","pattern":"Hawley"}
+{"label":"GPE","pattern":"Cove"}
+{"label":"GPE","pattern":"Cushing"}
+{"label":"GPE","pattern":"Campbell"}
+{"label":"GPE","pattern":"Chillicothe"}
+{"label":"GPE","pattern":"Riverside"}
+{"label":"GPE","pattern":"Colmesneil"}
+{"label":"GPE","pattern":"Deport"}
+{"label":"GPE","pattern":"Loraine"}
+{"label":"GPE","pattern":"Strawn"}
+{"label":"GPE","pattern":"Appleby"}
+{"label":"GPE","pattern":"Groom"}
+{"label":"GPE","pattern":"Roxton"}
+{"label":"GPE","pattern":"Thorntonville"}
+{"label":"GPE","pattern":"Falls City"}
+{"label":"GPE","pattern":"Volente"}
+{"label":"GPE","pattern":"Encinal"}
+{"label":"GPE","pattern":"Newcastle"}
+{"label":"GPE","pattern":"San Perlita"}
+{"label":"GPE","pattern":"Murchison"}
+{"label":"GPE","pattern":"Paradise"}
+{"label":"GPE","pattern":"Miami"}
+{"label":"GPE","pattern":"Lipan"}
+{"label":"GPE","pattern":"Snook"}
+{"label":"GPE","pattern":"Petrolia"}
+{"label":"GPE","pattern":"San Leanna"}
+{"label":"GPE","pattern":"Brazos Country"}
+{"label":"GPE","pattern":"Briaroaks"}
+{"label":"GPE","pattern":"Camp Wood"}
+{"label":"GPE","pattern":"Normangee"}
+{"label":"GPE","pattern":"Mount Enterprise"}
+{"label":"GPE","pattern":"Jayton"}
+{"label":"GPE","pattern":"Pine Forest"}
+{"label":"GPE","pattern":"Bayview"}
+{"label":"GPE","pattern":"Star Harbor"}
+{"label":"GPE","pattern":"Easton"}
+{"label":"GPE","pattern":"Liverpool"}
+{"label":"GPE","pattern":"Dean"}
+{"label":"GPE","pattern":"Fruitvale"}
+{"label":"GPE","pattern":"Grey Forest"}
+{"label":"GPE","pattern":"Talco"}
+{"label":"GPE","pattern":"Big Wells"}
+{"label":"GPE","pattern":"Alba"}
+{"label":"GPE","pattern":"Smiley"}
+{"label":"GPE","pattern":"Gordon"}
+{"label":"GPE","pattern":"Plantersville[b]"}
+{"label":"GPE","pattern":"Hawk Cove"}
+{"label":"GPE","pattern":"Texline"}
+{"label":"GPE","pattern":"Buffalo Springs"}
+{"label":"GPE","pattern":"Lake City"}
+{"label":"GPE","pattern":"Angus"}
+{"label":"GPE","pattern":"Morgan"}
+{"label":"GPE","pattern":"Evant"}
+{"label":"GPE","pattern":"Kosse"}
+{"label":"GPE","pattern":"Byers"}
+{"label":"GPE","pattern":"Nome"}
+{"label":"GPE","pattern":"Union Grove"}
+{"label":"GPE","pattern":"Creedmoor"}
+{"label":"GPE","pattern":"Bryson"}
+{"label":"GPE","pattern":"Timbercreek Canyon"}
+{"label":"GPE","pattern":"Wilson"}
+{"label":"GPE","pattern":"Leary"}
+{"label":"GPE","pattern":"DISH"}
+{"label":"GPE","pattern":"Oglesby"}
+{"label":"GPE","pattern":"Hallsburg"}
+{"label":"GPE","pattern":"Smyer"}
+{"label":"GPE","pattern":"Retreat"}
+{"label":"GPE","pattern":"Avery"}
+{"label":"GPE","pattern":"Winfield"}
+{"label":"GPE","pattern":"Scotland"}
+{"label":"GPE","pattern":"Bear Creek"}
+{"label":"GPE","pattern":"Highland Haven"}
+{"label":"GPE","pattern":"Oak Valley"}
+{"label":"GPE","pattern":"Ropesville"}
+{"label":"GPE","pattern":"Webberville"}
+{"label":"GPE","pattern":"Thornton"}
+{"label":"GPE","pattern":"Yantis"}
+{"label":"GPE","pattern":"Mildred"}
+{"label":"GPE","pattern":"Lefors"}
+{"label":"GPE","pattern":"Wickett"}
+{"label":"GPE","pattern":"Kurten"}
+{"label":"GPE","pattern":"Dickens"}
+{"label":"GPE","pattern":"Gustine"}
+{"label":"GPE","pattern":"South Mountain"}
+{"label":"GPE","pattern":"Balmorhea"}
+{"label":"GPE","pattern":"Milano"}
+{"label":"GPE","pattern":"Union Valley"}
+{"label":"GPE","pattern":"Stockton Bend"}
+{"label":"GPE","pattern":"Cross Timber"}
+{"label":"GPE","pattern":"Oakwood"}
+{"label":"GPE","pattern":"Skellytown"}
+{"label":"GPE","pattern":"San Patricio"}
+{"label":"GPE","pattern":"Alma"}
+{"label":"GPE","pattern":"Devers"}
+{"label":"GPE","pattern":"Blum"}
+{"label":"GPE","pattern":"Millsap"}
+{"label":"GPE","pattern":"Dodd City"}
+{"label":"GPE","pattern":"Avinger"}
+{"label":"GPE","pattern":"Buckholts"}
+{"label":"GPE","pattern":"Howardwick"}
+{"label":"GPE","pattern":"Whiteface"}
+{"label":"GPE","pattern":"Bedias"}
+{"label":"GPE","pattern":"Blanket"}
+{"label":"GPE","pattern":"Chireno"}
+{"label":"GPE","pattern":"Dell City"}
+{"label":"GPE","pattern":"Follett"}
+{"label":"GPE","pattern":"Huxley"}
+{"label":"GPE","pattern":"Abbott"}
+{"label":"GPE","pattern":"Pleasant Valley"}
+{"label":"GPE","pattern":"Enchanted Oaks"}
+{"label":"GPE","pattern":"Leroy"}
+{"label":"GPE","pattern":"Paint Rock"}
+{"label":"GPE","pattern":"Coyote Flats[b]"}
+{"label":"GPE","pattern":"Edom"}
+{"label":"GPE","pattern":"Lake Bridgeport"}
+{"label":"GPE","pattern":"Grays Prairie"}
+{"label":"GPE","pattern":"Lakeside"}
+{"label":"GPE","pattern":"Sanctuary"}
+{"label":"GPE","pattern":"Higgins"}
+{"label":"GPE","pattern":"Christine"}
+{"label":"GPE","pattern":"Windthorst"}
+{"label":"GPE","pattern":"Kendleton"}
+{"label":"GPE","pattern":"Gary City"}
+{"label":"GPE","pattern":"Scottsville"}
+{"label":"GPE","pattern":"Sadler"}
+{"label":"GPE","pattern":"New Home"}
+{"label":"GPE","pattern":"Quitaque"}
+{"label":"GPE","pattern":"Leakey"}
+{"label":"GPE","pattern":"Reklaw"}
+{"label":"GPE","pattern":"Grandfalls"}
+{"label":"GPE","pattern":"Nordheim"}
+{"label":"GPE","pattern":"Rose City"}
+{"label":"GPE","pattern":"Rose Hill Acres"}
+{"label":"GPE","pattern":"Tira"}
+{"label":"GPE","pattern":"Gallatin"}
+{"label":"GPE","pattern":"Turkey"}
+{"label":"GPE","pattern":"Bloomburg"}
+{"label":"GPE","pattern":"Iola"}
+{"label":"GPE","pattern":"Rosser"}
+{"label":"GPE","pattern":"Eureka"}
+{"label":"GPE","pattern":"Warren City"}
+{"label":"GPE","pattern":"Callisburg"}
+{"label":"GPE","pattern":"Orchard"}
+{"label":"GPE","pattern":"Lawn"}
+{"label":"GPE","pattern":"Nazareth"}
+{"label":"GPE","pattern":"Iredell"}
+{"label":"GPE","pattern":"Darrouzett"}
+{"label":"GPE","pattern":"Weston"}
+{"label":"GPE","pattern":"Trent"}
+{"label":"GPE","pattern":"Coupland[b]"}
+{"label":"GPE","pattern":"Mount Calm"}
+{"label":"GPE","pattern":"Bellevue"}
+{"label":"GPE","pattern":"Cashion Community"}
+{"label":"GPE","pattern":"Poynor"}
+{"label":"GPE","pattern":"Granjeno"}
+{"label":"GPE","pattern":"Carbon"}
+{"label":"GPE","pattern":"Ellinger[a]"}
+{"label":"GPE","pattern":"Burton"}
+{"label":"GPE","pattern":"Cranfills Gap"}
+{"label":"GPE","pattern":"Kennard"}
+{"label":"GPE","pattern":"Hedley"}
+{"label":"GPE","pattern":"Taylor Landing"}
+{"label":"GPE","pattern":"Chester"}
+{"label":"GPE","pattern":"Bayside"}
+{"label":"GPE","pattern":"Palisades"}
+{"label":"GPE","pattern":"Industry"}
+{"label":"GPE","pattern":"Morgan's Point"}
+{"label":"GPE","pattern":"Covington"}
+{"label":"GPE","pattern":"Channing"}
+{"label":"GPE","pattern":"Ackerly"}
+{"label":"GPE","pattern":"Richland"}
+{"label":"GPE","pattern":"Lueders"}
+{"label":"GPE","pattern":"Progreso Lakes"}
+{"label":"GPE","pattern":"Texhoma"}
+{"label":"GPE","pattern":"Goodrich"}
+{"label":"GPE","pattern":"Barstow"}
+{"label":"GPE","pattern":"Streetman"}
+{"label":"GPE","pattern":"Blackwell"}
+{"label":"GPE","pattern":"Oak Ridge"}
+{"label":"GPE","pattern":"Ross"}
+{"label":"GPE","pattern":"Richland Springs"}
+{"label":"GPE","pattern":"Rochester"}
+{"label":"GPE","pattern":"Fayetteville"}
+{"label":"GPE","pattern":"North Cleveland"}
+{"label":"GPE","pattern":"Carmine"}
+{"label":"GPE","pattern":"Coffee City"}
+{"label":"GPE","pattern":"Latexo"}
+{"label":"GPE","pattern":"Hays"}
+{"label":"GPE","pattern":"Malone"}
+{"label":"GPE","pattern":"Moran"}
+{"label":"GPE","pattern":"Navarro"}
+{"label":"GPE","pattern":"Wixon Valley"}
+{"label":"GPE","pattern":"Bailey"}
+{"label":"GPE","pattern":"Mingus"}
+{"label":"GPE","pattern":"Woodson"}
+{"label":"GPE","pattern":"Goldsmith"}
+{"label":"GPE","pattern":"Tehuacana"}
+{"label":"GPE","pattern":"Wellman"}
+{"label":"GPE","pattern":"Westbrook"}
+{"label":"GPE","pattern":"Barry"}
+{"label":"GPE","pattern":"Spring Branch[b]"}
+{"label":"GPE","pattern":"Forsan"}
+{"label":"GPE","pattern":"Opdyke West"}
+{"label":"GPE","pattern":"Cool"}
+{"label":"GPE","pattern":"Roaring Springs"}
+{"label":"GPE","pattern":"Douglassville"}
+{"label":"GPE","pattern":"Sandy Point[b]"}
+{"label":"GPE","pattern":"South Frydek[b]"}
+{"label":"GPE","pattern":"Carl's Corner"}
+{"label":"GPE","pattern":"Bishop Hills"}
+{"label":"GPE","pattern":"Benjamin"}
+{"label":"GPE","pattern":"Windom"}
+{"label":"GPE","pattern":"Anderson"}
+{"label":"GPE","pattern":"Cottonwood"}
+{"label":"GPE","pattern":"Emhouse"}
+{"label":"GPE","pattern":"La Ward"}
+{"label":"GPE","pattern":"Caney City"}
+{"label":"GPE","pattern":"Staples"}
+{"label":"GPE","pattern":"Broaddus"}
+{"label":"GPE","pattern":"Midway"}
+{"label":"GPE","pattern":"Woodloch"}
+{"label":"GPE","pattern":"Annona"}
+{"label":"GPE","pattern":"Bonney"}
+{"label":"GPE","pattern":"Ravenna"}
+{"label":"GPE","pattern":"Marquez"}
+{"label":"GPE","pattern":"Penelope"}
+{"label":"GPE","pattern":"Pecan Gap"}
+{"label":"GPE","pattern":"Goodlow"}
+{"label":"GPE","pattern":"Megargel"}
+{"label":"GPE","pattern":"Weinert"}
+{"label":"GPE","pattern":"Jolly"}
+{"label":"GPE","pattern":"Bynum"}
+{"label":"GPE","pattern":"Thompsons"}
+{"label":"GPE","pattern":"Goree"}
+{"label":"GPE","pattern":"Moore Station"}
+{"label":"GPE","pattern":"Browndell"}
+{"label":"GPE","pattern":"Leona"}
+{"label":"GPE","pattern":"Mertens"}
+{"label":"GPE","pattern":"Mobile City"}
+{"label":"GPE","pattern":"Springlake"}
+{"label":"GPE","pattern":"Kingsbury[b]"}
+{"label":"GPE","pattern":"Sanford"}
+{"label":"GPE","pattern":"Mullin"}
+{"label":"GPE","pattern":"Adrian"}
+{"label":"GPE","pattern":"Estelline"}
+{"label":"GPE","pattern":"Melvin"}
+{"label":"GPE","pattern":"Todd Mission"}
+{"label":"GPE","pattern":"Novice"}
+{"label":"GPE","pattern":"Austwell"}
+{"label":"GPE","pattern":"Cuney"}
+{"label":"GPE","pattern":"Marietta"}
+{"label":"GPE","pattern":"Valentine"}
+{"label":"GPE","pattern":"Aquilla"}
+{"label":"GPE","pattern":"Round Mountain"}
+{"label":"GPE","pattern":"Kirvin"}
+{"label":"GPE","pattern":"Powell"}
+{"label":"GPE","pattern":"Round Top"}
+{"label":"GPE","pattern":"O'Brien"}
+{"label":"GPE","pattern":"Dodson"}
+{"label":"GPE","pattern":"Toco"}
+{"label":"GPE","pattern":"Uncertain"}
+{"label":"GPE","pattern":"Petronila"}
+{"label":"GPE","pattern":"Edmonson"}
+{"label":"GPE","pattern":"Mobeetie"}
+{"label":"GPE","pattern":"Rocky Mound"}
+{"label":"GPE","pattern":"Domino"}
+{"label":"GPE","pattern":"Miller's Cove"}
+{"label":"GPE","pattern":"Pyote"}
+{"label":"GPE","pattern":"Sun Valley"}
+{"label":"GPE","pattern":"Dorchester"}
+{"label":"GPE","pattern":"Seven Oaks"}
+{"label":"GPE","pattern":"Neylandville"}
+{"label":"GPE","pattern":"Putnam"}
+{"label":"GPE","pattern":"Toyah"}
+{"label":"GPE","pattern":"Lakeview"}
+{"label":"GPE","pattern":"Dayton Lakes"}
+{"label":"GPE","pattern":"Spofford"}
+{"label":"GPE","pattern":"Draper"}
+{"label":"GPE","pattern":"Quintana"}
+{"label":"GPE","pattern":"Los Ybanez"}
+{"label":"GPE","pattern":"Impact"}
+{"label":"GPE","pattern":"Mustang"}
+{"label":"GPE","pattern":"254 Counties"}
+{"label":"GPE","pattern":"29,527,941"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Webb"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Potter"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Brazos"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"Tom Green"}
+{"label":"GPE","pattern":"Comal"}
+{"label":"GPE","pattern":"Brazos"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Walker"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Coryell"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Val Verde"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Maverick"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Howard"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Kleberg"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Kerr"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Erath"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Hale"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Kendall"}
+{"label":"GPE","pattern":"Brown"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Washington"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Matagorda"}
+{"label":"GPE","pattern":"Jim Wells"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Coryell"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Gray"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Titus"}
+{"label":"GPE","pattern":"Hopkins"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Starr"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Randall"}
+{"label":"GPE","pattern":"Palo Pinto"}
+{"label":"GPE","pattern":"Deaf Smith"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Moore"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Bee"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Reeves"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Hutchinson"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Starr"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Hood"}
+{"label":"GPE","pattern":"Calhoun"}
+{"label":"GPE","pattern":"Gillespie"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Nolan"}
+{"label":"GPE","pattern":"Willacy"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Aransas"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Wilbarger"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Terry"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Young"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Medina"}
+{"label":"GPE","pattern":"Dallam"}
+{"label":"GPE","pattern":"Chambers"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Ochiltree"}
+{"label":"GPE","pattern":"DeWitt"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Frio"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Gaines"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"Panola"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Zavala"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Winkler"}
+{"label":"GPE","pattern":"Comal"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Jackson"}
+{"label":"GPE","pattern":"Lavaca"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Polk"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Brewster"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Falls"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Montague"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Milam"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Milam"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Stephens"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Shelby"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Lee"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"McCulloch"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Upshur"}
+{"label":"GPE","pattern":"Dimmit"}
+{"label":"GPE","pattern":"Garza"}
+{"label":"GPE","pattern":"Brooks"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Madison"}
+{"label":"GPE","pattern":"Robertson"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Swisher"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Matagorda"}
+{"label":"GPE","pattern":"Medina"}
+{"label":"GPE","pattern":"Webb"}
+{"label":"GPE","pattern":"Mitchell"}
+{"label":"GPE","pattern":"Camp"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Comal"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Jack"}
+{"label":"GPE","pattern":"Castro"}
+{"label":"GPE","pattern":"Parmer"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Callahan"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Duval"}
+{"label":"GPE","pattern":"La Salle"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Karnes"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Colorado"}
+{"label":"GPE","pattern":"Runnels"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Colorado"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Freestone"}
+{"label":"GPE","pattern":"Erath"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Frio"}
+{"label":"GPE","pattern":"Karnes"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Chambers"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Brown"}
+{"label":"GPE","pattern":"Polk"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Hood"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Hansford"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Montague"}
+{"label":"GPE","pattern":"Moore"}
+{"label":"GPE","pattern":"Young"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Medina"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Freestone"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Reagan"}
+{"label":"GPE","pattern":"Somervell"}
+{"label":"GPE","pattern":"Hale"}
+{"label":"GPE","pattern":"Red River"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Lavaca"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Floyd"}
+{"label":"GPE","pattern":"Martin"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Baylor"}
+{"label":"GPE","pattern":"Starr"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Morris"}
+{"label":"GPE","pattern":"Webb"}
+{"label":"GPE","pattern":"Kimble"}
+{"label":"GPE","pattern":"Duval"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Sutton"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Jim Wells"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Lynn"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Runnels"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Jones"}
+{"label":"GPE","pattern":"Carson"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Hardeman"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Willacy"}
+{"label":"GPE","pattern":"Gaines"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Lavaca"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Colorado"}
+{"label":"GPE","pattern":"Hall"}
+{"label":"GPE","pattern":"San Jacinto"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Hale"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Jackson"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Chambers"}
+{"label":"GPE","pattern":"Delta"}
+{"label":"GPE","pattern":"Culberson"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Shackelford"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Jones"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Donley"}
+{"label":"GPE","pattern":"Collingsworth"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Hutchinson"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Upton"}
+{"label":"GPE","pattern":"Kerr"}
+{"label":"GPE","pattern":"DeWitt"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Mills"}
+{"label":"GPE","pattern":"Parmer"}
+{"label":"GPE","pattern":"Moore"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Robertson"}
+{"label":"GPE","pattern":"Cochran"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Crosby"}
+{"label":"GPE","pattern":"Hutchinson"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Schleicher"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Aransas"}
+{"label":"GPE","pattern":"Concho"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Brown"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Callahan"}
+{"label":"GPE","pattern":"Crosby"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Floyd"}
+{"label":"GPE","pattern":"Polk"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Morris"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Kinney"}
+{"label":"GPE","pattern":"Morris"}
+{"label":"GPE","pattern":"Parmer"}
+{"label":"GPE","pattern":"Lipscomb"}
+{"label":"GPE","pattern":"Fisher"}
+{"label":"GPE","pattern":"Falls"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Chambers"}
+{"label":"GPE","pattern":"Rains"}
+{"label":"GPE","pattern":"Milam"}
+{"label":"GPE","pattern":"Medina"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Upshur"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Nolan"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Knox"}
+{"label":"GPE","pattern":"Lee"}
+{"label":"GPE","pattern":"Starr"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Duval"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Armstrong"}
+{"label":"GPE","pattern":"Jim Wells"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Upshur"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Sterling"}
+{"label":"GPE","pattern":"Hansford"}
+{"label":"GPE","pattern":"Medina"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Red River"}
+{"label":"GPE","pattern":"Bell"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"Cottle"}
+{"label":"GPE","pattern":"Knox"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Coke"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Sabine"}
+{"label":"GPE","pattern":"Calhoun"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Shelby"}
+{"label":"GPE","pattern":"Shelby"}
+{"label":"GPE","pattern":"Hood"}
+{"label":"GPE","pattern":"Hale"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Walker"}
+{"label":"GPE","pattern":"Crosby"}
+{"label":"GPE","pattern":"Karnes"}
+{"label":"GPE","pattern":"Robertson"}
+{"label":"GPE","pattern":"Coke"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Morris"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Callahan"}
+{"label":"GPE","pattern":"Upshur"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Howard"}
+{"label":"GPE","pattern":"Runnels"}
+{"label":"GPE","pattern":"Carson"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Montague"}
+{"label":"GPE","pattern":"Sabine"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Castro"}
+{"label":"GPE","pattern":"Winkler"}
+{"label":"GPE","pattern":"Edwards"}
+{"label":"GPE","pattern":"Oldham"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Lavaca"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Robertson"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Rains"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"San Jacinto"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Irion"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Rains"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Stonewall"}
+{"label":"GPE","pattern":"Upton"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"Foard"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Panola"}
+{"label":"GPE","pattern":"Hopkins"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Shelby"}
+{"label":"GPE","pattern":"Lynn"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Dimmit"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Red River"}
+{"label":"GPE","pattern":"Randall"}
+{"label":"GPE","pattern":"Hopkins"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Palo Pinto"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Falls"}
+{"label":"GPE","pattern":"Falls"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"San Jacinto"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Gray"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Tarrant"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Smith"}
+{"label":"GPE","pattern":"Swisher"}
+{"label":"GPE","pattern":"Briscoe"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Swisher"}
+{"label":"GPE","pattern":"Angelina"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Fisher"}
+{"label":"GPE","pattern":"Terry"}
+{"label":"GPE","pattern":"Calhoun"}
+{"label":"GPE","pattern":"Motley"}
+{"label":"GPE","pattern":"Jones"}
+{"label":"GPE","pattern":"Chambers"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Hardeman"}
+{"label":"GPE","pattern":"Walker"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Mitchell"}
+{"label":"GPE","pattern":"Palo Pinto"}
+{"label":"GPE","pattern":"Carson"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"Karnes"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"La Salle"}
+{"label":"GPE","pattern":"Young"}
+{"label":"GPE","pattern":"Willacy"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Roberts"}
+{"label":"GPE","pattern":"Hood"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Real"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Kent"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Bexar"}
+{"label":"GPE","pattern":"Titus"}
+{"label":"GPE","pattern":"Dimmit"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Palo Pinto"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Dallam"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Coryell"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Upshur"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Jack"}
+{"label":"GPE","pattern":"Randall"}
+{"label":"GPE","pattern":"Lynn"}
+{"label":"GPE","pattern":"Coryell"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Red River"}
+{"label":"GPE","pattern":"Titus"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Travis"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Wood"}
+{"label":"GPE","pattern":"Gray"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"Brazos"}
+{"label":"GPE","pattern":"Coryell"}
+{"label":"GPE","pattern":"Reeves"}
+{"label":"GPE","pattern":"Milam"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Hood"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Carson"}
+{"label":"GPE","pattern":"Ellis"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Milam"}
+{"label":"GPE","pattern":"Donley"}
+{"label":"GPE","pattern":"Cochran"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Brown"}
+{"label":"GPE","pattern":"Hudspeth"}
+{"label":"GPE","pattern":"Lipscomb"}
+{"label":"GPE","pattern":"Shelby"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Concho"}
+{"label":"GPE","pattern":"Johnson"}
+{"label":"GPE","pattern":"Van Zandt"}
+{"label":"GPE","pattern":"Wise"}
+{"label":"GPE","pattern":"Lipscomb"}
+{"label":"GPE","pattern":"Atascosa"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Panola"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Lynn"}
+{"label":"GPE","pattern":"Briscoe"}
+{"label":"GPE","pattern":"Real"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"DeWitt"}
+{"label":"GPE","pattern":"Hopkins"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Hall"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Gregg"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Castro"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Lipscomb"}
+{"label":"GPE","pattern":"Collin"}
+{"label":"GPE","pattern":"Williamson"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Wichita"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Washington"}
+{"label":"GPE","pattern":"Bosque"}
+{"label":"GPE","pattern":"Donley"}
+{"label":"GPE","pattern":"Randall"}
+{"label":"GPE","pattern":"Harris"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Hartley"}
+{"label":"GPE","pattern":"Jones"}
+{"label":"GPE","pattern":"Polk"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"Freestone"}
+{"label":"GPE","pattern":"Nolan"}
+{"label":"GPE","pattern":"Cooke"}
+{"label":"GPE","pattern":"McLennan"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Shackelford"}
+{"label":"GPE","pattern":"Brazos"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Palo Pinto"}
+{"label":"GPE","pattern":"Limestone"}
+{"label":"GPE","pattern":"Terry"}
+{"label":"GPE","pattern":"Mitchell"}
+{"label":"GPE","pattern":"Comal"}
+{"label":"GPE","pattern":"Howard"}
+{"label":"GPE","pattern":"Hockley"}
+{"label":"GPE","pattern":"Motley"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Potter"}
+{"label":"GPE","pattern":"Knox"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Jackson"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Madison"}
+{"label":"GPE","pattern":"Red River"}
+{"label":"GPE","pattern":"Fannin"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Delta"}
+{"label":"GPE","pattern":"Archer"}
+{"label":"GPE","pattern":"Clay"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Fort Bend"}
+{"label":"GPE","pattern":"Knox"}
+{"label":"GPE","pattern":"Leon"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Lamb"}
+{"label":"GPE","pattern":"Guadalupe"}
+{"label":"GPE","pattern":"Hutchinson"}
+{"label":"GPE","pattern":"Mills"}
+{"label":"GPE","pattern":"Oldham"}
+{"label":"GPE","pattern":"Hall"}
+{"label":"GPE","pattern":"McCulloch"}
+{"label":"GPE","pattern":"Grimes"}
+{"label":"GPE","pattern":"Cherokee"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Jeff Davis"}
+{"label":"GPE","pattern":"Hill"}
+{"label":"GPE","pattern":"Freestone"}
+{"label":"GPE","pattern":"Fayette"}
+{"label":"GPE","pattern":"Collingsworth"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Harrison"}
+{"label":"GPE","pattern":"Nueces"}
+{"label":"GPE","pattern":"Hale"}
+{"label":"GPE","pattern":"Camp"}
+{"label":"GPE","pattern":"Cass"}
+{"label":"GPE","pattern":"Titus"}
+{"label":"GPE","pattern":"Ward"}
+{"label":"GPE","pattern":"Lamar"}
+{"label":"GPE","pattern":"Grayson"}
+{"label":"GPE","pattern":"Polk"}
+{"label":"GPE","pattern":"Hunt"}
+{"label":"GPE","pattern":"Callahan"}
+{"label":"GPE","pattern":"Reeves"}
+{"label":"GPE","pattern":"Hall"}
+{"label":"GPE","pattern":"Kinney"}
+{"label":"GPE","pattern":"21,096,153"}
+{"label":"GPE","pattern":"25,145,561"}
