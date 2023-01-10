@@ -1,0 +1,416 @@
+{
+    "List of Municipalities": [
+        {
+            "Municipality": "Mexico City",
+            "Primary County/State": "Mexico City"
+        },
+        {
+            "Municipality": "Tijuana",
+            "Primary County/State": "Baja California"
+        },
+        {
+            "Municipality": "Le\u00f3n",
+            "Primary County/State": "Guanajuato"
+        },
+        {
+            "Municipality": "Puebla",
+            "Primary County/State": "Puebla"
+        },
+        {
+            "Municipality": "Ecatepec",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Ju\u00e1rez",
+            "Primary County/State": "Chihuahua"
+        },
+        {
+            "Municipality": "Zapopan",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Guadalajara",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Monterrey",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Nezahualc\u00f3yotl",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Mexicali",
+            "Primary County/State": "Baja California"
+        },
+        {
+            "Municipality": "Quer\u00e9taro",
+            "Primary County/State": "Quer\u00e9taro"
+        },
+        {
+            "Municipality": "Culiac\u00e1n",
+            "Primary County/State": "Sinaloa"
+        },
+        {
+            "Municipality": "M\u00e9rida",
+            "Primary County/State": "Yucatan"
+        },
+        {
+            "Municipality": "Aguascalientes",
+            "Primary County/State": "Aguascalientes"
+        },
+        {
+            "Municipality": "Chihuahua",
+            "Primary County/State": "Chihuahua"
+        },
+        {
+            "Municipality": "Hermosillo",
+            "Primary County/State": "Sonora"
+        },
+        {
+            "Municipality": "San Luis Potos\u00ed",
+            "Primary County/State": "San Luis Potos\u00ed"
+        },
+        {
+            "Municipality": "Benito Ju\u00e1rez",
+            "Primary County/State": "Quintana Roo"
+        },
+        {
+            "Municipality": "Toluca",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Saltillo",
+            "Primary County/State": "Coahuila"
+        },
+        {
+            "Municipality": "Morelia",
+            "Primary County/State": "Michoac\u00e1n"
+        },
+        {
+            "Municipality": "Naucalpan",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Acapulco",
+            "Primary County/State": "Guerrero"
+        },
+        {
+            "Municipality": "Tlajomulco",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Torre\u00f3n",
+            "Primary County/State": "Coahuila"
+        },
+        {
+            "Municipality": "Chimalhuac\u00e1n",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Reynosa",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Durango",
+            "Primary County/State": "Durango"
+        },
+        {
+            "Municipality": "Tlaquepaque",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Centro",
+            "Primary County/State": "Tabasco"
+        },
+        {
+            "Municipality": "Tlalnepantla",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Apodaca",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Guadalupe",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Veracruz",
+            "Primary County/State": "Veracruz"
+        },
+        {
+            "Municipality": "Tuxtla Guti\u00e9rrez",
+            "Primary County/State": "Chiapas"
+        },
+        {
+            "Municipality": "Irapuato",
+            "Primary County/State": "Guanajuato"
+        },
+        {
+            "Municipality": "Tonal\u00e1",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Cuautitl\u00e1n Izcalli",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Tec\u00e1mac",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Ixtapaluca",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Matamoros",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Atizap\u00e1n de Zaragoza",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Celaya",
+            "Primary County/State": "Guanajuato"
+        },
+        {
+            "Municipality": "Tultitl\u00e1n",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Mazatl\u00e1n",
+            "Primary County/State": "Sinaloa"
+        },
+        {
+            "Municipality": "Xalapa",
+            "Primary County/State": "Veracruz"
+        },
+        {
+            "Municipality": "General Escobedo",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Juarez",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Ahome",
+            "Primary County/State": "Sinaloa"
+        },
+        {
+            "Municipality": "Ensenada\u2021",
+            "Primary County/State": "Baja California"
+        },
+        {
+            "Municipality": "Cajeme",
+            "Primary County/State": "Sonora"
+        },
+        {
+            "Municipality": "Nicol\u00e1s Romero",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Tepic",
+            "Primary County/State": "Nayarit"
+        },
+        {
+            "Municipality": "Nuevo Laredo",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "San Nicol\u00e1s de los Garza",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Chalco",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Garc\u00eda",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "Valle de Chalco",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Cuernavaca",
+            "Primary County/State": "Morelos"
+        },
+        {
+            "Municipality": "G\u00f3mez Palacio",
+            "Primary County/State": "Durango"
+        },
+        {
+            "Municipality": "Uruapan",
+            "Primary County/State": "Michoac\u00e1n"
+        },
+        {
+            "Municipality": "Tapachula",
+            "Primary County/State": "Chiapas"
+        },
+        {
+            "Municipality": "Los Cabos",
+            "Primary County/State": "Baja California Sur"
+        },
+        {
+            "Municipality": "Victoria",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Solidaridad",
+            "Primary County/State": "Quintana Roo"
+        },
+        {
+            "Municipality": "Soledad",
+            "Primary County/State": "San Luis Potos\u00ed"
+        },
+        {
+            "Municipality": "Tehuac\u00e1n",
+            "Primary County/State": "Puebla"
+        },
+        {
+            "Municipality": "Pachuca",
+            "Primary County/State": "Hidalgo"
+        },
+        {
+            "Municipality": "Coatzacoalcos",
+            "Primary County/State": "Veracruz"
+        },
+        {
+            "Municipality": "Santa Catarina",
+            "Primary County/State": "Nuevo Le\u00f3n"
+        },
+        {
+            "Municipality": "La Paz",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "San Juan del Rio",
+            "Primary County/State": "Quer\u00e9taro"
+        },
+        {
+            "Municipality": "Tampico",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Campeche",
+            "Primary County/State": "Campeche"
+        },
+        {
+            "Municipality": "Coacalco de Berrioz\u00e1bal",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "La Paz",
+            "Primary County/State": "Baja California Sur"
+        },
+        {
+            "Municipality": "Puerto Vallarta",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "Guasave",
+            "Primary County/State": "Sinaloa"
+        },
+        {
+            "Municipality": "Huixquilucan",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Chilpancingo",
+            "Primary County/State": "Guerrero"
+        },
+        {
+            "Municipality": "Zumpango",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Texcoco",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Salamanca",
+            "Primary County/State": "Guanajuato"
+        },
+        {
+            "Municipality": "Oaxaca",
+            "Primary County/State": "Oaxaca"
+        },
+        {
+            "Municipality": "Altamira",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Nogales",
+            "Primary County/State": "Sonora"
+        },
+        {
+            "Municipality": "Carmen",
+            "Primary County/State": "Campeche"
+        },
+        {
+            "Municipality": "Cardenas",
+            "Primary County/State": "Tabasco"
+        },
+        {
+            "Municipality": "Metepec",
+            "Primary County/State": "State of Mexico"
+        },
+        {
+            "Municipality": "Fresnillo",
+            "Primary County/State": "Zacatecas"
+        },
+        {
+            "Municipality": "Monclova",
+            "Primary County/State": "Coahuila"
+        },
+        {
+            "Municipality": "Ocosingo",
+            "Primary County/State": "Chiapas"
+        },
+        {
+            "Municipality": "Oth\u00f3n P. Blanco\u2021\u2021",
+            "Primary County/State": "Quintana Roo"
+        },
+        {
+            "Municipality": "El Salto",
+            "Primary County/State": "Jalisco"
+        },
+        {
+            "Municipality": "El Marqu\u00e9s",
+            "Primary County/State": "Quer\u00e9taro"
+        },
+        {
+            "Municipality": "San Cristobal de las Casas",
+            "Primary County/State": "Chiapas"
+        },
+        {
+            "Municipality": "Jiutepec",
+            "Primary County/State": "Morelos"
+        },
+        {
+            "Municipality": "Comalcalco",
+            "Primary County/State": "Tabasco"
+        },
+        {
+            "Municipality": "Corregidora",
+            "Primary County/State": "Quer\u00e9taro"
+        },
+        {
+            "Municipality": "Guadalupe",
+            "Primary County/State": "Zacatecas"
+        },
+        {
+            "Municipality": "Ciudad Madero",
+            "Primary County/State": "Tamaulipas"
+        },
+        {
+            "Municipality": "Zamora",
+            "Primary County/State": "Michoac\u00e1n"
+        }
+    ]
+}
