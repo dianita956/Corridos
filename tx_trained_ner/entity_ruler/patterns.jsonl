@@ -1221,6 +1221,14 @@
 {"label":"GPE","pattern":"Mustang"}
 {"label":"GPE","pattern":"254 Counties"}
 {"label":"GPE","pattern":"29,527,941"}
+{"label":"GPE","pattern":"Le\u00f3n"}
+{"label":"GPE","pattern":"Matamoros"}
+{"label":"GPE","pattern":"Reynosa"}
+{"label":"GPE","pattern":"Nuevo Laredo"}
+{"label":"GPE","pattern":"Victoria"}
+{"label":"GPE","pattern":"Tampico"}
+{"label":"GPE","pattern":"Altamira"}
+{"label":"GPE","pattern":"Ciudad Madero"}
 {"label":"GPE","pattern":"Harris"}
 {"label":"GPE","pattern":"Bexar"}
 {"label":"GPE","pattern":"Travis"}
@@ -1995,3 +2003,11 @@
 {"label":"GPE","pattern":"Kinney"}
 {"label":"GPE","pattern":"21,096,153"}
 {"label":"GPE","pattern":"25,145,561"}
+{"label":"GPE","pattern":"Guanajuato"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
+{"label":"GPE","pattern":"Tamaulipas"}
