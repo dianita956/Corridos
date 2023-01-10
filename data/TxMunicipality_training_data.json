@@ -1,5 +1,17 @@
 [
     [
+        "In the country of Karnes, \nLook what has happened; \nThe Major Sheriff died,\nLeaving Rom\u00e1n badly wounded.",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
         "He struck out for Gonzales\nWithout showing any fear,\n\u201cFollow me, cowardly rangers, \nI am Gregorio Cortez.\u201d",
         {
             "entities": [

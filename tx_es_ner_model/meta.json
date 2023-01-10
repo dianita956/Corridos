@@ -1,5 +1,5 @@
 {
-  "lang":"es",
+  "lang":"en",
   "name":"pipeline",
   "version":"0.0.0",
   "spacy_version":">=3.4.4,<3.5.0",
