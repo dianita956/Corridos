@@ -1,18 +1,18 @@
 [
     [
-        "\nIn the country of Karnes, \nLook what has happened; \nThe Major Sheriff died,\nLeaving Rom\u00e1n badly wounded.",
+        "In the country of Karnes,  Look what has happened;  The Major Sheriff died, Leaving Rom\u00e1n badly wounded.",
         {
             "entities": [
                 [
-                    19,
-                    25,
+                    18,
+                    24,
                     "GPE"
                 ]
             ]
         }
     ],
     [
-        "He struck out for Gonzales\nWithout showing any fear,\n\u201cFollow me, cowardly rangers, \nI am Gregorio Cortez.\u201d",
+        "He struck out for Gonzales Without showing any fear, \u201cFollow me, cowardly rangers,  I am Gregorio Cortez.\u201d",
         {
             "entities": [
                 [
@@ -24,7 +24,7 @@
         }
     ],
     [
-        "From Belmont he went to the \nranch,  \nThey succeeded in surrounding \nhim, \nQuite a few more than three hundred, \nBut there he jumped their corral. ",
+        "From Belmont he went to the  ranch,   They succeeded in surrounding  him,  Quite a few more than three hundred,  But there he jumped their corral.",
         {
             "entities": [
                 [
@@ -36,7 +36,7 @@
         }
     ],
     [
-        "Gregorio Cortez went out, \nHe went towards Laredo\nThey decided not to follow \nBecause they were afraid of him.",
+        "Gregorio Cortez went out,  He went towards Laredo They decided not to follow  Because they were afraid of him.",
         {
             "entities": [
                 [
@@ -48,7 +48,7 @@
         }
     ],
     [
-        "Over by El Encinal, \nAccording to what we hear, \nThey made him a corral, \nAnd he killed them another sheriff. ",
+        "Over by El Encinal,  According to what we hear,  They made him a corral,  And he killed them another sheriff.",
         {
             "entities": [
                 [
@@ -60,7 +60,7 @@
         }
     ],
     [
-        "Now he has met a Mexican;\nHe says to him haughtily,\n\u201cTell me the news;\nI am Gregorio Cortez.\u201d ",
+        "Now he has met a Mexican; He says to him haughtily, \u201cTell me the news; I am Gregorio Cortez.\u201d",
         {
             "entities": [
                 [
