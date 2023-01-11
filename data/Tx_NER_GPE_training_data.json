@@ -1,0 +1,74 @@
+[
+    [
+        "\nIn the country of Karnes, \nLook what has happened; \nThe Major Sheriff died,\nLeaving Rom\u00e1n badly wounded.",
+        {
+            "entities": [
+                [
+                    19,
+                    25,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "He struck out for Gonzales\nWithout showing any fear,\n\u201cFollow me, cowardly rangers, \nI am Gregorio Cortez.\u201d",
+        {
+            "entities": [
+                [
+                    18,
+                    26,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "From Belmont he went to the \nranch,  \nThey succeeded in surrounding \nhim, \nQuite a few more than three hundred, \nBut there he jumped their corral. ",
+        {
+            "entities": [
+                [
+                    5,
+                    12,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gregorio Cortez went out, \nHe went towards Laredo\nThey decided not to follow \nBecause they were afraid of him.",
+        {
+            "entities": [
+                [
+                    43,
+                    49,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Over by El Encinal, \nAccording to what we hear, \nThey made him a corral, \nAnd he killed them another sheriff. ",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Now he has met a Mexican;\nHe says to him haughtily,\n\u201cTell me the news;\nI am Gregorio Cortez.\u201d ",
+        {
+            "entities": [
+                [
+                    53,
+                    57,
+                    "GPE"
+                ]
+            ]
+        }
+    ]
+]
