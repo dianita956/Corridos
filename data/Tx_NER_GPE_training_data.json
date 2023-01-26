@@ -58,17 +58,5 @@
                 ]
             ]
         }
-    ],
-    [
-        "Now he has met a Mexican He says to him haughtily Tell me the news I am Gregorio Cortez",
-        {
-            "entities": [
-                [
-                    50,
-                    54,
-                    "GPE"
-                ]
-            ]
-        }
     ]
 ]
