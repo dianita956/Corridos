@@ -36,8 +36,6 @@ import contextily as cx
 import matplotlib.pyplot as plt #to make sure there are no errors when plotting a graph
 import pyproj
 
-#import nltk
-
 import spacy
 from spacy import displacy
 
