@@ -1,0 +1,42 @@
+---
+title: "Mapping El Corrido de Gregorio Cortez"
+author: "Diane Lopez"
+date: "January 28, 2023"
+format:
+    html:
+        code-fold: true
+jupyter: python3
+---
+```{python}
+import geopandas as gpd
+import pandas as pd
+import numpy as np
+
+from geograpy import places
+import re
+
+import geopy
+from geopy.geocoders import ArcGIS
+#from geopy.extra.rate_limiter import RateLimiter
+
+import shapely
+from shapely.geometry import Point
+from shapely.wkt import loads
+
+import contextily as cx
+import matplotlib.pyplot as plt #to make sure there are no errors when plotting a graph
+import pyproj
+
+#import nltk
+
+import spacy
+from spacy import displacy
+
+import locationtagger
+nlp = spacy.load("en_core_web_sm")
+
+import branca
+import jinja2
+import requests
+import folium
+```
