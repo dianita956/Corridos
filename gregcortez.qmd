@@ -40,3 +40,25 @@ import jinja2
 import requests
 import folium
 ```
+```{python}
+text = "corrido corpus\ElCorridodeGregorioCortez_X.txt"
+with open(text, 'r', encoding='utf-8') as c:
+    text = c.read()
+    
+def clean_text(text):
+    cleaned= re.sub(r'[":;,.“”]', "", text)
+    return(cleaned)
+text = clean_text(text)
+#print(text)
+
+
+TxGPE=[]
+nlp = spacy.load("tx_ner_model")
+doc =nlp(text) 
+#print(doc)
+for ent in doc.ents:
+    #print(ent.text, ent.label_)
+    if ent.label_ == "GPE":
+        TxGPE.append(ent.text)
+print(TxGPE)
+```
