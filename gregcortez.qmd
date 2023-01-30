@@ -53,7 +53,7 @@ text = clean_text(text)
 
 
 TxGPE=[]
-nlp = spacy.load("tx_ner_model")
+nlp = spacy.load("tx_trained_ner")
 doc =nlp(text) 
 #print(doc)
 for ent in doc.ents:
@@ -61,4 +61,42 @@ for ent in doc.ents:
     if ent.label_ == "GPE":
         TxGPE.append(ent.text)
 print(TxGPE)
+```
+```{python}
+ents = [(e.text, e.start_char, e.end_char, e.label_)for e in doc.ents]
+print(ents)
+
+ents = [(e.text)for e in doc.ents]
+print(ents)
+```
+
+```{python}  
+displacy.render(doc, style ='ent', jupyter=True, page=True)
+```
+```{python}
+pc = places.PlaceContext(ents)
+
+pc.set_countries()
+print (pc.countries) #['United States']
+
+pc.set_regions()
+print(pc.regions) #['Texas'])
+
+pc.set_cities()
+print(pc.cities) #['Brownsville'])
+```
+```{python}
+df = pd.DataFrame(ents, columns=["NER_Places"])
+geolocator = ArcGIS(user_agent='CorridosMap')
+geocode = lambda query: geolocator.geocode("%s, Texas" % query)
+df['Location'] = df['NER_Places'].apply(geocode)
+df
+```
+```{python}
+gpd = gpd.tools.geocode(df.Location, provider='ArcGIS')
+gpd
+```
+
+```{python}
+gpd.crs
 ```
