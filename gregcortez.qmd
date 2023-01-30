@@ -7,6 +7,15 @@ format:
         code-fold: true
 jupyter: python3
 ---
+```{markdown}
+Mapping the manhunt of Rio Grande border folk hero Gregorio Cortez: 
+the largest manhunt in U.S. history.
+
+June 14, 1901 to June 22, 1901
+
+Based on lyrics from the Corrido de Gregorio Cortez 
+(variant x english translation by Americo Paredes)
+```
 ```{python}
 import geopandas as gpd
 import pandas as pd
