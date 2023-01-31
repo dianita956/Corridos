@@ -1,7 +1,7 @@
 ---
 title: "Mapping El Corrido de Gregorio Cortez"
 author: "Diane López"
-affiliation: The University of Texas at San Antonio
+affiliation-title: The University of Texas at San Antonio
 date: "January 30, 2023"
 format:
     html:
@@ -78,7 +78,7 @@ for ent in doc.ents:
 print(TxGPE)
 ```
 ```{python}
-ents = [(e.text, e.start_char, e.end_char, e.label_)for e in doc.ents]
+ents = [(e.text, e.label_)for e in doc.ents]
 print(ents)
 
 ```
