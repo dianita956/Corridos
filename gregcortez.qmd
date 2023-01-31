@@ -1,7 +1,7 @@
 ---
 title: "Mapping El Corrido de Gregorio Cortez"
-author: "Diane Lopez"
-date: "January 28, 2023"
+author: "Diane López"
+date: "January 30, 2023"
 format:
     html:
         code-fold: true
@@ -9,12 +9,10 @@ jupyter: python3
 ---
 ```{markdown}
 Mapping the manhunt of Rio Grande border folk hero Gregorio Cortez: 
-the largest manhunt in U.S. history.
-
-June 14, 1901 to June 22, 1901
+the largest manhunt in U.S. history from June 14, 1901 to June 22, 1901
 
 Based on lyrics from the Corrido de Gregorio Cortez 
-(variant x english translation by Americo Paredes)
+(Variant X English translation by Americo Paredes)
 ```
 ```{python}
 import geopandas as gpd
