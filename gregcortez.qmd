@@ -1,23 +1,25 @@
 ---
-title: "Mapping El Corrido de Gregorio Cortez"
-author: "Diane López"
-affiliation-title: The University of Texas at San Antonio
-date: "January 30, 2023"
-format:
-    html:
-        code-fold: true
-        page-layout: full
-        title-block-banner: true
-        date-modified: last-modified
-jupyter: python3
+title-block-banner: true
+format: html
+date-modified: last-modified
+theme: 
+    - yeti
+title: "Mapping el corrido de Gregorio Cortez"
+author: "Diane Lopez"
+date: 2023-01-28
+toc: true
+number-sections: true
+code-fold: true
+
 ---
+
 <p>
 El Corrido de Gregorio Cortez: 
 the largest manhunt in U.S. history from June 14, 1901 to June 22, 1901</p>
 
 <p>Based on lyrics from the Corrido de Gregorio Cortez: Variant X English translation by Américo Parede</p>
 
-<h4>Packages and Libraries used</h4>
+## Packages and Libraries used
 
 ```{python}
 import geopandas as gpd
@@ -51,7 +53,7 @@ import jinja2
 import requests
 import folium
 ```
-<h4>NER: Finding Places within the lyrics</h4>
+## NER: Finding Places within the lyrics 
 <p> We will be searching for Name Entity locations with the use of customized pipeline and trained data of Texas municipalities, unincorporated communities, and ghost towns.</p> 
 <p>For trained data, list of Ghost towns, municipalities, and unincorporated places in Texas can be found here [dianita.956/Corridos](https://github.com/dianita956/Corridos)</p>
 
@@ -88,7 +90,7 @@ print(ents)
 ```{python}  
 displacy.render(doc, style ='ent', jupyter=True, page=True)
 ```
-<h4> Geoparsing: Places into geographic identifiers</h4>
+## Geoparsing: Places into geographic identifiers
 
 ```{python}
 df = pd.DataFrame(ents, columns=["NER_Places"])
@@ -101,7 +103,7 @@ df
 gdf = gpd.tools.geocode(df.Location, provider='ArcGIS')
 gdf
 ```
-<h4>Plotly: Mapping Places</h4>
+## Plotly: Mapping Places
 
 ```{python}
 
