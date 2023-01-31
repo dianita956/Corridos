@@ -11,12 +11,11 @@ format:
         date-modified: last-modified
 jupyter: python3
 ---
-```{markdown}
+<p>
 El Corrido de Gregorio Cortez: 
-the largest manhunt in U.S. history from June 14, 1901 to June 22, 1901
+the largest manhunt in U.S. history from June 14, 1901 to June 22, 1901</p>
 
-Based on lyrics from the Corrido de Gregorio Cortez: Variant X English translation by Américo Paredes
-```
+<p>Based on lyrics from the Corrido de Gregorio Cortez: Variant X English translation by Américo Parede</p>
 
 <h4>Packages and Libraries used</h4>
 
@@ -53,6 +52,8 @@ import requests
 import folium
 ```
 <h4>NER: Finding Places within the lyrics</h4>
+<p> We will be searching for Name Entity locations with the use of customized pipeline and trained data of Texas municipalities, unincorporated communities, and ghost towns.</p> 
+<p>For trained data, list of Ghost towns, municipalities, and unincorporated places in Texas can be found here [dianita.956/Corridos](https://github.com/dianita956/Corridos)</p>
 
 ```{python}
 text = "corrido corpus\ElCorridodeGregorioCortez_X.txt"
@@ -80,8 +81,6 @@ print(TxGPE)
 ents = [(e.text, e.start_char, e.end_char, e.label_)for e in doc.ents]
 print(ents)
 
-ents = [(e.text)for e in doc.ents]
-print(ents)
 ```
 
 ```{python}  
