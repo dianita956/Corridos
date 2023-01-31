@@ -78,9 +78,11 @@ for ent in doc.ents:
 print(TxGPE)
 ```
 ```{python}
-ents = [(e.text, e.label_)for e in doc.ents]
+ents = [(e.text, e.start_char, e.end_char, e.label_)for e in doc.ents]
 print(ents)
 
+ents = [(e.text)for e in doc.ents]
+print(ents)
 ```
 
 ```{python}  
