@@ -1,19 +1,25 @@
 ---
 title: "Mapping El Corrido de Gregorio Cortez"
 author: "Diane López"
+affiliation: The University of Texas at San Antonio
 date: "January 30, 2023"
 format:
     html:
         code-fold: true
+        page-layout: full
+        title-block-banner: true
+        date-modified: last-modified
 jupyter: python3
 ---
 ```{markdown}
-Mapping the manhunt of Rio Grande border folk hero Gregorio Cortez: 
+El Corrido de Gregorio Cortez: 
 the largest manhunt in U.S. history from June 14, 1901 to June 22, 1901
 
-Based on lyrics from the Corrido de Gregorio Cortez 
-(Variant X English translation by Americo Paredes)
+Based on lyrics from the Corrido de Gregorio Cortez: Variant X English translation by Américo Paredes
 ```
+
+<h4>Packages and Libraries used</h4>
+
 ```{python}
 import geopandas as gpd
 import pandas as pd
@@ -46,6 +52,8 @@ import jinja2
 import requests
 import folium
 ```
+<h4>NER: Finding Places within the lyrics</h4>
+
 ```{python}
 text = "corrido corpus\ElCorridodeGregorioCortez_X.txt"
 with open(text, 'r', encoding='utf-8') as c:
@@ -79,18 +87,8 @@ print(ents)
 ```{python}  
 displacy.render(doc, style ='ent', jupyter=True, page=True)
 ```
-```{python}
-pc = places.PlaceContext(ents)
+<h4> Geoparsing: Places into geographic identifiers</h4>
 
-pc.set_countries()
-print (pc.countries) #['United States']
-
-pc.set_regions()
-print(pc.regions) #['Texas'])
-
-pc.set_cities()
-print(pc.cities) #['Brownsville'])
-```
 ```{python}
 df = pd.DataFrame(ents, columns=["NER_Places"])
 geolocator = ArcGIS(user_agent='CorridosMap')
@@ -102,6 +100,7 @@ df
 gdf = gpd.tools.geocode(df.Location, provider='ArcGIS')
 gdf
 ```
+<h4>Plotly: Mapping Places</h4>
 
 ```{python}
 
@@ -117,3 +116,6 @@ fig.update_layout(mapbox_style="stamen-terrain", mapbox_zoom=6, mapbox_center_la
 
 fig.show()
 ```
+## Resources {.appendix}
+
+
