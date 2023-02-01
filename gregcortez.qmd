@@ -1,9 +1,10 @@
 ---
 title-block-banner: true
+title-block-banner-color: "white"
 format: html
 date-modified: last-modified
 theme: 
-    - yeti
+    - flatly
 title: "Mapping el corrido de Gregorio Cortez"
 author: "Diane Lopez"
 date: 2023-01-28
