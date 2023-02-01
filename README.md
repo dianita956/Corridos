@@ -5,4 +5,4 @@ A look into a border ballad and its hero by Americo Paredes "With his pistol in 
 
 project author: Diane López 
 
-coming soon
+
