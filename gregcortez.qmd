@@ -1,6 +1,5 @@
 ---
 title-block-banner: false
-
 format: html
 date-modified: last-modified
 theme:
