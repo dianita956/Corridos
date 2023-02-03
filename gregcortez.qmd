@@ -58,7 +58,7 @@ import requests
 import folium
 ```
 ## NER: Finding Places within the lyrics 
-<p> We will be searching for Name Entity locations with the use of customized pipeline and trained data of Texas municipalities, unincorporated communities, and ghost towns.</p> 
+<p> We will be searching for Name Entity locations with the use of a customized pipeline and trained data of Texas municipalities, unincorporated communities, and ghost towns.</p> 
 <p>For trained data, list of Ghost towns, municipalities, and unincorporated places in Texas can be found here [dianita.956/Corridos](https://github.com/dianita956/Corridos)</p>
 
 ```{python}
