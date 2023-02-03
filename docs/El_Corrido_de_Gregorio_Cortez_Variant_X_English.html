@@ -140,17 +140,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 
 
-<section id="el-corrido-de-gregorio-cortez" class="level1">
-<h1>El corrido de Gregorio Cortez</h1>
-<section id="mapping-the-manhunt-of-rio-grande-border-folk-hero-gregorio-cortez-the-largest-manhunt-in-u.s.-history." class="level2">
-<h2 class="anchored" data-anchor-id="mapping-the-manhunt-of-rio-grande-border-folk-hero-gregorio-cortez-the-largest-manhunt-in-u.s.-history.">Mapping the manhunt of Rio Grande border folk hero Gregorio Cortez: the largest manhunt in U.S. history.</h2>
-<section id="june-14-1901-to-june-22-1901" class="level3">
-<h3 class="anchored" data-anchor-id="june-14-1901-to-june-22-1901">June 14, 1901 to June 22, 1901</h3>
-</section>
-<section id="based-on-lyrics-from-the-corrido-de-gregorio-cortez-variant-x-english-translation-by-americo-paredes" class="level3">
-<h3 class="anchored" data-anchor-id="based-on-lyrics-from-the-corrido-de-gregorio-cortez-variant-x-english-translation-by-americo-paredes">based on lyrics from the Corrido de Gregorio Cortez (variant x english translation by Americo Paredes)</h3>
-<section id="project-author-diane-lópez" class="level4">
-<h4 class="anchored" data-anchor-id="project-author-diane-lópez">project author Diane López</h4>
 <div class="cell" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> geopandas <span class="im">as</span> gpd</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> pyproj <span class="im">import</span> CRS</span>
@@ -184,8 +173,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> locationtagger</span>
 <span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> spacy.load(<span class="st">"en_core_web_sm"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div class="cell" data-execution_count="2">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>text <span class="op">=</span> <span class="st">"corrido corpus\ElCorridodeGregorioCortez_X.txt"</span></span>
+<div class="cell" data-execution_count="7">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>text <span class="op">=</span> <span class="st">"el_corrido_de_gregorio_cortez_x.txt"</span></span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(text, <span class="st">'r'</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> c:</span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    text <span class="op">=</span> c.read()</span>
 <span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    </span>
@@ -209,7 +198,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <pre><code>['Karnes', 'Gonzales', 'Belmont', 'Laredo', 'Encinal']</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="3">
+<div class="cell" data-execution_count="8">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>ents <span class="op">=</span> [(e.text, e.start_char, e.end_char, e.label_)<span class="cf">for</span> e <span class="kw">in</span> doc.ents]</span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(ents)</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -220,7 +209,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 ['Karnes', 'Gonzales', 'Belmont', 'Laredo', 'Encinal']</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="4">
+<div class="cell" data-execution_count="9">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>displacy.render(doc, style <span class="op">=</span><span class="st">'ent'</span>, jupyter<span class="op">=</span><span class="va">True</span>, page<span class="op">=</span><span class="va">True</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 <span class="tex2jax_ignore">
@@ -263,14 +252,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 </div>
 <p>Geoparsing: Finding places from the corrido lyrics</p>
-<div class="cell" data-execution_count="5">
+<div class="cell" data-execution_count="10">
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.DataFrame(ents, columns<span class="op">=</span>[<span class="st">"NER_Places"</span>])</span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>geolocator <span class="op">=</span> ArcGIS(user_agent<span class="op">=</span><span class="st">'CorridosMap'</span>)</span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>geocode <span class="op">=</span> <span class="kw">lambda</span> query: geolocator.geocode(<span class="st">"</span><span class="sc">%s</span><span class="st">, Texas"</span> <span class="op">%</span> query)</span>
 <span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>df[<span class="st">'Location'</span>] <span class="op">=</span> df[<span class="st">'NER_Places'</span>].<span class="bu">apply</span>(geocode)</span>
 <span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="co">#df['geometry'] = df['NER_Places'].apply(geocode)</span></span>
 <span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>df</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="5">
+<div class="cell-output cell-output-display" data-execution_count="10">
 
 <div>
 
@@ -313,10 +302,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 </div>
 </div>
-<div class="cell" data-execution_count="6">
+<div class="cell" data-execution_count="11">
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>gdf <span class="op">=</span> gpd.tools.geocode(df.Location, provider<span class="op">=</span><span class="st">'ArcGIS'</span>)</span>
 <span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>gdf</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="6">
+<div class="cell-output cell-output-display" data-execution_count="11">
 
 <div>
 
@@ -359,7 +348,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 </div>
 </div>
-<div class="cell" data-execution_count="8">
+<div class="cell" data-execution_count="13">
 <div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>px.set_mapbox_access_token(<span class="bu">open</span>(<span class="st">"mapboxtoken"</span>).read())</span>
 <span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>fig <span class="op">=</span> px.line_mapbox(gdf,</span>
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>                        lat<span class="op">=</span>gdf.geometry.y,</span>
@@ -378,24 +367,14 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <pre><code>Unable to display output for mime type(s): application/vnd.plotly.v1+json</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="9">
+<div class="cell" data-execution_count="14">
 <div class="sourceCode cell-code" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>gdf.to_json()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-display" data-execution_count="9">
+<div class="cell-output cell-output-display" data-execution_count="14">
 <pre><code>'{"type": "FeatureCollection", "features": [{"id": "0", "type": "Feature", "properties": {"address": "Karnes County, Texas"}, "geometry": {"type": "Point", "coordinates": [-97.85942102299998, 28.905630820000056]}}, {"id": "1", "type": "Feature", "properties": {"address": "Gonzales, Texas"}, "geometry": {"type": "Point", "coordinates": [-97.45222999999999, 29.500150000000076]}}, {"id": "2", "type": "Feature", "properties": {"address": "Belmont, Texas"}, "geometry": {"type": "Point", "coordinates": [-97.68328999999994, 29.52287000000007]}}, {"id": "3", "type": "Feature", "properties": {"address": "Laredo, Texas"}, "geometry": {"type": "Point", "coordinates": [-99.50230999999997, 27.530920000000037]}}, {"id": "4", "type": "Feature", "properties": {"address": "Encinal, Texas"}, "geometry": {"type": "Point", "coordinates": [-99.35669999999999, 28.046230000000037]}}]}'</code></pre>
 </div>
 </div>
-<div class="cell" data-execution_count="2">
-<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-error">
-<pre><code>AttributeError: type object 'map' has no attribute 'geojson'</code></pre>
-</div>
-</div>
 
 
-</section>
-</section>
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
