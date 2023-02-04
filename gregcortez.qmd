@@ -14,7 +14,7 @@ number-sections: true
 code-fold: true
 project:
     type: website
-    output-dir: docs
+    output-dir: book
 ---
 
 <p>
