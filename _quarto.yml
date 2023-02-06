@@ -6,12 +6,6 @@ book:
   title: "Text Analysis NER, Geoparising, and Mapping points with Python"
   author: "Diane López"
   description: "This project shows how to extract places from a body of text and then map locations as points"
-  chapter-number:
-- index.qmd
-          #- 03-NER-Spacy-Custome-NER-Model.qmd
-          #- 01-Web-Scraping-Beautiful-Soap.qmd
-          #- 02-Text-File-List-to-json.qmd
-          #- 04-Mapping-El-Corrido-de-GregorioCortez.qmd
 format: 
   html: 
     theme: flatly
