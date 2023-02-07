@@ -5,18 +5,38 @@ Web Scrap and extracting list of municipalities, ghost towns, and unincorporated
 ## List of municipalities in Texas
 ```{python}
 import json
-def view_data(filename= "data\TexasMunicipalities.json"):
-    with open(filename, "r") as f:
-        print(filename)
-        data=json.load(f)
-        temp=data["List of Municipalities"]
-        i = 0
-        for entry in temp:
-            x = entry["Municipality"]
-            y = entry["Primary County"]
-            print(f"Index Number {i}")
-            print(f"Loction Name:{x}")
-            print(f"In the county/state of:{y}")
-            print("\n\n")
-            i= i+1
+#file to convert
+file= f"list of texas places\List of municipalities in Texas.txt"
+#create a list to store data
+dictionary= {}
+municipalitylist = []
+#read file
+with open(file, encoding='utf-8') as f:
+    for d in f:
+        if "|" in d:
+            print(d)
+            #read lines from file, creating vars based on position and indicator of info needed
+            rank, municipality, designation, county, county2, data = d.strip(" ").split("|", 5)
+            x={
+                "Municipality": municipality,
+                #"Designation": designation,
+                "Primary County": county,
+                "Secondary County(ies)": county2
+            }
+            municipalitylist.append(x)
+            #print(municipalitylist)
+
+
+dictionary["List of Municipalities"] = municipalitylist
+
+#print(municipalitylist)
+#print(dictionary)
+
+#print(len(dictionary))
+#create json output file
+out_file = open("data/TexasNER_GPE_master.json", "w")
+json.dump(dictionary, out_file, indent=4) 
+out_file.close()
+
+#run code
 ```

@@ -184,7 +184,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05references.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">References</span></a>
+  <a href="./05references.html" class="sidebar-item-text sidebar-link">References</a>
   </div>
 </li>
     </ul>
@@ -196,8 +196,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#prerequisite" id="toc-prerequisite" class="nav-link active" data-scroll-target="#prerequisite"><span class="toc-section-number">1.1</span>  prerequisite</a></li>
-  <li><a href="#list-of-municipalities-in-texas" id="toc-list-of-municipalities-in-texas" class="nav-link" data-scroll-target="#list-of-municipalities-in-texas"><span class="toc-section-number">2</span>  List of Municipalities in Texas</a></li>
+  <li><a href="#prerequisite" id="toc-prerequisite" class="nav-link active" data-scroll-target="#prerequisite"><span class="toc-section-number">1.1</span>  PreRequisite</a>
+  <ul class="collapse">
+  <li><a href="#list-of-municipalities-in-texas" id="toc-list-of-municipalities-in-texas" class="nav-link" data-scroll-target="#list-of-municipalities-in-texas"><span class="toc-section-number">1.1.1</span>  List of Municipalities in Texas</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -223,25 +225,44 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 <p>Web Scrap and extracting list of municipalities, ghost towns, and unincorporated places in Texas.</p>
 <section id="prerequisite" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="prerequisite"><span class="header-section-number">1.1</span> prerequisite</h2>
+<h2 data-number="1.1" class="anchored" data-anchor-id="prerequisite"><span class="header-section-number">1.1</span> PreRequisite</h2>
 <div class="cell" data-execution_count="1">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#import csv</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> requests</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">#import geopandas as gpd</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">#import pandas as pd</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json <span class="co">#javascript object notation to store data outside python. watch videos from Matt Digital Humanities. </span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> bs4 <span class="im">import</span> BeautifulSoup </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> requests</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json <span class="co">#javascript object notation to store data outside python. watch videos from Matt Digital Humanities. </span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> bs4 <span class="im">import</span> BeautifulSoup </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
+<section id="list-of-municipalities-in-texas" class="level3" data-number="1.1.1">
+<h3 data-number="1.1.1" class="anchored" data-anchor-id="list-of-municipalities-in-texas"><span class="header-section-number">1.1.1</span> List of Municipalities in Texas</h3>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> table_extraction(a,b):</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    url<span class="op">=</span> a </span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="bu">file</span> <span class="op">=</span> <span class="ss">f"list of texas places/</span><span class="sc">{</span>b<span class="sc">}</span><span class="ss">.txt"</span> </span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>    s <span class="op">=</span> requests.get(url)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    soup<span class="op">=</span> BeautifulSoup(s.text, <span class="st">"html.parser"</span>) <span class="co">#to tell the program to read the site as HTML (lxml)</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>    table <span class="op">=</span> soup.find(<span class="st">"table"</span>, class_<span class="op">=</span><span class="st">"wikitable sortable"</span>)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">with</span> <span class="bu">open</span> (<span class="bu">file</span>, <span class="st">"w"</span>, encoding<span class="op">=</span><span class="st">"utf-8"</span>)<span class="im">as</span> f: </span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>        <span class="co">#rows=list()</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>        <span class="co">#headerString  = ""</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>        dataString <span class="op">=</span> <span class="st">""</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> row <span class="kw">in</span> table.find_all(<span class="st">"tr"</span>):   </span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>            <span class="co">#for th in row.find_all("th"): </span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>                <span class="co">#headerString  = headerString+th.get_text(strip=True)+"|"</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print(headerString)</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>                <span class="co">#ending a line break to organize the txt file</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> td <span class="kw">in</span> row.find_all(<span class="st">"td"</span>):</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>                dataString <span class="op">=</span> dataString<span class="op">+</span>td.get_text(strip<span class="op">=</span><span class="va">True</span>)<span class="op">+</span><span class="st">"|"</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>            dataString<span class="op">=</span>dataString <span class="op">+</span> <span class="st">"</span><span class="ch">\n</span><span class="st">"</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>        <span class="co">#f.write(headerString)       </span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>        f.write(dataString)</span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> do_all(a, b):</span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>    table_extraction(a,b)</span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>do_all(<span class="st">"https://en.wikipedia.org/wiki/List_of_municipalities_in_Texas"</span>,<span class="st">"List of municipalities in Texas"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+
+
 </section>
-<section id="list-of-municipalities-in-texas" class="level1" data-number="2">
-<h1 data-number="2"><span class="header-section-number">2</span> List of Municipalities in Texas</h1>
-<p>def table_extraction(a,b): url= a file = f”../corridos/{b}.txt” s = requests.get(url) soup= BeautifulSoup(s.text, “lxml”) #to tell the program to read the site as HTML (lxml) table = soup.find(“table”, class_=“wikitable sortable”) with open (file, “w”, encoding=“utf-8”)as f: #rows=list() #headerString = “” dataString = “” for row in table.find_all(“tr”):<br>
-#for th in row.find_all(“th”): #headerString = headerString+th.get_text(strip=True)+“|” #print(headerString) #ending a line break to organize the txt file for td in row.find_all(“td”): dataString = dataString+td.get_text(strip=True)+“|” dataString=dataString + “” #f.write(headerString)<br>
-f.write(dataString)</p>
-<p>def do_all(a, b): table_extraction(a,b)</p>
-<p>do_all(“https://en.wikipedia.org/wiki/List_of_municipalities_in_Texas”,“List of municipalities in Texas”)</p>
-
-
 </section>
 
 </main> <!-- /main -->

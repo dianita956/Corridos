@@ -11,3 +11,206 @@ from spacy.tokens import Doc
 from spacy.training import Example
 from spacy.language import Language
 ```
+
+```{python}
+
+def load_data(file):
+    with open(file, 'r', encoding='utf-8') as f:
+        print(f)
+        return(json.load(f))
+    
+def save_data (file, data):
+    with open (file, "w", encoding='utf-8') as f:
+       data = json.dump(data, f, indent=4)
+       print(data)
+```
+
+```{python}
+
+def create_training_data(file, type):
+    #print(type)
+    #print(file)
+    data = load_data(file)
+    #print(data)
+    patterns=[]
+    for key, value in data.items():
+        print(key)
+        if key == "List of Municipalities":
+            for obj in value: #muni loop
+                #print(obj.get("Municipality"))
+                pattern = {
+                    "label":type,
+                    "pattern": obj.get("Municipality")
+                    }
+                patterns.append(pattern) # end of muni loop
+            for obj in value: #primary county loop 
+                #if any(d.get("Primary County") == "Gonzales" for d in value): 
+                    #print("found in Municipality") 
+                if not any(d.get("Municipality") == obj.get("Primary County") for d in value):
+                    #print('not found in Manicipality')
+                    pattern = {
+                        "label":type,
+                        "pattern": obj.get("Primary County")
+                        }
+                    patterns.append(pattern)           
+
+        if key == "List of Unincorparated Communities":
+            for obj in value: #muni loop
+                #print(obj.get("Municipality"))
+                pattern = {
+                    "label":type,
+                    "pattern": obj.get("Community Name")
+                    }
+                patterns.append(pattern) # end of community name loop
+            for obj in value: #county loop 
+                if not any(d.get("Community Name") == obj.get("County") for d in value):
+                    pattern = {
+                        "label":type,
+                        "pattern": obj.get("County")
+                        }
+                    patterns.append(pattern)                 
+
+        if key == "List of Ghost Town":
+            for obj in value: #ghost town loop
+                #print(obj.get("Municipality"))
+                pattern = {
+                    "label":type,
+                    "pattern": obj.get("Name")
+                    }
+                patterns.append(pattern) # end of muni loop
+            for obj in value: #county loop 
+                if not any(d.get("Name") == obj.get("County") for d in value):
+                    pattern = {
+                        "label":type,
+                        "pattern": obj.get("County")
+                        }
+                    patterns.append(pattern)
+
+        #for obj in value: # unicorpated communities loop
+                #if any(d.get("Primary County")=='Karnes' for d in value): 
+                    #print("found in Primary County")
+        
+            #print(pattern)
+            #print(patterns)
+
+    return(patterns)
+patterns = create_training_data('data/TexasNER_GPE_master.json', 'GPE')
+#print(patterns)
+```
+
+```{python}
+
+def generate_rules(patterns):
+    nlp = English()
+    #ruler = EntityRuler(nlp)
+    ruler = nlp.add_pipe('entity_ruler', config={"validate": True}) 
+    ruler.add_patterns(patterns) 
+    nlp.to_disk("tx_trained_ner")
+
+def test_model(model, text):
+    doc = nlp(text)
+    results = []
+    entities = []
+    for ent in doc.ents:
+        entities.append((ent.start_char, ent.end_char, ent.label_))
+    if len(entities) >0: #if entity has been found move entity to results and entity list
+        results = [text, {"entities": entities}]
+        #print(results)
+    return (results)
+
+#patterns = create_training_data('../Corridos/data/TexasNER_GPE_master.json', 'GPE')
+generate_rules(patterns)
+#print(patterns)
+
+#how spacy wants to see read the data#
+#TRAIN_DATA = [(text, {"entities": [(start, end, label)]})]#
+
+nlp = spacy.load("tx_trained_ner")
+TRAIN_DATA= []
+
+with open ("elcorridodegregoriocortez.txt", "r", encoding='utf-8')as f:
+    text = f.read()
+    #print(text)
+    segments = text.split("\n\n")[0:]
+    #cleaning up the lyric text. making it easier to read for the program
+    for segment in segments:
+        segment = segment.strip() #might not need this code line 
+        segment = segment.replace("\n", " ")# might not need this code line
+        #print(segment)
+        punc = '[":;,“.”[@_!$%^&*()<>?/\|}{~:]#]'
+        for ele in segment:
+            if ele in punc:
+                segment = segment.replace(ele, "")
+
+        #print(segment)
+
+        results = test_model(nlp, segment)
+        if results != []: #it found something and return it
+            TRAIN_DATA.append(results)
+        print(results)
+
+#print(TRAIN_DATA)
+save_data("data/TexasNER_GPE_master.json", TRAIN_DATA)
+```
+
+```{python}
+def train_spacy(data, iterations): #passing training data/set and the number/generation of the training process. 30 is good. long time!!!!
+    #print(data)
+    TRAIN_DATA = data
+    #print(TRAIN_DATA)
+    nlp = spacy.blank("en")
+    #print(nlp)
+    if "ner" not in nlp.pipe_names:
+        ner = nlp.create_pipe("ner") #if there is no ner in the pipe, create a pipe
+        nlp.add_pipe("ner", last=True)
+    
+    for _, annotations in TRAIN_DATA: #add labels
+        print(annotations.get("entities"))
+        for ent in annotations.get("entities"):
+            ner.add_label(ent[2]) # i'm only working with one label 'GPE' if more increase i believe double check
+    
+    other_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]  
+    with nlp.disable_pipes(*other_pipes): #won't mess up other pipes
+        optimizer = nlp.begin_training()
+        for itn in range(iterations): # adjust the funtion not the items inside. arg of interations 30 is good
+            print("Starting iteration "+ str(itn)) #where I am at in the interations process
+            random.shuffle(TRAIN_DATA) #shuffle helps the program to learn not memorize order. 
+            losses = {}
+            for text, annotations in TRAIN_DATA:
+                doc = nlp.make_doc(text)
+                example = Example.from_dict(doc, annotations) #fix found here for ValueError: [E973] Unexpected type for NER data https://github.com/explosion/spaCy/issues/7038
+                nlp.update([example], drop = 0.2, sgd= optimizer, losses=losses)            
+            print(losses)  
+    
+    return(nlp) #model return
+
+#TRAIN_DATA = load_data("../Corridos/data/TxMunicipality_training_data.json")
+#print(TRAIN_DATA)
+nlp = train_spacy(TRAIN_DATA, 30)
+nlp.to_disk("tx_ner_model")
+```
+
+```{python}
+test= "elcorridodegregoriocortez.txt"
+with open(test, 'r', encoding='utf-8') as c:
+    test = c.read()
+
+
+import re
+
+def clean_text(text):
+    cleaned= re.sub(r'[":;,.“”]', "", text)
+    return(cleaned)
+test = clean_text(test)
+print(test)
+
+TxGPE=[]
+nlp = spacy.load("tx_ner_model")
+doc =nlp(test) 
+#print(doc)
+for ent in doc.ents:
+    #print(ent.text, ent.label_)
+    if ent.label_ == "GPE":
+        TxGPE.append(ent.text)
+print(TxGPE)
+```

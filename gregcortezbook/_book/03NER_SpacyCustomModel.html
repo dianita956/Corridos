@@ -184,7 +184,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./05references.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">References</span></a>
+  <a href="./05references.html" class="sidebar-item-text sidebar-link">References</a>
   </div>
 </li>
     </ul>
@@ -224,6 +224,494 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> spacy.tokens <span class="im">import</span> Doc</span>
 <span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> spacy.training <span class="im">import</span> Example</span>
 <span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> spacy.language <span class="im">import</span> Language</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="2">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> load_data(<span class="bu">file</span>):</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>    <span class="cf">with</span> <span class="bu">open</span>(<span class="bu">file</span>, <span class="st">'r'</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(f)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">return</span>(json.load(f))</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> save_data (<span class="bu">file</span>, data):</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">with</span> <span class="bu">open</span> (<span class="bu">file</span>, <span class="st">"w"</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>       data <span class="op">=</span> json.dump(data, f, indent<span class="op">=</span><span class="dv">4</span>)</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>       <span class="bu">print</span>(data)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="3">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> create_training_data(<span class="bu">file</span>, <span class="bu">type</span>):</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(type)</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(file)</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>    data <span class="op">=</span> load_data(<span class="bu">file</span>)</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(data)</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    patterns<span class="op">=</span>[]</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> key, value <span class="kw">in</span> data.items():</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(key)</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> key <span class="op">==</span> <span class="st">"List of Municipalities"</span>:</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#muni loop</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print(obj.get("Municipality"))</span></span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>                pattern <span class="op">=</span> {</span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"pattern"</span>: obj.get(<span class="st">"Municipality"</span>)</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>                    }</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>                patterns.append(pattern) <span class="co"># end of muni loop</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#primary county loop </span></span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>                <span class="co">#if any(d.get("Primary County") == "Gonzales" for d in value): </span></span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>                    <span class="co">#print("found in Municipality") </span></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>                <span class="cf">if</span> <span class="kw">not</span> <span class="bu">any</span>(d.get(<span class="st">"Municipality"</span>) <span class="op">==</span> obj.get(<span class="st">"Primary County"</span>) <span class="cf">for</span> d <span class="kw">in</span> value):</span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>                    <span class="co">#print('not found in Manicipality')</span></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>                    pattern <span class="op">=</span> {</span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"pattern"</span>: obj.get(<span class="st">"Primary County"</span>)</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>                        }</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>                    patterns.append(pattern)           </span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> key <span class="op">==</span> <span class="st">"List of Unincorparated Communities"</span>:</span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#muni loop</span></span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print(obj.get("Municipality"))</span></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>                pattern <span class="op">=</span> {</span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"pattern"</span>: obj.get(<span class="st">"Community Name"</span>)</span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a>                    }</span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a>                patterns.append(pattern) <span class="co"># end of community name loop</span></span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#county loop </span></span>
+<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>                <span class="cf">if</span> <span class="kw">not</span> <span class="bu">any</span>(d.get(<span class="st">"Community Name"</span>) <span class="op">==</span> obj.get(<span class="st">"County"</span>) <span class="cf">for</span> d <span class="kw">in</span> value):</span>
+<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>                    pattern <span class="op">=</span> {</span>
+<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"pattern"</span>: obj.get(<span class="st">"County"</span>)</span>
+<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a>                        }</span>
+<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>                    patterns.append(pattern)                 </span>
+<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> key <span class="op">==</span> <span class="st">"List of Ghost Town"</span>:</span>
+<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#ghost town loop</span></span>
+<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a>                <span class="co">#print(obj.get("Municipality"))</span></span>
+<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>                pattern <span class="op">=</span> {</span>
+<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a>                    <span class="st">"pattern"</span>: obj.get(<span class="st">"Name"</span>)</span>
+<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a>                    }</span>
+<span id="cb3-51"><a href="#cb3-51" aria-hidden="true" tabindex="-1"></a>                patterns.append(pattern) <span class="co"># end of muni loop</span></span>
+<span id="cb3-52"><a href="#cb3-52" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> obj <span class="kw">in</span> value: <span class="co">#county loop </span></span>
+<span id="cb3-53"><a href="#cb3-53" aria-hidden="true" tabindex="-1"></a>                <span class="cf">if</span> <span class="kw">not</span> <span class="bu">any</span>(d.get(<span class="st">"Name"</span>) <span class="op">==</span> obj.get(<span class="st">"County"</span>) <span class="cf">for</span> d <span class="kw">in</span> value):</span>
+<span id="cb3-54"><a href="#cb3-54" aria-hidden="true" tabindex="-1"></a>                    pattern <span class="op">=</span> {</span>
+<span id="cb3-55"><a href="#cb3-55" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"label"</span>:<span class="bu">type</span>,</span>
+<span id="cb3-56"><a href="#cb3-56" aria-hidden="true" tabindex="-1"></a>                        <span class="st">"pattern"</span>: obj.get(<span class="st">"County"</span>)</span>
+<span id="cb3-57"><a href="#cb3-57" aria-hidden="true" tabindex="-1"></a>                        }</span>
+<span id="cb3-58"><a href="#cb3-58" aria-hidden="true" tabindex="-1"></a>                    patterns.append(pattern)</span>
+<span id="cb3-59"><a href="#cb3-59" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-60"><a href="#cb3-60" aria-hidden="true" tabindex="-1"></a>        <span class="co">#for obj in value: # unicorpated communities loop</span></span>
+<span id="cb3-61"><a href="#cb3-61" aria-hidden="true" tabindex="-1"></a>                <span class="co">#if any(d.get("Primary County")=='Karnes' for d in value): </span></span>
+<span id="cb3-62"><a href="#cb3-62" aria-hidden="true" tabindex="-1"></a>                    <span class="co">#print("found in Primary County")</span></span>
+<span id="cb3-63"><a href="#cb3-63" aria-hidden="true" tabindex="-1"></a>        </span>
+<span id="cb3-64"><a href="#cb3-64" aria-hidden="true" tabindex="-1"></a>            <span class="co">#print(pattern)</span></span>
+<span id="cb3-65"><a href="#cb3-65" aria-hidden="true" tabindex="-1"></a>            <span class="co">#print(patterns)</span></span>
+<span id="cb3-66"><a href="#cb3-66" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-67"><a href="#cb3-67" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span>(patterns)</span>
+<span id="cb3-68"><a href="#cb3-68" aria-hidden="true" tabindex="-1"></a>patterns <span class="op">=</span> create_training_data(<span class="st">'data/TexasNER_GPE_master.json'</span>, <span class="st">'GPE'</span>)</span>
+<span id="cb3-69"><a href="#cb3-69" aria-hidden="true" tabindex="-1"></a><span class="co">#print(patterns)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>&lt;_io.TextIOWrapper name='data/TexasNER_GPE_master.json' mode='r' encoding='utf-8'&gt;
+List of Municipalities</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="4">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> generate_rules(patterns):</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>    nlp <span class="op">=</span> English()</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>    <span class="co">#ruler = EntityRuler(nlp)</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>    ruler <span class="op">=</span> nlp.add_pipe(<span class="st">'entity_ruler'</span>, config<span class="op">=</span>{<span class="st">"validate"</span>: <span class="va">True</span>}) </span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>    ruler.add_patterns(patterns) </span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>    nlp.to_disk(<span class="st">"tx_trained_ner"</span>)</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> test_model(model, text):</span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>    doc <span class="op">=</span> nlp(text)</span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>    results <span class="op">=</span> []</span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>    entities <span class="op">=</span> []</span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> ent <span class="kw">in</span> doc.ents:</span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>        entities.append((ent.start_char, ent.end_char, ent.label_))</span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="bu">len</span>(entities) <span class="op">&gt;</span><span class="dv">0</span>: <span class="co">#if entity has been found move entity to results and entity list</span></span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>        results <span class="op">=</span> [text, {<span class="st">"entities"</span>: entities}]</span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>        <span class="co">#print(results)</span></span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> (results)</span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a><span class="co">#patterns = create_training_data('../Corridos/data/TexasNER_GPE_master.json', 'GPE')</span></span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a>generate_rules(patterns)</span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a><span class="co">#print(patterns)</span></span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a><span class="co">#how spacy wants to see read the data#</span></span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a><span class="co">#TRAIN_DATA = [(text, {"entities": [(start, end, label)]})]#</span></span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> spacy.load(<span class="st">"tx_trained_ner"</span>)</span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a>TRAIN_DATA<span class="op">=</span> []</span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span> (<span class="st">"elcorridodegregoriocortez.txt"</span>, <span class="st">"r"</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>)<span class="im">as</span> f:</span>
+<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a>    text <span class="op">=</span> f.read()</span>
+<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(text)</span></span>
+<span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a>    segments <span class="op">=</span> text.split(<span class="st">"</span><span class="ch">\n\n</span><span class="st">"</span>)[<span class="dv">0</span>:]</span>
+<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a>    <span class="co">#cleaning up the lyric text. making it easier to read for the program</span></span>
+<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> segment <span class="kw">in</span> segments:</span>
+<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a>        segment <span class="op">=</span> segment.strip() <span class="co">#might not need this code line </span></span>
+<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a>        segment <span class="op">=</span> segment.replace(<span class="st">"</span><span class="ch">\n</span><span class="st">"</span>, <span class="st">" "</span>)<span class="co"># might not need this code line</span></span>
+<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a>        <span class="co">#print(segment)</span></span>
+<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a>        punc <span class="op">=</span> <span class="st">'[":;,“.”[@_!$%^&amp;*()&lt;&gt;?/\|}{~:]#]'</span></span>
+<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> ele <span class="kw">in</span> segment:</span>
+<span id="cb5-40"><a href="#cb5-40" aria-hidden="true" tabindex="-1"></a>            <span class="cf">if</span> ele <span class="kw">in</span> punc:</span>
+<span id="cb5-41"><a href="#cb5-41" aria-hidden="true" tabindex="-1"></a>                segment <span class="op">=</span> segment.replace(ele, <span class="st">""</span>)</span>
+<span id="cb5-42"><a href="#cb5-42" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-43"><a href="#cb5-43" aria-hidden="true" tabindex="-1"></a>        <span class="co">#print(segment)</span></span>
+<span id="cb5-44"><a href="#cb5-44" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-45"><a href="#cb5-45" aria-hidden="true" tabindex="-1"></a>        results <span class="op">=</span> test_model(nlp, segment)</span>
+<span id="cb5-46"><a href="#cb5-46" aria-hidden="true" tabindex="-1"></a>        <span class="cf">if</span> results <span class="op">!=</span> []: <span class="co">#it found something and return it</span></span>
+<span id="cb5-47"><a href="#cb5-47" aria-hidden="true" tabindex="-1"></a>            TRAIN_DATA.append(results)</span>
+<span id="cb5-48"><a href="#cb5-48" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(results)</span>
+<span id="cb5-49"><a href="#cb5-49" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-50"><a href="#cb5-50" aria-hidden="true" tabindex="-1"></a><span class="co">#print(TRAIN_DATA)</span></span>
+<span id="cb5-51"><a href="#cb5-51" aria-hidden="true" tabindex="-1"></a>save_data(<span class="st">"data/TexasNER_GPE_master.json"</span>, TRAIN_DATA)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>['In the country of Karnes  Look what has happened  The Major Sheriff died Leaving Román badly wounded', {'entities': [(18, 24, 'GPE')]}]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+['He struck out for Gonzales Without showing any fear Follow me cowardly rangers  I am Gregorio Cortez', {'entities': [(18, 26, 'GPE')]}]
+[]
+[]
+[]
+['Gregorio Cortez went out  He went towards Laredo They decided not to follow  Because they were afraid of him', {'entities': [(42, 48, 'GPE')]}]
+[]
+[]
+['Over by El Encinal  According to what we hear  They made him a corral  And he killed them another sheriff', {'entities': [(11, 18, 'GPE')]}]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+None</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="5">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> train_spacy(data, iterations): <span class="co">#passing training data/set and the number/generation of the training process. 30 is good. long time!!!!</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(data)</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>    TRAIN_DATA <span class="op">=</span> data</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(TRAIN_DATA)</span></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>    nlp <span class="op">=</span> spacy.blank(<span class="st">"en"</span>)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(nlp)</span></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> <span class="st">"ner"</span> <span class="kw">not</span> <span class="kw">in</span> nlp.pipe_names:</span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>        ner <span class="op">=</span> nlp.create_pipe(<span class="st">"ner"</span>) <span class="co">#if there is no ner in the pipe, create a pipe</span></span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>        nlp.add_pipe(<span class="st">"ner"</span>, last<span class="op">=</span><span class="va">True</span>)</span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> _, annotations <span class="kw">in</span> TRAIN_DATA: <span class="co">#add labels</span></span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a>        <span class="bu">print</span>(annotations.get(<span class="st">"entities"</span>))</span>
+<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> ent <span class="kw">in</span> annotations.get(<span class="st">"entities"</span>):</span>
+<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a>            ner.add_label(ent[<span class="dv">2</span>]) <span class="co"># i'm only working with one label 'GPE' if more increase i believe double check</span></span>
+<span id="cb7-15"><a href="#cb7-15" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb7-16"><a href="#cb7-16" aria-hidden="true" tabindex="-1"></a>    other_pipes <span class="op">=</span> [pipe <span class="cf">for</span> pipe <span class="kw">in</span> nlp.pipe_names <span class="cf">if</span> pipe <span class="op">!=</span> <span class="st">"ner"</span>]  </span>
+<span id="cb7-17"><a href="#cb7-17" aria-hidden="true" tabindex="-1"></a>    <span class="cf">with</span> nlp.disable_pipes(<span class="op">*</span>other_pipes): <span class="co">#won't mess up other pipes</span></span>
+<span id="cb7-18"><a href="#cb7-18" aria-hidden="true" tabindex="-1"></a>        optimizer <span class="op">=</span> nlp.begin_training()</span>
+<span id="cb7-19"><a href="#cb7-19" aria-hidden="true" tabindex="-1"></a>        <span class="cf">for</span> itn <span class="kw">in</span> <span class="bu">range</span>(iterations): <span class="co"># adjust the funtion not the items inside. arg of interations 30 is good</span></span>
+<span id="cb7-20"><a href="#cb7-20" aria-hidden="true" tabindex="-1"></a>            <span class="bu">print</span>(<span class="st">"Starting iteration "</span><span class="op">+</span> <span class="bu">str</span>(itn)) <span class="co">#where I am at in the interations process</span></span>
+<span id="cb7-21"><a href="#cb7-21" aria-hidden="true" tabindex="-1"></a>            random.shuffle(TRAIN_DATA) <span class="co">#shuffle helps the program to learn not memorize order. </span></span>
+<span id="cb7-22"><a href="#cb7-22" aria-hidden="true" tabindex="-1"></a>            losses <span class="op">=</span> {}</span>
+<span id="cb7-23"><a href="#cb7-23" aria-hidden="true" tabindex="-1"></a>            <span class="cf">for</span> text, annotations <span class="kw">in</span> TRAIN_DATA:</span>
+<span id="cb7-24"><a href="#cb7-24" aria-hidden="true" tabindex="-1"></a>                doc <span class="op">=</span> nlp.make_doc(text)</span>
+<span id="cb7-25"><a href="#cb7-25" aria-hidden="true" tabindex="-1"></a>                example <span class="op">=</span> Example.from_dict(doc, annotations) <span class="co">#fix found here for ValueError: [E973] Unexpected type for NER data https://github.com/explosion/spaCy/issues/7038</span></span>
+<span id="cb7-26"><a href="#cb7-26" aria-hidden="true" tabindex="-1"></a>                nlp.update([example], drop <span class="op">=</span> <span class="fl">0.2</span>, sgd<span class="op">=</span> optimizer, losses<span class="op">=</span>losses)            </span>
+<span id="cb7-27"><a href="#cb7-27" aria-hidden="true" tabindex="-1"></a>            <span class="bu">print</span>(losses)  </span>
+<span id="cb7-28"><a href="#cb7-28" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb7-29"><a href="#cb7-29" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span>(nlp) <span class="co">#model return</span></span>
+<span id="cb7-30"><a href="#cb7-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-31"><a href="#cb7-31" aria-hidden="true" tabindex="-1"></a><span class="co">#TRAIN_DATA = load_data("../Corridos/data/TxMunicipality_training_data.json")</span></span>
+<span id="cb7-32"><a href="#cb7-32" aria-hidden="true" tabindex="-1"></a><span class="co">#print(TRAIN_DATA)</span></span>
+<span id="cb7-33"><a href="#cb7-33" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> train_spacy(TRAIN_DATA, <span class="dv">30</span>)</span>
+<span id="cb7-34"><a href="#cb7-34" aria-hidden="true" tabindex="-1"></a>nlp.to_disk(<span class="st">"tx_ner_model"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[(18, 24, 'GPE')]
+[(18, 26, 'GPE')]
+[(42, 48, 'GPE')]
+[(11, 18, 'GPE')]
+Starting iteration 0</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 62.51578772068024}
+Starting iteration 1</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 43.56027162075043}
+Starting iteration 2</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 17.173403710126877}
+Starting iteration 3</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 6.614550813544156}
+Starting iteration 4</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 6.339124886168829}
+Starting iteration 5</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 4.668527552994384}
+Starting iteration 6</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 2.834706082458773}
+Starting iteration 7</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 3.100118553090126}
+Starting iteration 8</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 1.528277780563775}
+Starting iteration 9</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 0.34796215694897553}
+Starting iteration 10
+{'ner': 0.06786073636162271}
+Starting iteration 11</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 0.0003298795471433569}
+Starting iteration 12</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 8.729931221422753e-07}
+Starting iteration 13</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 2.122951825091409e-05}
+Starting iteration 14
+{'ner': 1.50947958406209e-06}
+Starting iteration 15</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 1.1800608593221969e-06}
+Starting iteration 16
+{'ner': 2.1923300229121668e-08}
+Starting iteration 17</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 3.565030935958304e-08}
+Starting iteration 18
+{'ner': 1.2216984495290764e-08}
+Starting iteration 19</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 1.147979634462482e-06}
+Starting iteration 20
+{'ner': 6.935479497666573e-07}
+Starting iteration 21</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 6.311703763212906e-07}
+Starting iteration 22
+{'ner': 1.6935856437283723e-07}
+Starting iteration 23</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 2.3792318623865467e-07}
+Starting iteration 24
+{'ner': 1.9464559395777773e-08}
+Starting iteration 25</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 1.9450074238557558e-08}
+Starting iteration 26
+{'ner': 8.36174219281302e-09}
+Starting iteration 27</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 2.091085715820578e-07}
+Starting iteration 28
+{'ner': 9.394207486159974e-09}
+Starting iteration 29</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>{'ner': 1.394725795202998e-07}</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="6">
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>test<span class="op">=</span> <span class="st">"elcorridodegregoriocortez.txt"</span></span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(test, <span class="st">'r'</span>, encoding<span class="op">=</span><span class="st">'utf-8'</span>) <span class="im">as</span> c:</span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a>    test <span class="op">=</span> c.read()</span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-6"><a href="#cb30-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> re</span>
+<span id="cb30-7"><a href="#cb30-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-8"><a href="#cb30-8" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> clean_text(text):</span>
+<span id="cb30-9"><a href="#cb30-9" aria-hidden="true" tabindex="-1"></a>    cleaned<span class="op">=</span> re.sub(<span class="vs">r'[":;,.“”]'</span>, <span class="st">""</span>, text)</span>
+<span id="cb30-10"><a href="#cb30-10" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span>(cleaned)</span>
+<span id="cb30-11"><a href="#cb30-11" aria-hidden="true" tabindex="-1"></a>test <span class="op">=</span> clean_text(test)</span>
+<span id="cb30-12"><a href="#cb30-12" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(test)</span>
+<span id="cb30-13"><a href="#cb30-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb30-14"><a href="#cb30-14" aria-hidden="true" tabindex="-1"></a>TxGPE<span class="op">=</span>[]</span>
+<span id="cb30-15"><a href="#cb30-15" aria-hidden="true" tabindex="-1"></a>nlp <span class="op">=</span> spacy.load(<span class="st">"tx_ner_model"</span>)</span>
+<span id="cb30-16"><a href="#cb30-16" aria-hidden="true" tabindex="-1"></a>doc <span class="op">=</span>nlp(test) </span>
+<span id="cb30-17"><a href="#cb30-17" aria-hidden="true" tabindex="-1"></a><span class="co">#print(doc)</span></span>
+<span id="cb30-18"><a href="#cb30-18" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> ent <span class="kw">in</span> doc.ents:</span>
+<span id="cb30-19"><a href="#cb30-19" aria-hidden="true" tabindex="-1"></a>    <span class="co">#print(ent.text, ent.label_)</span></span>
+<span id="cb30-20"><a href="#cb30-20" aria-hidden="true" tabindex="-1"></a>    <span class="cf">if</span> ent.label_ <span class="op">==</span> <span class="st">"GPE"</span>:</span>
+<span id="cb30-21"><a href="#cb30-21" aria-hidden="true" tabindex="-1"></a>        TxGPE.append(ent.text)</span>
+<span id="cb30-22"><a href="#cb30-22" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(TxGPE)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>In the country of Karnes 
+Look what has happened 
+The Major Sheriff died
+Leaving Román badly wounded
+
+It must have been two in the 
+afternoon
+When people arrived
+They said to one another
+It is not known who killed him
+
+They went around asking questions
+About half an hour afterward 
+They found that the wrongdoer
+Had been Gregorio Cortez
+
+Now they have outlawed Cortez
+Throughout the whole state
+Let him be taken dead or alive 
+He has killed several men
+
+They said Gregorio Cortez 
+With his pistol in his hand
+I don’t regret that I killed him 
+I regret my brother’s death
+
+Then said Gregorio Cortez 
+And his soul was all aflame 
+I don’t regret that I killed him
+A man must defend himself
+
+The Americans were coming 
+They were whiter than a dove 
+From the fear that they had 
+Of Cortez and of his pistol 
+
+Then the Americans said 
+Then they said fearfully
+Come let us follow the trail
+The wrongdoer is Cortez
+
+They set the bloodhounds on him 
+So they could follow his trail 
+But trying to overtake  Cortez
+Was like following a star 
+
+He struck out for Gonzales
+Without showing any fear
+Follow me cowardly rangers 
+I am Gregorio Cortez
+
+From Belmont he went to the 
+ranch  
+They succeeded in surrounding 
+him 
+Quite a few more than three hundred 
+But there he jumped their corral 
+
+When he jumped their corral 
+According to what we hear
+They got into a gunfight
+And he killed them another sheriff 
+
+Then said Gregorio Cortez 
+With his pistol in his hand 
+Don’t run you cowardly rangers 
+From just one Mexican
+
+Gregorio Cortez went out 
+He went towards Laredo
+They decided not to follow 
+Because they were afraid of him
+
+Then said Gregorio Cortez 
+What is the use of your scheming?
+You cannot catch me
+Even with those bloodhounds
+
+Then the Americans said 
+If we catch you with him what 
+shall we do?
+If we fight him man to man 
+Very few of us will return
+
+Over by El Encinal 
+According to what we hear 
+They made him a corral 
+And he killed them another sheriff 
+
+Then said Gregorio Cortez 
+Shooting out a lot of bullets
+I have weathered thunderstorms
+This little mist doesn’t bother me
+
+Now he has met a Mexican
+He says to him haughtily
+tell me the news
+I am Gregorio Cortez
+
+It is said that because of me 
+Many people have been killed
+I will surrender now
+Because such things are not right
+
+Cortez says to Jesús
+At last you are going to see it
+Go tell the rangers
+To come and arrest me
+
+All the rangers were coming 
+Coming so fast they even flew 
+For they wanted to get 
+The thousand dollars they were 
+offered 
+
+When they surrounded the house 
+Cortez suddenly appeared before
+    them 
+You will take me if I’m willing 
+But not any other way
+
+Then the Major Sheriff said 
+As if he was going to cry 
+Cortez hand over your weapons
+We are not going to kill
+
+Then said Gregorio Cortez
+Shouting to them in a loud voice
+I won’t surrender my arms
+Until I am in a cell
+
+Then said Gregorio Cortez
+He said in his godly voice 
+I won’t surrender my arms
+Until I’m inside a jail
+
+Now they have taken Cortez
+Now matters are at an end 
+His poor family
+Are suffering in their hearts
+
+Now with this I say farewell 
+In the shade of a cypress tree
+This is the end of the singing 
+of the ballad of Cortez</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>['Karnes', 'Gonzales', 'Laredo', '?', 'Encinal', 'Mexican']</code></pre>
+</div>
 </div>
 
 

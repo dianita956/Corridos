@@ -2,23 +2,22 @@
 
 Web Scrap and extracting list of municipalities, ghost towns, and unincorporated places in Texas.
 
-## prerequisite
+## PreRequisite
 ```{python}
-#import csv
 import requests
-#import geopandas as gpd
-#import pandas as pd
+import pandas as pd
 import json #javascript object notation to store data outside python. watch videos from Matt Digital Humanities. 
 from bs4 import BeautifulSoup 
 ```
+### List of Municipalities in Texas
 
-```{python}
-# List of Municipalities in Texas 
+```{python} 
+
 def table_extraction(a,b):
     url= a 
-    file = f"../corridos/{b}.txt"
+    file = f"list of texas places/{b}.txt" 
     s = requests.get(url)
-    soup= BeautifulSoup(s.text, "lxml") #to tell the program to read the site as HTML (lxml)
+    soup= BeautifulSoup(s.text, "html.parser") #to tell the program to read the site as HTML (lxml)
     table = soup.find("table", class_="wikitable sortable")
     with open (file, "w", encoding="utf-8")as f: 
         #rows=list()
@@ -37,7 +36,7 @@ def table_extraction(a,b):
 
 def do_all(a, b):
     table_extraction(a,b)
-
 do_all("https://en.wikipedia.org/wiki/List_of_municipalities_in_Texas","List of municipalities in Texas")
+
 ```
 

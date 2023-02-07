@@ -1,0 +1,50 @@
+[
+    [
+        "In the country of Karnes  Look what has happened  The Major Sheriff died Leaving Rom\u00e1n badly wounded",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "He struck out for Gonzales Without showing any fear Follow me cowardly rangers  I am Gregorio Cortez",
+        {
+            "entities": [
+                [
+                    18,
+                    26,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Gregorio Cortez went out  He went towards Laredo They decided not to follow  Because they were afraid of him",
+        {
+            "entities": [
+                [
+                    42,
+                    48,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Over by El Encinal  According to what we hear  They made him a corral  And he killed them another sheriff",
+        {
+            "entities": [
+                [
+                    11,
+                    18,
+                    "GPE"
+                ]
+            ]
+        }
+    ]
+]
