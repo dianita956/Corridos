@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "El Corrido Gregorio Cortez NER and Mapping book"
+  author: "Diane Lopez"
+  date: "2/6/2023"
+  chapters:
+    - index.qmd
+    - 01webscrapBS.qmd
+    - 02textfile_to_jsonfile.qmd
+    - 03NER_SpacyCustomModel.qmd
+    - 04GregCortezMap.qmd
+    - 05references.qmd 
+
+bibliography: references.bib 
+
+format:
+  html:
+    theme: flatly
+  pdf:
+    documentclass: scrreprt
+
+
+

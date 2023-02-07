@@ -1,0 +1,13 @@
+# NER_SpacyCustomModel
+
+```{python}
+import spacy
+from spacy.lang.en import English
+from spacy.lang.es import Spanish
+from spacy.pipeline import EntityRuler
+import json
+import random
+from spacy.tokens import Doc
+from spacy.training import Example
+from spacy.language import Language
+```

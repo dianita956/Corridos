@@ -1,0 +1,43 @@
+# Web Scraping Wiki tables with Beautiful Soup 
+
+Web Scrap and extracting list of municipalities, ghost towns, and unincorporated places in Texas.
+
+## prerequisite
+```{python}
+#import csv
+import requests
+#import geopandas as gpd
+#import pandas as pd
+import json #javascript object notation to store data outside python. watch videos from Matt Digital Humanities. 
+from bs4 import BeautifulSoup 
+```
+
+```{python}
+# List of Municipalities in Texas 
+def table_extraction(a,b):
+    url= a 
+    file = f"../corridos/{b}.txt"
+    s = requests.get(url)
+    soup= BeautifulSoup(s.text, "lxml") #to tell the program to read the site as HTML (lxml)
+    table = soup.find("table", class_="wikitable sortable")
+    with open (file, "w", encoding="utf-8")as f: 
+        #rows=list()
+        #headerString  = ""
+        dataString = ""
+        for row in table.find_all("tr"):   
+            #for th in row.find_all("th"): 
+                #headerString  = headerString+th.get_text(strip=True)+"|"
+                #print(headerString)
+                #ending a line break to organize the txt file
+            for td in row.find_all("td"):
+                dataString = dataString+td.get_text(strip=True)+"|"
+            dataString=dataString + "\n"
+        #f.write(headerString)       
+        f.write(dataString)
+
+def do_all(a, b):
+    table_extraction(a,b)
+
+do_all("https://en.wikipedia.org/wiki/List_of_municipalities_in_Texas","List of municipalities in Texas")
+```
+

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "El Corrido Gregorio Cortez NER and Mapping book",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  NER_SpacyCustomModel",
+    "section": "",
+    "text": "import spacy\nfrom spacy.lang.en import English\nfrom spacy.lang.es import Spanish\nfrom spacy.pipeline import EntityRuler\nimport json\nimport random\nfrom spacy.tokens import Doc\nfrom spacy.training import Example\nfrom spacy.language import Language"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "5  References",
+    "section": "",
+    "text": "test"
+  },
+  {
+    "objectID": "intro.html#prerequisite",
+    "href": "intro.html#prerequisite",
+    "title": "1  Web Scraping Wiki tables with Beautiful Soup",
+    "section": "1.1 prerequisite",
+    "text": "1.1 prerequisite\n\n#import csv\nimport requests\n#import geopandas as gpd\n#import pandas as pd\nimport json #javascript object notation to store data outside python. watch videos from Matt Digital Humanities. \nfrom bs4 import BeautifulSoup"
+  },
+  {
+    "objectID": "textfile_to_jsonfile.html#list-of-municipalities-in-texas",
+    "href": "textfile_to_jsonfile.html#list-of-municipalities-in-texas",
+    "title": "2  Text file to json file",
+    "section": "2.1 List of municipalities in Texas",
+    "text": "2.1 List of municipalities in Texas\n\nimport json\ndef view_data(filename= \"data\\TexasMunicipalities.json\"):\n    with open(filename, \"r\") as f:\n        print(filename)\n        data=json.load(f)\n        temp=data[\"List of Municipalities\"]\n        i = 0\n        for entry in temp:\n            x = entry[\"Municipality\"]\n            y = entry[\"Primary County\"]\n            print(f\"Index Number {i}\")\n            print(f\"Loction Name:{x}\")\n            print(f\"In the county/state of:{y}\")\n            print(\"\\n\\n\")\n            i= i+1"
+  },
+  {
+    "objectID": "01webscrapBS.html#prerequisite",
+    "href": "01webscrapBS.html#prerequisite",
+    "title": "1  Web Scraping Wiki tables with Beautiful Soup",
+    "section": "1.1 prerequisite",
+    "text": "1.1 prerequisite\n\n#import csv\nimport requests\n#import geopandas as gpd\n#import pandas as pd\nimport json #javascript object notation to store data outside python. watch videos from Matt Digital Humanities. \nfrom bs4 import BeautifulSoup"
+  },
+  {
+    "objectID": "03NER_SpacyCustomModel.html",
+    "href": "03NER_SpacyCustomModel.html",
+    "title": "3  NER_SpacyCustomModel",
+    "section": "",
+    "text": "import spacy\nfrom spacy.lang.en import English\nfrom spacy.lang.es import Spanish\nfrom spacy.pipeline import EntityRuler\nimport json\nimport random\nfrom spacy.tokens import Doc\nfrom spacy.training import Example\nfrom spacy.language import Language"
+  },
+  {
+    "objectID": "02textfile_to_jsonfile.html#list-of-municipalities-in-texas",
+    "href": "02textfile_to_jsonfile.html#list-of-municipalities-in-texas",
+    "title": "2  Text file to json file",
+    "section": "2.1 List of municipalities in Texas",
+    "text": "2.1 List of municipalities in Texas\n\nimport json\ndef view_data(filename= \"data\\TexasMunicipalities.json\"):\n    with open(filename, \"r\") as f:\n        print(filename)\n        data=json.load(f)\n        temp=data[\"List of Municipalities\"]\n        i = 0\n        for entry in temp:\n            x = entry[\"Municipality\"]\n            y = entry[\"Primary County\"]\n            print(f\"Index Number {i}\")\n            print(f\"Loction Name:{x}\")\n            print(f\"In the county/state of:{y}\")\n            print(\"\\n\\n\")\n            i= i+1"
+  },
+  {
+    "objectID": "04GregCortezMap.html",
+    "href": "04GregCortezMap.html",
+    "title": "4  Mapping places from El Corrido de Gregorio Cortez",
+    "section": "",
+    "text": "import spacy\nfrom spacy.lang.en import English\nfrom spacy.lang.es import Spanish\nfrom spacy.pipeline import EntityRuler\nimport json\nimport random\nfrom spacy.tokens import Doc\nfrom spacy.training import Example\nfrom spacy.language import Language"
+  },
+  {
+    "objectID": "05references.html",
+    "href": "05references.html",
+    "title": "5  References",
+    "section": "",
+    "text": ":::\n{ (misc?){noauthor_hot_nodate, title = {Hot on {His} {Trail}, {Dallas} {Morning} {News}, {June} 18, 1901, p1}, url = {https://iw-newsbank-com.libweb.lib.utsa.edu/apps/news/document-view?p=WORLDNEWS&t=state%3ATX%21USA%2B-%2BTexas&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22Gregorio%20Cortez%22&fld-nav-1=YMD_date&val-nav-1=1900%20-%201939&docref=image/v2%3A0F99DDB671832188%40WHNPX-1070CE51AD893A00%402415554-1070CE51E9156138%400-1070CE55393F9FD8%40Hot%2Bon%2BHis%2BTrail}, urldate = {2023-01-27}, file = {Hot on His Trail, Dallas Morning News, June 18, 1901, p1:C:\\Users\\dmlpz\\Zotero\\storage\\CUSC3E9R\\document-view.html:text/html}, }\n(misc?){noauthor_had_nodate, title = {Had {Running} {Fight}, {Dallas} {Morning} {News}, {June} 19, 1901, p1}, url = {https://iw-newsbank-com.libweb.lib.utsa.edu/apps/news/document-view?p=WORLDNEWS&t=state%3ATX%21USA%2B-%2BTexas&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22Gregorio%20Cortez%22&fld-nav-1=YMD_date&val-nav-1=1900%20-%201939&docref=image/v2%3A0F99DDB671832188%40WHNPX-1070CE63B34A6EA0%402415555-1070CE63F9642F38%400-1070CE6776E93870%40Had%2BRunning%2BFight}, urldate = {2023-01-27}, file = {Had Running Fight, Dallas Morning News, June 19, 1901, p1:C:\\Users\\dmlpz\\Zotero\\storage\\6HTDW4XK\\document-view.html:text/html}, }\n(misc?){noauthor_hot_nodate-1, title = {Hot after {Glover}’s {Slayer}. {Gregorio} {Cortez} is {Making} a {Desperate} {Effort} to {Reach} {Mexico}, {San} {Antonio} {Express} (published as {The} {Daily} {Express}), {June} 19, 1901, p10}, url = {https://iw-newsbank-com.libweb.lib.utsa.edu/apps/news/document-view?p=WORLDNEWS&t=state%3ATX%21USA%2B-%2BTexas&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22Gregorio%20Cortez%22&fld-nav-1=YMD_date&val-nav-1=1900%20-%201939&docref=image/v2%3A10EEA20F1A545758%40WHNPX-10FF5B3678318F20%402415555-10FF5B380815FDF8%409-10FF5B3C743F7530%40Hot%2Bafter%2BGlover%2527s%2BSlayer.%2BGregorio%2BCortez%2Bis%2BMaking%2Ba%2BDesperate%2BEffort%2Bto%2BReach%2BMexico}, urldate = {2023-01-27}, file = {Hot after Glover’s Slayer. Gregorio Cortez is Making a Desperate Effort to Reach Mexico, San Antonio Express (published as The Daily Express), June 19, 1901, p10:C:\\Users\\dmlpz\\Zotero\\storage\\EH6G88WD\\document-view.html:text/html}, }\n(misc?){noauthor_offered_nodate, title = {Offered {No} {Fight}, {Dallas} {Morning} {News}, {June} 24, 1901, p2}, url = {https://iw-newsbank-com.libweb.lib.utsa.edu/apps/news/document-view?p=WORLDNEWS&t=state%3ATX%21USA%2B-%2BTexas&sort=YMD_date%3AA&fld-base-0=alltext&maxresults=20&val-base-0=%22Gregorio%20Cortez%22&fld-nav-1=YMD_date&val-nav-1=1900%20-%201939&docref=image/v2%3A0F99DDB671832188%40WHNPX-1070CEBAC566ACD8%402415560-1070CEBAF75BD830%401-1070CEBC0FA372D0%40Offered%2BNo%2BFight}, urldate = {2023-01-27}, file = {Offered No Fight, Dallas Morning News, June 24, 1901, p2:C:\\Users\\dmlpz\\Zotero\\storage\\72NU37B7\\document-view.html:text/html}, }\n(misc?){noauthor_gregorio_nodate, title = {Gregorio {Cortez}’s {Trial}, {Dallas} {Morning} {News}, {October} 5, 1901, p9}, url = {https://iw-newsbank-com.libweb.lib.utsa.edu/apps/news/document-view?p=WORLDNEWS&t=state%3ATX%21USA%2B-%2BTexas&sort=YMD_date%3AA&page=1&fld-base-0=alltext&maxresults=20&val-base-0=%22Gregorio%20Cortez%22&fld-nav-1=YMD_date&val-nav-1=1900%20-%201939&docref=image/v2%3A0F99DDB671832188%40WHNPX-1070D5B453D3C288%402415663-1070D5B6C7E368C0%408-1070D5BFC50F9FB0%40Gregorio%2BCortez%2527s%2BTrial}, urldate = {2023-01-27}, file = {Gregorio Cortez’s Trial, Dallas Morning News, October 5, 1901, p9:C:\\Users\\dmlpz\\Zotero\\storage\\3K2SKUTX\\document-view.html:text/html}, }\n(book?){paredes_his_1958, address = {Austin}, series = {Latino literature}, title = {“{With} his pistol in his hand” a border ballad and its hero.}, language = {eng}, publisher = {University of Texas Press}, author = {Paredes, Américo}, year = {1958}, keywords = {Corrido de Gregorio Cortez (Ballad), Cortez, Gregorio, 1875-1916}, } :::"
+  },
+  {
+    "objectID": "01webscrapBS.html",
+    "href": "01webscrapBS.html",
+    "title": "1  Web Scraping Wiki tables with Beautiful Soup",
+    "section": "",
+    "text": "2 List of Municipalities in Texas\ndef table_extraction(a,b): url= a file = f”../corridos/{b}.txt” s = requests.get(url) soup= BeautifulSoup(s.text, “lxml”) #to tell the program to read the site as HTML (lxml) table = soup.find(“table”, class_=“wikitable sortable”) with open (file, “w”, encoding=“utf-8”)as f: #rows=list() #headerString = “” dataString = “” for row in table.find_all(“tr”):\n#for th in row.find_all(“th”): #headerString = headerString+th.get_text(strip=True)+“|” #print(headerString) #ending a line break to organize the txt file for td in row.find_all(“td”): dataString = dataString+td.get_text(strip=True)+“|” dataString=dataString + “” #f.write(headerString)\nf.write(dataString)\ndef do_all(a, b): table_extraction(a,b)\ndo_all(“https://en.wikipedia.org/wiki/List_of_municipalities_in_Texas”,“List of municipalities in Texas”)"
+  }
+]

@@ -1,0 +1,22 @@
+# Text file to json file
+
+Web Scrap and extracting list of municipalities, ghost towns, and unincorporated places in Texas.
+
+## List of municipalities in Texas
+```{python}
+import json
+def view_data(filename= "data\TexasMunicipalities.json"):
+    with open(filename, "r") as f:
+        print(filename)
+        data=json.load(f)
+        temp=data["List of Municipalities"]
+        i = 0
+        for entry in temp:
+            x = entry["Municipality"]
+            y = entry["Primary County"]
+            print(f"Index Number {i}")
+            print(f"Loction Name:{x}")
+            print(f"In the county/state of:{y}")
+            print("\n\n")
+            i= i+1
+```
