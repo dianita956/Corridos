@@ -1,4 +1,5 @@
 # %%
+pip install geopandas as gpd
 import geopandas as gpd
 from pyproj import CRS
 import pandas as pd
