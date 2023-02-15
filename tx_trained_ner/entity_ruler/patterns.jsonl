@@ -3223,7 +3223,7 @@
 {"label":"GPE","pattern":"Starrville"}
 {"label":"GPE","pattern":"Swan"}
 {"label":"GPE","pattern":"Cottonwood"}
-{"label":"GPE","pattern":"George\u00e2\u20ac\u2122s Creek"}
+{"label":"GPE","pattern":"George\u2019s Creek"}
 {"label":"GPE","pattern":"Glass"}
 {"label":"GPE","pattern":"Nemo"}
 {"label":"GPE","pattern":"Rainbow"}
@@ -3327,8 +3327,8 @@
 {"label":"GPE","pattern":"Rivera"}
 {"label":"GPE","pattern":"Rivereno"}
 {"label":"GPE","pattern":"Roma Creek"}
-{"label":"GPE","pattern":"Saline\u00c3\u00b1o"}
-{"label":"GPE","pattern":"Saline\u00c3\u00b1o North"}
+{"label":"GPE","pattern":"Saline\u00f1o"}
+{"label":"GPE","pattern":"Saline\u00f1o North"}
 {"label":"GPE","pattern":"Sammy Martinez"}
 {"label":"GPE","pattern":"San Fernando"}
 {"label":"GPE","pattern":"San Isidro"}
@@ -3516,7 +3516,7 @@
 {"label":"GPE","pattern":"Ranchos Penitas West"}
 {"label":"GPE","pattern":"San Carlos I"}
 {"label":"GPE","pattern":"San Carlos II"}
-{"label":"GPE","pattern":"Santo Tom\u00c3\u00a1s"}
+{"label":"GPE","pattern":"Santo Tom\u00e1s"}
 {"label":"GPE","pattern":"Sunset Acres"}
 {"label":"GPE","pattern":"Tanquecitos South Acres"}
 {"label":"GPE","pattern":"Tanquecitos South Acres II"}
@@ -4848,7 +4848,7 @@
 {"label":"GPE","pattern":"Starrville"}
 {"label":"GPE","pattern":"Swan"}
 {"label":"GPE","pattern":"Cottonwood"}
-{"label":"GPE","pattern":"George\u00e2\u20ac\u2122s Creek"}
+{"label":"GPE","pattern":"George\u2019s Creek"}
 {"label":"GPE","pattern":"Glass"}
 {"label":"GPE","pattern":"Nemo"}
 {"label":"GPE","pattern":"Rainbow"}
@@ -4952,8 +4952,8 @@
 {"label":"GPE","pattern":"Rivera"}
 {"label":"GPE","pattern":"Rivereno"}
 {"label":"GPE","pattern":"Roma Creek"}
-{"label":"GPE","pattern":"Saline\u00c3\u00b1o"}
-{"label":"GPE","pattern":"Saline\u00c3\u00b1o North"}
+{"label":"GPE","pattern":"Saline\u00f1o"}
+{"label":"GPE","pattern":"Saline\u00f1o North"}
 {"label":"GPE","pattern":"Sammy Martinez"}
 {"label":"GPE","pattern":"San Fernando"}
 {"label":"GPE","pattern":"San Isidro"}
@@ -5141,7 +5141,7 @@
 {"label":"GPE","pattern":"Ranchos Penitas West"}
 {"label":"GPE","pattern":"San Carlos I"}
 {"label":"GPE","pattern":"San Carlos II"}
-{"label":"GPE","pattern":"Santo Tom\u00c3\u00a1s"}
+{"label":"GPE","pattern":"Santo Tom\u00e1s"}
 {"label":"GPE","pattern":"Sunset Acres"}
 {"label":"GPE","pattern":"Tanquecitos South Acres"}
 {"label":"GPE","pattern":"Tanquecitos South Acres II"}
@@ -8406,7 +8406,7 @@
 {"label":"GPE","pattern":"Sanco"}
 {"label":"GPE","pattern":"Sandy Hills"}
 {"label":"GPE","pattern":"Santa Rita"}
-{"label":"GPE","pattern":"Santo Tom\u00c3\u00a1s"}
+{"label":"GPE","pattern":"Santo Tom\u00e1s"}
 {"label":"GPE","pattern":"Sarahville de Viesca"}
 {"label":"GPE","pattern":"Savage"}
 {"label":"GPE","pattern":"Savage"}

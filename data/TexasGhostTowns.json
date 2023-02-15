@@ -1,2204 +1,2204 @@
 {
-    "ghost town": [
+    "List of Ghost towns": [
         {
-            "Name": "Acala",
-            "County": "Hudspeth"
+            "Ghost town": "Acala",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Acme",
-            "County": "Hardeman"
+            "Ghost town": "Acme",
+            "Primary County": "Hardeman"
         },
         {
-            "Name": "Adkins",
-            "County": "Bexar"
+            "Ghost town": "Adkins",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Adobe Walls",
-            "County": "Hutchinson"
+            "Ghost town": "Adobe Walls",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Adobes",
-            "County": "Presidio"
+            "Ghost town": "Adobes",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Albert",
-            "County": "Gillespie"
+            "Ghost town": "Albert",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Albuquerque",
-            "County": "Gonzales"
+            "Ghost town": "Albuquerque",
+            "Primary County": "Gonzales"
         },
         {
-            "Name": "Aldridge",
-            "County": "Jasper"
+            "Ghost town": "Aldridge",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "Alexander",
-            "County": "Erath"
+            "Ghost town": "Alexander",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Allamore",
-            "County": "Hudspeth"
+            "Ghost town": "Allamore",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Alum",
-            "County": "Wilson"
+            "Ghost town": "Alum",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Ammans Crossing",
-            "County": "Kendall"
+            "Ghost town": "Ammans Crossing",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Anarene",
-            "County": "Archer"
+            "Ghost town": "Anarene",
+            "Primary County": "Archer"
         },
         {
-            "Name": "Aransas City",
-            "County": "Aransas"
+            "Ghost town": "Aransas City",
+            "Primary County": "Aransas"
         },
         {
-            "Name": "Arden",
-            "County": "Irion"
+            "Ghost town": "Arden",
+            "Primary County": "Irion"
         },
         {
-            "Name": "Arno",
-            "County": "Reeves"
+            "Ghost town": "Arno",
+            "Primary County": "Reeves"
         },
         {
-            "Name": "Arispe",
-            "County": "Hudspeth"
+            "Ghost town": "Arispe",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Auburn",
-            "County": "Ellis"
+            "Ghost town": "Auburn",
+            "Primary County": "Ellis"
         },
         {
-            "Name": "Audra",
-            "County": "Taylor"
+            "Ghost town": "Audra",
+            "Primary County": "Taylor"
         },
         {
-            "Name": "Audubon",
-            "County": "Wise"
+            "Ghost town": "Audubon",
+            "Primary County": "Wise"
         },
         {
-            "Name": "Ayr",
-            "County": "Deaf Smith"
+            "Ghost town": "Ayr",
+            "Primary County": "Deaf Smith"
         },
         {
-            "Name": "Ayres",
-            "County": "Washington"
+            "Ghost town": "Ayres",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Bankersmith",
-            "County": "Kendall"
+            "Ghost town": "Bankersmith",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Bartonsite",
-            "County": "Hale"
+            "Ghost town": "Bartonsite",
+            "Primary County": "Hale"
         },
         {
-            "Name": "Becton",
-            "County": "Lubbock"
+            "Ghost town": "Becton",
+            "Primary County": "Lubbock"
         },
         {
-            "Name": "Belcherville",
-            "County": "Montague"
+            "Ghost town": "Belcherville",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Belknap",
-            "County": "Young"
+            "Ghost town": "Belknap",
+            "Primary County": "Young"
         },
         {
-            "Name": "Belle Plain",
-            "County": "Callahan"
+            "Ghost town": "Belle Plain",
+            "Primary County": "Callahan"
         },
         {
-            "Name": "Belzora",
-            "County": "Smith"
+            "Ghost town": "Belzora",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Ben Ficklin",
-            "County": "Tom Green"
+            "Ghost town": "Ben Ficklin",
+            "Primary County": "Tom Green"
         },
         {
-            "Name": "Benina",
-            "County": "San Augustine"
+            "Ghost town": "Benina",
+            "Primary County": "San Augustine"
         },
         {
-            "Name": "Benton",
-            "County": "Kendall"
+            "Ghost town": "Benton",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Benton City",
-            "County": "Atascosa"
+            "Ghost town": "Benton City",
+            "Primary County": "Atascosa"
         },
         {
-            "Name": "Best",
-            "County": "Reagan"
+            "Ghost town": "Best",
+            "Primary County": "Reagan"
         },
         {
-            "Name": "Bettina",
-            "County": "Llano"
+            "Ghost town": "Bettina",
+            "Primary County": "Llano"
         },
         {
-            "Name": "Bexar",
-            "County": "Bexar"
+            "Ghost town": "Bexar",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Birchville",
-            "County": "Hudspeth"
+            "Ghost town": "Birchville",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Bitter Creek",
-            "County": "Nolan"
+            "Ghost town": "Bitter Creek",
+            "Primary County": "Nolan"
         },
         {
-            "Name": "Block Creek",
-            "County": "Kendall"
+            "Ghost town": "Block Creek",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Blumenthal",
-            "County": "Gillespie"
+            "Ghost town": "Blumenthal",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Boise",
-            "County": "Oldham"
+            "Ghost town": "Boise",
+            "Primary County": "Oldham"
         },
         {
-            "Name": "Boldtville",
-            "County": "Wilson"
+            "Ghost town": "Boldtville",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Bomarton",
-            "County": "Baylor"
+            "Ghost town": "Bomarton",
+            "Primary County": "Baylor"
         },
         {
-            "Name": "Boonville",
-            "County": "Brazos"
+            "Ghost town": "Boonville",
+            "Primary County": "Brazos"
         },
         {
-            "Name": "Boracho",
-            "County": "Culberson"
+            "Ghost town": "Boracho",
+            "Primary County": "Culberson"
         },
         {
-            "Name": "Boz",
-            "County": "Ellis"
+            "Ghost town": "Boz",
+            "Primary County": "Ellis"
         },
         {
-            "Name": "Bragg",
-            "County": "Hardin"
+            "Ghost town": "Bragg",
+            "Primary County": "Hardin"
         },
         {
-            "Name": "Brazos Point",
-            "County": "Bosque"
+            "Ghost town": "Brazos Point",
+            "Primary County": "Bosque"
         },
         {
-            "Name": "Britton",
-            "County": "Ellis"
+            "Ghost town": "Britton",
+            "Primary County": "Ellis"
         },
         {
-            "Name": "Bronco",
-            "County": "Yoakum"
+            "Ghost town": "Bronco",
+            "Primary County": "Yoakum"
         },
         {
-            "Name": "Browning",
-            "County": "Smith"
+            "Ghost town": "Browning",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Bryant Station",
-            "County": "Milam"
+            "Ghost town": "Bryant Station",
+            "Primary County": "Milam"
         },
         {
-            "Name": "Bucksnort",
-            "County": "Falls"
+            "Ghost town": "Bucksnort",
+            "Primary County": "Falls"
         },
         {
-            "Name": "Burning Bush Colony",
-            "County": "Smith"
+            "Ghost town": "Burning Bush Colony",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Caddo",
-            "County": "Milam"
+            "Ghost town": "Caddo",
+            "Primary County": "Milam"
         },
         {
-            "Name": "Caddo",
-            "County": "Wilson"
+            "Ghost town": "Caddo",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Cain City",
-            "County": "Gillespie"
+            "Ghost town": "Cain City",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Calaveras",
-            "County": "Wilson"
+            "Ghost town": "Calaveras",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Calf Creek",
-            "County": "McCulloch"
+            "Ghost town": "Calf Creek",
+            "Primary County": "McCulloch"
         },
         {
-            "Name": "Callahan City",
-            "County": "Callahan"
+            "Ghost town": "Callahan City",
+            "Primary County": "Callahan"
         },
         {
-            "Name": "Calliham",
-            "County": "McMullen"
+            "Ghost town": "Calliham",
+            "Primary County": "McMullen"
         },
         {
-            "Name": "Camey Spur",
-            "County": "Denton"
+            "Ghost town": "Camey Spur",
+            "Primary County": "Denton"
         },
         {
-            "Name": "Camp Verde",
-            "County": "Kerr"
+            "Ghost town": "Camp Verde",
+            "Primary County": "Kerr"
         },
         {
-            "Name": "Canada Verde",
-            "County": "Wilson"
+            "Ghost town": "Canada Verde",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Candelaria",
-            "County": "Presidio"
+            "Ghost town": "Candelaria",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Candlish",
-            "County": "Bee"
+            "Ghost town": "Candlish",
+            "Primary County": "Bee"
         },
         {
-            "Name": "Canyon City",
-            "County": "Comal"
+            "Ghost town": "Canyon City",
+            "Primary County": "Comal"
         },
         {
-            "Name": "Canyon Valley",
-            "County": "Crosby"
+            "Ghost town": "Canyon Valley",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Cap Rock",
-            "County": "Crosby"
+            "Ghost town": "Cap Rock",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Caput",
-            "County": "Gaines"
+            "Ghost town": "Caput",
+            "Primary County": "Gaines"
         },
         {
-            "Name": "Carlton",
-            "County": "Hamilton"
+            "Ghost town": "Carlton",
+            "Primary County": "Hamilton"
         },
         {
-            "Name": "Carpenter",
-            "County": "Wilson"
+            "Ghost town": "Carpenter",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Carta Valley",
-            "County": "Edwards"
+            "Ghost town": "Carta Valley",
+            "Primary County": "Edwards"
         },
         {
-            "Name": "Carter",
-            "County": "Parker"
+            "Ghost town": "Carter",
+            "Primary County": "Parker"
         },
         {
-            "Name": "Casa Blanca",
-            "County": "Jim Wells"
+            "Ghost town": "Casa Blanca",
+            "Primary County": "Jim Wells"
         },
         {
-            "Name": "Casa Piedra",
-            "County": "Presidio"
+            "Ghost town": "Casa Piedra",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Castolon",
-            "County": "Brewster"
+            "Ghost town": "Castolon",
+            "Primary County": "Brewster"
         },
         {
-            "Name": "Cedar Creek",
-            "County": "Washington"
+            "Ghost town": "Cedar Creek",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Cedar Station",
-            "County": "Liberty"
+            "Ghost town": "Cedar Station",
+            "Primary County": "Liberty"
         },
         {
-            "Name": "Center Point",
-            "County": "Camp"
+            "Ghost town": "Center Point",
+            "Primary County": "Camp"
         },
         {
-            "Name": "Center Point",
-            "County": "Hays"
+            "Ghost town": "Center Point",
+            "Primary County": "Hays"
         },
         {
-            "Name": "Center Point",
-            "County": "Hopkins"
+            "Ghost town": "Center Point",
+            "Primary County": "Hopkins"
         },
         {
-            "Name": "Center Point",
-            "County": "Kerr"
+            "Ghost town": "Center Point",
+            "Primary County": "Kerr"
         },
         {
-            "Name": "Center Point",
-            "County": "Panola"
+            "Ghost town": "Center Point",
+            "Primary County": "Panola"
         },
         {
-            "Name": "Center Point",
-            "County": "Trinity"
+            "Ghost town": "Center Point",
+            "Primary County": "Trinity"
         },
         {
-            "Name": "Center Point",
-            "County": "Upshur"
+            "Ghost town": "Center Point",
+            "Primary County": "Upshur"
         },
         {
-            "Name": "Chalk Mountain",
-            "County": "Erath"
+            "Ghost town": "Chalk Mountain",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Cheapside",
-            "County": "Gonzales"
+            "Ghost town": "Cheapside",
+            "Primary County": "Gonzales"
         },
         {
-            "Name": "Cheyenne",
-            "County": "Winkler"
+            "Ghost town": "Cheyenne",
+            "Primary County": "Winkler"
         },
         {
-            "Name": "Chinati",
-            "County": "Presidio"
+            "Ghost town": "Chinati",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Chinese Coal Mine",
-            "County": "Jeff Davis"
+            "Ghost town": "Chinese Coal Mine",
+            "Primary County": "Jeff Davis"
         },
         {
-            "Name": "Chispa",
-            "County": "Jeff Davis"
+            "Ghost town": "Chispa",
+            "Primary County": "Jeff Davis"
         },
         {
-            "Name": "Cibolo Settlement",
-            "County": "Comal"
+            "Ghost town": "Cibolo Settlement",
+            "Primary County": "Comal"
         },
         {
-            "Name": "Cincinnati",
-            "County": "Walker"
+            "Ghost town": "Cincinnati",
+            "Primary County": "Walker"
         },
         {
-            "Name": "Clairemont",
-            "County": "Kent"
+            "Ghost town": "Clairemont",
+            "Primary County": "Kent"
         },
         {
-            "Name": "Clairette",
-            "County": "Erath"
+            "Ghost town": "Clairette",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Clara",
-            "County": "Wichita"
+            "Ghost town": "Clara",
+            "Primary County": "Wichita"
         },
         {
-            "Name": "Clareville",
-            "County": "Bee"
+            "Ghost town": "Clareville",
+            "Primary County": "Bee"
         },
         {
-            "Name": "Click",
-            "County": "Llano"
+            "Ghost town": "Click",
+            "Primary County": "Llano"
         },
         {
-            "Name": "Clinton",
-            "County": "DeWitt"
+            "Ghost town": "Clinton",
+            "Primary County": "DeWitt"
         },
         {
-            "Name": "Clifden",
-            "County": "Medina"
+            "Ghost town": "Clifden",
+            "Primary County": "Medina"
         },
         {
-            "Name": "Close City",
-            "County": "Garza"
+            "Ghost town": "Close City",
+            "Primary County": "Garza"
         },
         {
-            "Name": "County Line",
-            "County": "HaleLubbock"
+            "Ghost town": "County Line",
+            "Primary County": "HaleLubbock"
         },
         {
-            "Name": "Coffeeville",
-            "County": "Upshur"
+            "Ghost town": "Coffeeville",
+            "Primary County": "Upshur"
         },
         {
-            "Name": "Coke",
-            "County": "Wood"
+            "Ghost town": "Coke",
+            "Primary County": "Wood"
         },
         {
-            "Name": "Coker",
-            "County": "Bexar"
+            "Ghost town": "Coker",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Cold Springs",
-            "County": "Uvalde"
+            "Ghost town": "Cold Springs",
+            "Primary County": "Uvalde"
         },
         {
-            "Name": "Coles Settlement",
-            "County": "Washington"
+            "Ghost town": "Coles Settlement",
+            "Primary County": "Washington"
         },
         {
-            "Name": "College Mound",
-            "County": "Kaufman"
+            "Ghost town": "College Mound",
+            "Primary County": "Kaufman"
         },
         {
-            "Name": "Coltharp",
-            "County": "Houston"
+            "Ghost town": "Coltharp",
+            "Primary County": "Houston"
         },
         {
-            "Name": "Comyn",
-            "County": "Comanche"
+            "Ghost town": "Comyn",
+            "Primary County": "Comanche"
         },
         {
-            "Name": "Concrete",
-            "County": "Guadalupe"
+            "Ghost town": "Concrete",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Copano",
-            "County": "Refugio"
+            "Ghost town": "Copano",
+            "Primary County": "Refugio"
         },
         {
-            "Name": "Cora",
-            "County": "Comanche"
+            "Ghost town": "Cora",
+            "Primary County": "Comanche"
         },
         {
-            "Name": "Corn Hill",
-            "County": "Williamson"
+            "Ghost town": "Corn Hill",
+            "Primary County": "Williamson"
         },
         {
-            "Name": "Cottage Hill",
-            "County": "Bexar"
+            "Ghost town": "Cottage Hill",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Cowden Place",
-            "County": "Winkler"
+            "Ghost town": "Cowden Place",
+            "Primary County": "Winkler"
         },
         {
-            "Name": "Crestonio",
-            "County": "Duval"
+            "Ghost town": "Crestonio",
+            "Primary County": "Duval"
         },
         {
-            "Name": "Crisp",
-            "County": "Ellis"
+            "Ghost town": "Crisp",
+            "Primary County": "Ellis"
         },
         {
-            "Name": "Cryer Creek",
-            "County": "Navarro"
+            "Ghost town": "Cryer Creek",
+            "Primary County": "Navarro"
         },
         {
-            "Name": "Currey's Creek",
-            "County": "Kendall"
+            "Ghost town": "Currey's Creek",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Curry",
-            "County": "Stephens"
+            "Ghost town": "Curry",
+            "Primary County": "Stephens"
         },
         {
-            "Name": "Cuthbert",
-            "County": "Mitchell"
+            "Ghost town": "Cuthbert",
+            "Primary County": "Mitchell"
         },
         {
-            "Name": "Dalby Springs",
-            "County": "Bowie"
+            "Ghost town": "Dalby Springs",
+            "Primary County": "Bowie"
         },
         {
-            "Name": "Danville",
-            "County": "Gregg"
+            "Ghost town": "Danville",
+            "Primary County": "Gregg"
         },
         {
-            "Name": "Darilek",
-            "County": "Wilson"
+            "Ghost town": "Darilek",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Darwin",
-            "County": "Webb"
+            "Ghost town": "Darwin",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Decker",
-            "County": "Nolan"
+            "Ghost town": "Decker",
+            "Primary County": "Nolan"
         },
         {
-            "Name": "Deland",
-            "County": "Erath"
+            "Ghost town": "Deland",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Denhawken",
-            "County": "Wilson"
+            "Ghost town": "Denhawken",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Desdemona",
-            "County": "Eastland"
+            "Ghost town": "Desdemona",
+            "Primary County": "Eastland"
         },
         {
-            "Name": "Dewees",
-            "County": "Wilson"
+            "Ghost town": "Dewees",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Dias E Ocho Creek Camp",
-            "County": "Presidio"
+            "Ghost town": "Dias E Ocho Creek Camp",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Dido",
-            "County": "Tarrant"
+            "Ghost town": "Dido",
+            "Primary County": "Tarrant"
         },
         {
-            "Name": "Dietz",
-            "County": "Guadalupe"
+            "Ghost town": "Dietz",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Dillon",
-            "County": "Hopkins"
+            "Ghost town": "Dillon",
+            "Primary County": "Hopkins"
         },
         {
-            "Name": "Dixie",
-            "County": "Grayson"
+            "Ghost town": "Dixie",
+            "Primary County": "Grayson"
         },
         {
-            "Name": "Doan's Crossing",
-            "County": "Wilbarger"
+            "Ghost town": "Doan's Crossing",
+            "Primary County": "Wilbarger"
         },
         {
-            "Name": "Dodge City",
-            "County": "Williamson"
+            "Ghost town": "Dodge City",
+            "Primary County": "Williamson"
         },
         {
-            "Name": "Dolores",
-            "County": "Webb"
+            "Ghost town": "Dolores",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Dolores Viejo",
-            "County": "Zapata"
+            "Ghost town": "Dolores Viejo",
+            "Primary County": "Zapata"
         },
         {
-            "Name": "Dolores Nuevo",
-            "County": "Zapata"
+            "Ghost town": "Dolores Nuevo",
+            "Primary County": "Zapata"
         },
         {
-            "Name": "Doseido Colony",
-            "County": "Wilson"
+            "Ghost town": "Doseido Colony",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Doole",
-            "County": "Concho"
+            "Ghost town": "Doole",
+            "Primary County": "Concho"
         },
         {
-            "Name": "Drumright",
-            "County": "Glasscock"
+            "Ghost town": "Drumright",
+            "Primary County": "Glasscock"
         },
         {
-            "Name": "Dryden",
-            "County": "Terrell"
+            "Ghost town": "Dryden",
+            "Primary County": "Terrell"
         },
         {
-            "Name": "Duffau",
-            "County": "Erath"
+            "Ghost town": "Duffau",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Dull",
-            "County": "La Salle"
+            "Ghost town": "Dull",
+            "Primary County": "La Salle"
         },
         {
-            "Name": "Dumas",
-            "County": "Wood"
+            "Ghost town": "Dumas",
+            "Primary County": "Wood"
         },
         {
-            "Name": "Dye Mound",
-            "County": "Montague"
+            "Ghost town": "Dye Mound",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Eagle Creek",
-            "County": "Wilson"
+            "Ghost town": "Eagle Creek",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Eagle's Nest",
-            "County": "Val Verde"
+            "Ghost town": "Eagle's Nest",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Ebony",
-            "County": "Mills"
+            "Ghost town": "Ebony",
+            "Primary County": "Mills"
         },
         {
-            "Name": "Eckert",
-            "County": "Gillespie"
+            "Ghost town": "Eckert",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Egypt",
-            "County": "Leon"
+            "Ghost town": "Egypt",
+            "Primary County": "Leon"
         },
         {
-            "Name": "Eliasville",
-            "County": "Young"
+            "Ghost town": "Eliasville",
+            "Primary County": "Young"
         },
         {
-            "Name": "Elizabethtown",
-            "County": "Denton"
+            "Ghost town": "Elizabethtown",
+            "Primary County": "Denton"
         },
         {
-            "Name": "Elm Creek",
-            "County": "Guadalupe"
+            "Ghost town": "Elm Creek",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Emerald",
-            "County": "Crockett"
+            "Ghost town": "Emerald",
+            "Primary County": "Crockett"
         },
         {
-            "Name": "Emma",
-            "County": "Crosby"
+            "Ghost town": "Emma",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Enon",
-            "County": "Houston"
+            "Ghost town": "Enon",
+            "Primary County": "Houston"
         },
         {
-            "Name": "Enon",
-            "County": "Upshur"
+            "Ghost town": "Enon",
+            "Primary County": "Upshur"
         },
         {
-            "Name": "Epworth",
-            "County": "Hale"
+            "Ghost town": "Epworth",
+            "Primary County": "Hale"
         },
         {
-            "Name": "Esperanza",
-            "County": "Montgomery"
+            "Ghost town": "Esperanza",
+            "Primary County": "Montgomery"
         },
         {
-            "Name": "Estacado",
-            "County": "Crosby"
+            "Ghost town": "Estacado",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Etholen",
-            "County": "Hudspeth"
+            "Ghost town": "Etholen",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Etna",
-            "County": "Cherokee"
+            "Ghost town": "Etna",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Fairview",
-            "County": "Wilson"
+            "Ghost town": "Fairview",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Farewell",
-            "County": "Dallam"
+            "Ghost town": "Farewell",
+            "Primary County": "Dallam"
         },
         {
-            "Name": "Farmer",
-            "County": "Young"
+            "Ghost town": "Farmer",
+            "Primary County": "Young"
         },
         {
-            "Name": "Fasken",
-            "County": "Andrews"
+            "Ghost town": "Fasken",
+            "Primary County": "Andrews"
         },
         {
-            "Name": "Fastrill",
-            "County": "Cherokee"
+            "Ghost town": "Fastrill",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Flora",
-            "County": "Smith"
+            "Ghost town": "Flora",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Fort Belknap",
-            "County": "Young"
+            "Ghost town": "Fort Belknap",
+            "Primary County": "Young"
         },
         {
-            "Name": "Fort Griffin",
-            "County": "Shackelford"
+            "Ghost town": "Fort Griffin",
+            "Primary County": "Shackelford"
         },
         {
-            "Name": "Fort Holland",
-            "County": "Presidio"
+            "Ghost town": "Fort Holland",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Fort Hudson",
-            "County": "Val Verde"
+            "Ghost town": "Fort Hudson",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Fort Martin Scott",
-            "County": "Gillespie"
+            "Ghost town": "Fort Martin Scott",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Fort McKavett",
-            "County": "Menard"
+            "Ghost town": "Fort McKavett",
+            "Primary County": "Menard"
         },
         {
-            "Name": "Fort Oldham",
-            "County": "Burleson"
+            "Ghost town": "Fort Oldham",
+            "Primary County": "Burleson"
         },
         {
-            "Name": "Fort Phantom Hill",
-            "County": "Jones"
+            "Ghost town": "Fort Phantom Hill",
+            "Primary County": "Jones"
         },
         {
-            "Name": "Fort Quitman",
-            "County": "Hudspeth"
+            "Ghost town": "Fort Quitman",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Fort Terrett",
-            "County": "Sutton"
+            "Ghost town": "Fort Terrett",
+            "Primary County": "Sutton"
         },
         {
-            "Name": "Frio Town",
-            "County": "Frio"
+            "Ghost town": "Frio Town",
+            "Primary County": "Frio"
         },
         {
-            "Name": "Frosa",
-            "County": "Limestone"
+            "Ghost town": "Frosa",
+            "Primary County": "Limestone"
         },
         {
-            "Name": "Fry",
-            "County": "Brown"
+            "Ghost town": "Fry",
+            "Primary County": "Brown"
         },
         {
-            "Name": "Fuqua",
-            "County": "Liberty"
+            "Ghost town": "Fuqua",
+            "Primary County": "Liberty"
         },
         {
-            "Name": "Gander Slu",
-            "County": "Guadalupe"
+            "Ghost town": "Gander Slu",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Gansel",
-            "County": "Concho"
+            "Ghost town": "Gansel",
+            "Primary County": "Concho"
         },
         {
-            "Name": "Gay Hill",
-            "County": "Washington"
+            "Ghost town": "Gay Hill",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Ghent",
-            "County": "Cherokee"
+            "Ghost town": "Ghent",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Gilliland",
-            "County": "Knox"
+            "Ghost town": "Gilliland",
+            "Primary County": "Knox"
         },
         {
-            "Name": "Girvin",
-            "County": "Pecos"
+            "Ghost town": "Girvin",
+            "Primary County": "Pecos"
         },
         {
-            "Name": "Glenrio",
-            "County": "Deaf Smith"
+            "Ghost town": "Glenrio",
+            "Primary County": "Deaf Smith"
         },
         {
-            "Name": "Goforth",
-            "County": "Hays"
+            "Ghost town": "Goforth",
+            "Primary County": "Hays"
         },
         {
-            "Name": "Gold, Texas",
-            "County": "Gillespie"
+            "Ghost town": "Gold, Texas",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Golden Pond, Texas",
-            "County": "Stonewall"
+            "Ghost town": "Golden Pond, Texas",
+            "Primary County": "Stonewall"
         },
         {
-            "Name": "Gomez, Texas",
-            "County": "Terry"
+            "Ghost town": "Gomez, Texas",
+            "Primary County": "Terry"
         },
         {
-            "Name": "Goodwill",
-            "County": "Washington"
+            "Ghost town": "Goodwill",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Goshen",
-            "County": "Walker"
+            "Ghost town": "Goshen",
+            "Primary County": "Walker"
         },
         {
-            "Name": "Graball",
-            "County": "Washington"
+            "Ghost town": "Graball",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Granville",
-            "County": "Angelina"
+            "Ghost town": "Granville",
+            "Primary County": "Angelina"
         },
         {
-            "Name": "Grapetown",
-            "County": "Gillespie"
+            "Ghost town": "Grapetown",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Grass Pond Colony",
-            "County": "Wilson"
+            "Ghost town": "Grass Pond Colony",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Grassyville",
-            "County": "Bastrop"
+            "Ghost town": "Grassyville",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "Gray Mule",
-            "County": "Floyd"
+            "Ghost town": "Gray Mule",
+            "Primary County": "Floyd"
         },
         {
-            "Name": "Graytown",
-            "County": "Wilson"
+            "Ghost town": "Graytown",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Green Valley",
-            "County": "Guadalupe"
+            "Ghost town": "Green Valley",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Grice",
-            "County": "Upshur"
+            "Ghost town": "Grice",
+            "Primary County": "Upshur"
         },
         {
-            "Name": "Grit",
-            "County": "Mason"
+            "Ghost town": "Grit",
+            "Primary County": "Mason"
         },
         {
-            "Name": "Gruene",
-            "County": "Comal"
+            "Ghost town": "Gruene",
+            "Primary County": "Comal"
         },
         {
-            "Name": "Guadalupe City",
-            "County": "Guadalupe"
+            "Ghost town": "Guadalupe City",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Gulf",
-            "County": "Matagorda"
+            "Ghost town": "Gulf",
+            "Primary County": "Matagorda"
         },
         {
-            "Name": "Gunsight",
-            "County": "Stephens"
+            "Ghost town": "Gunsight",
+            "Primary County": "Stephens"
         },
         {
-            "Name": "Hackberry",
-            "County": "Lavaca"
+            "Ghost town": "Hackberry",
+            "Primary County": "Lavaca"
         },
         {
-            "Name": "Hagerman",
-            "County": "Grayson"
+            "Ghost town": "Hagerman",
+            "Primary County": "Grayson"
         },
         {
-            "Name": "Hale City",
-            "County": "Hale"
+            "Ghost town": "Hale City",
+            "Primary County": "Hale"
         },
         {
-            "Name": "Hart Camp",
-            "County": "Lamb"
+            "Ghost town": "Hart Camp",
+            "Primary County": "Lamb"
         },
         {
-            "Name": "Haslam",
-            "County": "Shelby"
+            "Ghost town": "Haslam",
+            "Primary County": "Shelby"
         },
         {
-            "Name": "Hay Flat",
-            "County": "Loving"
+            "Ghost town": "Hay Flat",
+            "Primary County": "Loving"
         },
         {
-            "Name": "Hayrick",
-            "County": "Coke"
+            "Ghost town": "Hayrick",
+            "Primary County": "Coke"
         },
         {
-            "Name": "Heckville",
-            "County": "Lubbock"
+            "Ghost town": "Heckville",
+            "Primary County": "Lubbock"
         },
         {
-            "Name": "Hedwigs Hill, Texas",
-            "County": "Mason"
+            "Ghost town": "Hedwigs Hill, Texas",
+            "Primary County": "Mason"
         },
         {
-            "Name": "Helena",
-            "County": "Karnes"
+            "Ghost town": "Helena",
+            "Primary County": "Karnes"
         },
         {
-            "Name": "Helmic",
-            "County": "Trinity"
+            "Ghost town": "Helmic",
+            "Primary County": "Trinity"
         },
         {
-            "Name": "Henry's Chapel",
-            "County": "Cherokee"
+            "Ghost town": "Henry's Chapel",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Hickory Flats",
-            "County": "Bastrop"
+            "Ghost town": "Hickory Flats",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "Hilda",
-            "County": "Mason"
+            "Ghost town": "Hilda",
+            "Primary County": "Mason"
         },
         {
-            "Name": "Holt",
-            "County": "San Saba"
+            "Ghost town": "Holt",
+            "Primary County": "San Saba"
         },
         {
-            "Name": "Hot Springs",
-            "County": "Brewster"
+            "Ghost town": "Hot Springs",
+            "Primary County": "Brewster"
         },
         {
-            "Name": "Huff",
-            "County": "Archer"
+            "Ghost town": "Huff",
+            "Primary County": "Archer"
         },
         {
-            "Name": "Hughes",
-            "County": "Irion"
+            "Ghost town": "Hughes",
+            "Primary County": "Irion"
         },
         {
-            "Name": "Huron",
-            "County": "Hill"
+            "Ghost town": "Huron",
+            "Primary County": "Hill"
         },
         {
-            "Name": "Ilka",
-            "County": "Guadalupe"
+            "Ghost town": "Ilka",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Illinois Bend",
-            "County": "Montague"
+            "Ghost town": "Illinois Bend",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Indianola",
-            "County": "Calhoun"
+            "Ghost town": "Indianola",
+            "Primary County": "Calhoun"
         },
         {
-            "Name": "Indio",
-            "County": "Starr"
+            "Ghost town": "Indio",
+            "Primary County": "Starr"
         },
         {
-            "Name": "Ireland",
-            "County": "Coryell"
+            "Ghost town": "Ireland",
+            "Primary County": "Coryell"
         },
         {
-            "Name": "Iron Bridge",
-            "County": "Gregg"
+            "Ghost town": "Iron Bridge",
+            "Primary County": "Gregg"
         },
         {
-            "Name": "Islitas",
-            "County": "Webb"
+            "Ghost town": "Islitas",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Izoro",
-            "County": "Lampasas"
+            "Ghost town": "Izoro",
+            "Primary County": "Lampasas"
         },
         {
-            "Name": "Jakes Colony",
-            "County": "Guadalupe"
+            "Ghost town": "Jakes Colony",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Jarvis",
-            "County": "Anderson"
+            "Ghost town": "Jarvis",
+            "Primary County": "Anderson"
         },
         {
-            "Name": "Jean",
-            "County": "Young"
+            "Ghost town": "Jean",
+            "Primary County": "Young"
         },
         {
-            "Name": "Jermyn",
-            "County": "Jack"
+            "Ghost town": "Jermyn",
+            "Primary County": "Jack"
         },
         {
-            "Name": "Jewel",
-            "County": "Eastland"
+            "Ghost town": "Jewel",
+            "Primary County": "Eastland"
         },
         {
-            "Name": "Jim Town",
-            "County": "Dallas"
+            "Ghost town": "Jim Town",
+            "Primary County": "Dallas"
         },
         {
-            "Name": "Jimkurn",
-            "County": "Stephens"
+            "Ghost town": "Jimkurn",
+            "Primary County": "Stephens"
         },
         {
-            "Name": "Joinerville",
-            "County": "Rusk"
+            "Ghost town": "Joinerville",
+            "Primary County": "Rusk"
         },
         {
-            "Name": "Jonesboro",
-            "County": "Coryell"
+            "Ghost town": "Jonesboro",
+            "Primary County": "Coryell"
         },
         {
-            "Name": "Jud",
-            "County": "Haskell"
+            "Ghost town": "Jud",
+            "Primary County": "Haskell"
         },
         {
-            "Name": "Juniper",
-            "County": "Coke"
+            "Ghost town": "Juniper",
+            "Primary County": "Coke"
         },
         {
-            "Name": "Juno",
-            "County": "Val Verde"
+            "Ghost town": "Juno",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Justiceburg",
-            "County": "Garza"
+            "Ghost town": "Justiceburg",
+            "Primary County": "Garza"
         },
         {
-            "Name": "Kellyville",
-            "County": "Marion"
+            "Ghost town": "Kellyville",
+            "Primary County": "Marion"
         },
         {
-            "Name": "Kelm",
-            "County": "Navarro"
+            "Ghost town": "Kelm",
+            "Primary County": "Navarro"
         },
         {
-            "Name": "Kelsey",
-            "County": "Upshur"
+            "Ghost town": "Kelsey",
+            "Primary County": "Upshur"
         },
         {
-            "Name": "Kelso",
-            "County": "Deaf Smith"
+            "Ghost town": "Kelso",
+            "Primary County": "Deaf Smith"
         },
         {
-            "Name": "Kent",
-            "County": "Culberson"
+            "Ghost town": "Kent",
+            "Primary County": "Culberson"
         },
         {
-            "Name": "Kicaster",
-            "County": "Wilson"
+            "Ghost town": "Kicaster",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Kimball",
-            "County": "Bosque"
+            "Ghost town": "Kimball",
+            "Primary County": "Bosque"
         },
         {
-            "Name": "Kingsmill",
-            "County": "Gray"
+            "Ghost town": "Kingsmill",
+            "Primary County": "Gray"
         },
         {
-            "Name": "Kirk",
-            "County": "Bexar"
+            "Ghost town": "Kirk",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Kirkland",
-            "County": "Childress"
+            "Ghost town": "Kirkland",
+            "Primary County": "Childress"
         },
         {
-            "Name": "Kittieaka Kittie West",
-            "County": "Live Oak"
+            "Ghost town": "Kittieaka Kittie West",
+            "Primary County": "Live Oak"
         },
         {
-            "Name": "Kittrell",
-            "County": "Walker"
+            "Ghost town": "Kittrell",
+            "Primary County": "Walker"
         },
         {
-            "Name": "Knight",
-            "County": "Polk"
+            "Ghost town": "Knight",
+            "Primary County": "Polk"
         },
         {
-            "Name": "Knoxville",
-            "County": "Cherokee"
+            "Ghost town": "Knoxville",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "La Casa",
-            "County": "Stephens"
+            "Ghost town": "La Casa",
+            "Primary County": "Stephens"
         },
         {
-            "Name": "La Lomita",
-            "County": "Hidalgo"
+            "Ghost town": "La Lomita",
+            "Primary County": "Hidalgo"
         },
         {
-            "Name": "La Plata",
-            "County": "Presidio"
+            "Ghost town": "La Plata",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "La Reunion",
-            "County": "Dallas"
+            "Ghost town": "La Reunion",
+            "Primary County": "Dallas"
         },
         {
-            "Name": "Lajitas",
-            "County": "Brewster"
+            "Ghost town": "Lajitas",
+            "Primary County": "Brewster"
         },
         {
-            "Name": "Langtry",
-            "County": "Val Verde"
+            "Ghost town": "Langtry",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Larissa",
-            "County": "Cherokee"
+            "Ghost town": "Larissa",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Las Cabras",
-            "County": "Wilson"
+            "Ghost town": "Las Cabras",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Las Islas",
-            "County": "Wilson"
+            "Ghost town": "Las Islas",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Laurelia",
-            "County": "Polk"
+            "Ghost town": "Laurelia",
+            "Primary County": "Polk"
         },
         {
-            "Name": "League Four",
-            "County": "Crosby"
+            "Ghost town": "League Four",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Leesville",
-            "County": "Gonzales"
+            "Ghost town": "Leesville",
+            "Primary County": "Gonzales"
         },
         {
-            "Name": "Lemonville",
-            "County": "Orange"
+            "Ghost town": "Lemonville",
+            "Primary County": "Orange"
         },
         {
-            "Name": "Levita",
-            "County": "Coryell"
+            "Ghost town": "Levita",
+            "Primary County": "Coryell"
         },
         {
-            "Name": "Linnville, Brazoria County, Texas",
-            "County": "Brazoria"
+            "Ghost town": "Linnville, Brazoria County, Texas",
+            "Primary County": "Brazoria"
         },
         {
-            "Name": "Linnville, Calhoun County, Texas",
-            "County": "Calhoun"
+            "Ghost town": "Linnville, Calhoun County, Texas",
+            "Primary County": "Calhoun"
         },
         {
-            "Name": "Lobo",
-            "County": "Culberson"
+            "Ghost town": "Lobo",
+            "Primary County": "Culberson"
         },
         {
-            "Name": "Locker",
-            "County": "San Saba"
+            "Ghost town": "Locker",
+            "Primary County": "San Saba"
         },
         {
-            "Name": "Lodi",
-            "County": "Wilson"
+            "Ghost town": "Lodi",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Loire",
-            "County": "Wilson"
+            "Ghost town": "Loire",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Loma Vista",
-            "County": "Wilson"
+            "Ghost town": "Loma Vista",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Lone Oak",
-            "County": "Bexar"
+            "Ghost town": "Lone Oak",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Longfellow",
-            "County": "Pecos"
+            "Ghost town": "Longfellow",
+            "Primary County": "Pecos"
         },
         {
-            "Name": "Lookout Valley",
-            "County": "Bexar"
+            "Ghost town": "Lookout Valley",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Los Ojuelos",
-            "County": "Webb"
+            "Ghost town": "Los Ojuelos",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Louetta",
-            "County": "Harris"
+            "Ghost town": "Louetta",
+            "Primary County": "Harris"
         },
         {
-            "Name": "Lowell",
-            "County": "Erath"
+            "Ghost town": "Lowell",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Lozier",
-            "County": "Pecos"
+            "Ghost town": "Lozier",
+            "Primary County": "Pecos"
         },
         {
-            "Name": "Luckenbach",
-            "County": "Gillespie"
+            "Ghost town": "Luckenbach",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Luxello",
-            "County": "Bexar"
+            "Ghost town": "Luxello",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Lyra",
-            "County": "Palo Pinto"
+            "Ghost town": "Lyra",
+            "Primary County": "Palo Pinto"
         },
         {
-            "Name": "Lytton Springs",
-            "County": "Caldwell"
+            "Ghost town": "Lytton Springs",
+            "Primary County": "Caldwell"
         },
         {
-            "Name": "Macksville",
-            "County": "Comanche"
+            "Ghost town": "Macksville",
+            "Primary County": "Comanche"
         },
         {
-            "Name": "Madera Springs",
-            "County": "Jeff Davis"
+            "Ghost town": "Madera Springs",
+            "Primary County": "Jeff Davis"
         },
         {
-            "Name": "Magwalt",
-            "County": "Winkler"
+            "Ghost town": "Magwalt",
+            "Primary County": "Winkler"
         },
         {
-            "Name": "Manda",
-            "County": "Travis"
+            "Ghost town": "Manda",
+            "Primary County": "Travis"
         },
         {
-            "Name": "Manestee",
-            "County": "Tom Green"
+            "Ghost town": "Manestee",
+            "Primary County": "Tom Green"
         },
         {
-            "Name": "Mangum",
-            "County": "Eastland"
+            "Ghost town": "Mangum",
+            "Primary County": "Eastland"
         },
         {
-            "Name": "Manning",
-            "County": "Angelina"
+            "Ghost town": "Manning",
+            "Primary County": "Angelina"
         },
         {
-            "Name": "Mantua",
-            "County": "Collin"
+            "Ghost town": "Mantua",
+            "Primary County": "Collin"
         },
         {
-            "Name": "Marcelina",
-            "County": "Wilson"
+            "Ghost town": "Marcelina",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Marysville",
-            "County": "Cooke"
+            "Ghost town": "Marysville",
+            "Primary County": "Cooke"
         },
         {
-            "Name": "Maxdale",
-            "County": "Bell"
+            "Ghost town": "Maxdale",
+            "Primary County": "Bell"
         },
         {
-            "Name": "McDuff",
-            "County": "Bastrop"
+            "Ghost town": "McDuff",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "McGirk",
-            "County": "Hamilton"
+            "Ghost town": "McGirk",
+            "Primary County": "Hamilton"
         },
         {
-            "Name": "McNeil",
-            "County": "Williamson"
+            "Ghost town": "McNeil",
+            "Primary County": "Williamson"
         },
         {
-            "Name": "Medicine Mound",
-            "County": "Hardeman"
+            "Ghost town": "Medicine Mound",
+            "Primary County": "Hardeman"
         },
         {
-            "Name": "Mendota",
-            "County": "Hemphill"
+            "Ghost town": "Mendota",
+            "Primary County": "Hemphill"
         },
         {
-            "Name": "Mentone",
-            "County": "Loving"
+            "Ghost town": "Mentone",
+            "Primary County": "Loving"
         },
         {
-            "Name": "Merle",
-            "County": "Burleson"
+            "Ghost town": "Merle",
+            "Primary County": "Burleson"
         },
         {
-            "Name": "Merrilltown",
-            "County": "Travis"
+            "Ghost town": "Merrilltown",
+            "Primary County": "Travis"
         },
         {
-            "Name": "Mesquite",
-            "County": "Borden"
+            "Ghost town": "Mesquite",
+            "Primary County": "Borden"
         },
         {
-            "Name": "Mill Creek",
-            "County": "Guadalupe"
+            "Ghost town": "Mill Creek",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Millville",
-            "County": "Rusk"
+            "Ghost town": "Millville",
+            "Primary County": "Rusk"
         },
         {
-            "Name": "Mineral Springs",
-            "County": "Panola"
+            "Ghost town": "Mineral Springs",
+            "Primary County": "Panola"
         },
         {
-            "Name": "Minters Chapel",
-            "County": "Tarrant"
+            "Ghost town": "Minters Chapel",
+            "Primary County": "Tarrant"
         },
         {
-            "Name": "Mobeetie",
-            "County": "Wheeler"
+            "Ghost town": "Mobeetie",
+            "Primary County": "Wheeler"
         },
         {
-            "Name": "Monte Christo",
-            "County": "Hidalgo"
+            "Ghost town": "Monte Christo",
+            "Primary County": "Hidalgo"
         },
         {
-            "Name": "Monthalia",
-            "County": "Gonzales"
+            "Ghost town": "Monthalia",
+            "Primary County": "Gonzales"
         },
         {
-            "Name": "Morales",
-            "County": "Jackson"
+            "Ghost town": "Morales",
+            "Primary County": "Jackson"
         },
         {
-            "Name": "Mormon Mill",
-            "County": "Burnet"
+            "Ghost town": "Mormon Mill",
+            "Primary County": "Burnet"
         },
         {
-            "Name": "Morrill",
-            "County": "Cherokee"
+            "Ghost town": "Morrill",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "Morris Ranch",
-            "County": "Gillespie"
+            "Ghost town": "Morris Ranch",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Mount Blanco",
-            "County": "Crosby"
+            "Ghost town": "Mount Blanco",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Mount Olive",
-            "County": "Mills"
+            "Ghost town": "Mount Olive",
+            "Primary County": "Mills"
         },
         {
-            "Name": "Muellersville",
-            "County": "Washington"
+            "Ghost town": "Muellersville",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Mustang Prairie",
-            "County": "Falls"
+            "Ghost town": "Mustang Prairie",
+            "Primary County": "Falls"
         },
         {
-            "Name": "Narcisso",
-            "County": "Cottle"
+            "Ghost town": "Narcisso",
+            "Primary County": "Cottle"
         },
         {
-            "Name": "Neighborsville",
-            "County": "Comal"
+            "Ghost town": "Neighborsville",
+            "Primary County": "Comal"
         },
         {
-            "Name": "Neuse Store",
-            "County": "Comal"
+            "Ghost town": "Neuse Store",
+            "Primary County": "Comal"
         },
         {
-            "Name": "New Birmingham",
-            "County": "Cherokee"
+            "Ghost town": "New Birmingham",
+            "Primary County": "Cherokee"
         },
         {
-            "Name": "New Danville",
-            "County": "Gregg"
+            "Ghost town": "New Danville",
+            "Primary County": "Gregg"
         },
         {
-            "Name": "New Fountain",
-            "County": "Medina"
+            "Ghost town": "New Fountain",
+            "Primary County": "Medina"
         },
         {
-            "Name": "New Gulf",
-            "County": "Wharton"
+            "Ghost town": "New Gulf",
+            "Primary County": "Wharton"
         },
         {
-            "Name": "New Lynn",
-            "County": "Lynn"
+            "Ghost town": "New Lynn",
+            "Primary County": "Lynn"
         },
         {
-            "Name": "New Sweden",
-            "County": "Travis"
+            "Ghost town": "New Sweden",
+            "Primary County": "Travis"
         },
         {
-            "Name": "Newport",
-            "County": "Clay"
+            "Ghost town": "Newport",
+            "Primary County": "Clay"
         },
         {
-            "Name": "Nix",
-            "County": "Lampasas"
+            "Ghost town": "Nix",
+            "Primary County": "Lampasas"
         },
         {
-            "Name": "Nockenut",
-            "County": "Wilson"
+            "Ghost town": "Nockenut",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Nogal",
-            "County": "Ochiltree"
+            "Ghost town": "Nogal",
+            "Primary County": "Ochiltree"
         },
         {
-            "Name": "Norfleet",
-            "County": "Hale"
+            "Ghost town": "Norfleet",
+            "Primary County": "Hale"
         },
         {
-            "Name": "North Roby",
-            "County": "Fisher"
+            "Ghost town": "North Roby",
+            "Primary County": "Fisher"
         },
         {
-            "Name": "Nottawa",
-            "County": "Wharton"
+            "Ghost town": "Nottawa",
+            "Primary County": "Wharton"
         },
         {
-            "Name": "Noxville",
-            "County": "Kimble"
+            "Ghost town": "Noxville",
+            "Primary County": "Kimble"
         },
         {
-            "Name": "O'Daniel",
-            "County": "Guadalupe"
+            "Ghost town": "O'Daniel",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Oak Forest",
-            "County": "Gonzales"
+            "Ghost town": "Oak Forest",
+            "Primary County": "Gonzales"
         },
         {
-            "Name": "Oak Hill",
-            "County": "Bastrop"
+            "Ghost town": "Oak Hill",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "Oakland",
-            "County": "Colorado"
+            "Ghost town": "Oakland",
+            "Primary County": "Colorado"
         },
         {
-            "Name": "Ochiltree",
-            "County": "Ochiltree"
+            "Ghost town": "Ochiltree",
+            "Primary County": "Ochiltree"
         },
         {
-            "Name": "Ochoa",
-            "County": "Presidio"
+            "Ghost town": "Ochoa",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Odds",
-            "County": "Limestone"
+            "Ghost town": "Odds",
+            "Primary County": "Limestone"
         },
         {
-            "Name": "Ohio",
-            "County": "Hamilton"
+            "Ghost town": "Ohio",
+            "Primary County": "Hamilton"
         },
         {
-            "Name": "Ojo de Veranda",
-            "County": "Presidio"
+            "Ghost town": "Ojo de Veranda",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Olga",
-            "County": "Nolan"
+            "Ghost town": "Olga",
+            "Primary County": "Nolan"
         },
         {
-            "Name": "Olive",
-            "County": "Hardin"
+            "Ghost town": "Olive",
+            "Primary County": "Hardin"
         },
         {
-            "Name": "Olmos",
-            "County": "Guadalupe"
+            "Ghost town": "Olmos",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Opdykenamesake ofOpdyke West",
-            "County": "Hockley"
+            "Ghost town": "Opdykenamesake ofOpdyke West",
+            "Primary County": "Hockley"
         },
         {
-            "Name": "Orient",
-            "County": "Tom Green"
+            "Ghost town": "Orient",
+            "Primary County": "Tom Green"
         },
         {
-            "Name": "Orla",
-            "County": "Reeves"
+            "Ghost town": "Orla",
+            "Primary County": "Reeves"
         },
         {
-            "Name": "Orlena",
-            "County": "Cooke"
+            "Ghost town": "Orlena",
+            "Primary County": "Cooke"
         },
         {
-            "Name": "Osage",
-            "County": "Colorado"
+            "Ghost town": "Osage",
+            "Primary County": "Colorado"
         },
         {
-            "Name": "Oso",
-            "County": "Fayette"
+            "Ghost town": "Oso",
+            "Primary County": "Fayette"
         },
         {
-            "Name": "Otis Chalk",
-            "County": "Howard"
+            "Ghost town": "Otis Chalk",
+            "Primary County": "Howard"
         },
         {
-            "Name": "Otto",
-            "County": "Falls"
+            "Ghost town": "Otto",
+            "Primary County": "Falls"
         },
         {
-            "Name": "Owens",
-            "County": "Crosby"
+            "Ghost town": "Owens",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Owensville",
-            "County": "Robertson"
+            "Ghost town": "Owensville",
+            "Primary County": "Robertson"
         },
         {
-            "Name": "Owenville",
-            "County": "Sutton"
+            "Ghost town": "Owenville",
+            "Primary County": "Sutton"
         },
         {
-            "Name": "Pandora",
-            "County": "Wilson"
+            "Ghost town": "Pandora",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Padgett",
-            "County": "Young"
+            "Ghost town": "Padgett",
+            "Primary County": "Young"
         },
         {
-            "Name": "Palm Valley",
-            "County": "Williamson"
+            "Ghost town": "Palm Valley",
+            "Primary County": "Williamson"
         },
         {
-            "Name": "Pandale",
-            "County": "Val Verde"
+            "Ghost town": "Pandale",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Parita",
-            "County": "Bexar"
+            "Ghost town": "Parita",
+            "Primary County": "Bexar"
         },
         {
-            "Name": "Park Springs",
-            "County": "Wise"
+            "Ghost town": "Park Springs",
+            "Primary County": "Wise"
         },
         {
-            "Name": "Parris",
-            "County": "Collin"
+            "Ghost town": "Parris",
+            "Primary County": "Collin"
         },
         {
-            "Name": "Paso Real",
-            "County": "Cameron"
+            "Ghost town": "Paso Real",
+            "Primary County": "Cameron"
         },
         {
-            "Name": "Peach Creek",
-            "County": "Wharton"
+            "Ghost town": "Peach Creek",
+            "Primary County": "Wharton"
         },
         {
-            "Name": "Peach Tree Village",
-            "County": "Tyler"
+            "Ghost town": "Peach Tree Village",
+            "Primary County": "Tyler"
         },
         {
-            "Name": "Pear Valley",
-            "County": "McCulloch"
+            "Ghost town": "Pear Valley",
+            "Primary County": "McCulloch"
         },
         {
-            "Name": "Pedernales",
-            "County": "Gillespie"
+            "Ghost town": "Pedernales",
+            "Primary County": "Gillespie"
         },
         {
-            "Name": "Penick",
-            "County": "Jones"
+            "Ghost town": "Penick",
+            "Primary County": "Jones"
         },
         {
-            "Name": "Perico",
-            "County": "Dallam"
+            "Ghost town": "Perico",
+            "Primary County": "Dallam"
         },
         {
-            "Name": "Pescadito",
-            "County": "Webb"
+            "Ghost town": "Pescadito",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Peyton Colony",
-            "County": "Blanco"
+            "Ghost town": "Peyton Colony",
+            "Primary County": "Blanco"
         },
         {
-            "Name": "Phelan",
-            "County": "Bastrop"
+            "Ghost town": "Phelan",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "Phillips",
-            "County": "Hutchinson"
+            "Ghost town": "Phillips",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Pila Blanca",
-            "County": "Duval"
+            "Ghost town": "Pila Blanca",
+            "Primary County": "Duval"
         },
         {
-            "Name": "Pilares",
-            "County": "Presidio"
+            "Ghost town": "Pilares",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Pine Springs",
-            "County": "Culberson"
+            "Ghost town": "Pine Springs",
+            "Primary County": "Culberson"
         },
         {
-            "Name": "Pisek",
-            "County": "Colorado"
+            "Ghost town": "Pisek",
+            "Primary County": "Colorado"
         },
         {
-            "Name": "Pisgah",
-            "County": "Navarro"
+            "Ghost town": "Pisgah",
+            "Primary County": "Navarro"
         },
         {
-            "Name": "Pittsville",
-            "County": "Fort Bend"
+            "Ghost town": "Pittsville",
+            "Primary County": "Fort Bend"
         },
         {
-            "Name": "Plata",
-            "County": "Presidio"
+            "Ghost town": "Plata",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Pleasant Hill",
-            "County": "Houston"
+            "Ghost town": "Pleasant Hill",
+            "Primary County": "Houston"
         },
         {
-            "Name": "Plemons",
-            "County": "Hutchinson"
+            "Ghost town": "Plemons",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Plummer Crossing",
-            "County": "Wilson"
+            "Ghost town": "Plummer Crossing",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Poesta",
-            "County": "Bee"
+            "Ghost town": "Poesta",
+            "Primary County": "Bee"
         },
         {
-            "Name": "Polonia",
-            "County": "Caldwll"
+            "Ghost town": "Polonia",
+            "Primary County": "Caldwll"
         },
         {
-            "Name": "Pontotoc",
-            "County": "Mason Couny"
+            "Ghost town": "Pontotoc",
+            "Primary County": "Mason Couny"
         },
         {
-            "Name": "Port Sullivan",
-            "County": "Milam"
+            "Ghost town": "Port Sullivan",
+            "Primary County": "Milam"
         },
         {
-            "Name": "Porterville",
-            "County": "Loving"
+            "Ghost town": "Porterville",
+            "Primary County": "Loving"
         },
         {
-            "Name": "Porvenir",
-            "County": "Presidio"
+            "Ghost town": "Porvenir",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Praha",
-            "County": "Newton"
+            "Ghost town": "Praha",
+            "Primary County": "Newton"
         },
         {
-            "Name": "Preston",
-            "County": "Wharton"
+            "Ghost town": "Preston",
+            "Primary County": "Wharton"
         },
         {
-            "Name": "Princeton",
-            "County": "Newton"
+            "Ghost town": "Princeton",
+            "Primary County": "Newton"
         },
         {
-            "Name": "Pringle",
-            "County": "Hutchinson"
+            "Ghost town": "Pringle",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Proffitt",
-            "County": "Young"
+            "Ghost town": "Proffitt",
+            "Primary County": "Young"
         },
         {
-            "Name": "Provident City",
-            "County": "Colorado"
+            "Ghost town": "Provident City",
+            "Primary County": "Colorado"
         },
         {
-            "Name": "Pumpville",
-            "County": "Val Verde"
+            "Ghost town": "Pumpville",
+            "Primary County": "Val Verde"
         },
         {
-            "Name": "Pyote",
-            "County": "Ward"
+            "Ghost town": "Pyote",
+            "Primary County": "Ward"
         },
         {
-            "Name": "Quigley",
-            "County": "Jasper"
+            "Ghost town": "Quigley",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "Quincy",
-            "County": "Bee"
+            "Ghost town": "Quincy",
+            "Primary County": "Bee"
         },
         {
-            "Name": "Rath City",
-            "County": "Stonewall"
+            "Ghost town": "Rath City",
+            "Primary County": "Stonewall"
         },
         {
-            "Name": "Rayner",
-            "County": "Stonewall"
+            "Ghost town": "Rayner",
+            "Primary County": "Stonewall"
         },
         {
-            "Name": "Redbarn",
-            "County": "Pecos"
+            "Ghost town": "Redbarn",
+            "Primary County": "Pecos"
         },
         {
-            "Name": "Red River Station",
-            "County": "Montague"
+            "Ghost town": "Red River Station",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Regency",
-            "County": "Mills"
+            "Ghost town": "Regency",
+            "Primary County": "Mills"
         },
         {
-            "Name": "Remlig",
-            "County": "Jasper"
+            "Ghost town": "Remlig",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "Rexville",
-            "County": "Austin"
+            "Ghost town": "Rexville",
+            "Primary County": "Austin"
         },
         {
-            "Name": "Ridout",
-            "County": "Wilson"
+            "Ghost town": "Ridout",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Rock Island",
-            "County": "Washington"
+            "Ghost town": "Rock Island",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Roosevelt",
-            "County": "Kimble"
+            "Ghost town": "Roosevelt",
+            "Primary County": "Kimble"
         },
         {
-            "Name": "Rooster Springs",
-            "County": "Hays"
+            "Ghost town": "Rooster Springs",
+            "Primary County": "Hays"
         },
         {
-            "Name": "Ross City",
-            "County": "Howard"
+            "Ghost town": "Ross City",
+            "Primary County": "Howard"
         },
         {
-            "Name": "Royston, Texas",
-            "County": "Fisher"
+            "Ghost town": "Royston, Texas",
+            "Primary County": "Fisher"
         },
         {
-            "Name": "Runnels City",
-            "County": "Runnels"
+            "Ghost town": "Runnels City",
+            "Primary County": "Runnels"
         },
         {
-            "Name": "Rustler Springs",
-            "County": "Culberson"
+            "Ghost town": "Rustler Springs",
+            "Primary County": "Culberson"
         },
         {
-            "Name": "St. Mary's of Aransas",
-            "County": "Refugio"
+            "Ghost town": "St. Mary's of Aransas",
+            "Primary County": "Refugio"
         },
         {
-            "Name": "Sage",
-            "County": "Burnet"
+            "Ghost town": "Sage",
+            "Primary County": "Burnet"
         },
         {
-            "Name": "Salona",
-            "County": "Montague"
+            "Ghost town": "Salona",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Salt Flat",
-            "County": "Hudspeth"
+            "Ghost town": "Salt Flat",
+            "Primary County": "Hudspeth"
         },
         {
-            "Name": "Salt Gap",
-            "County": "McCullouch"
+            "Ghost town": "Salt Gap",
+            "Primary County": "McCullouch"
         },
         {
-            "Name": "Sam Fordyce",
-            "County": "Hidalgo"
+            "Ghost town": "Sam Fordyce",
+            "Primary County": "Hidalgo"
         },
         {
-            "Name": "Saspamco",
-            "County": "Wilson"
+            "Ghost town": "Saspamco",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "San Vicente",
-            "County": "Brewster"
+            "Ghost town": "San Vicente",
+            "Primary County": "Brewster"
         },
         {
-            "Name": "Sanco",
-            "County": "Coke"
+            "Ghost town": "Sanco",
+            "Primary County": "Coke"
         },
         {
-            "Name": "Sandy Hills",
-            "County": "Wilson"
+            "Ghost town": "Sandy Hills",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Santa Rita",
-            "County": "Cameron"
+            "Ghost town": "Santa Rita",
+            "Primary County": "Cameron"
         },
         {
-            "Name": "Santo Tom\u00c3\u00a1s",
-            "County": "Webb"
+            "Ghost town": "Santo Tom\u00e1s",
+            "Primary County": "Webb"
         },
         {
-            "Name": "Sarahville de Viesca",
-            "County": "Falls"
+            "Ghost town": "Sarahville de Viesca",
+            "Primary County": "Falls"
         },
         {
-            "Name": "Savage",
-            "County": "Crosby"
+            "Ghost town": "Savage",
+            "Primary County": "Crosby"
         },
         {
-            "Name": "Savage",
-            "County": "Fannin"
+            "Ghost town": "Savage",
+            "Primary County": "Fannin"
         },
         {
-            "Name": "Senterfitt",
-            "County": "Lampasas"
+            "Ghost town": "Senterfitt",
+            "Primary County": "Lampasas"
         },
         {
-            "Name": "Shafter",
-            "County": "Presidio"
+            "Ghost town": "Shafter",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Shafter Lake",
-            "County": "Andrews"
+            "Ghost town": "Shafter Lake",
+            "Primary County": "Andrews"
         },
         {
-            "Name": "Shannon",
-            "County": "Clay"
+            "Ghost town": "Shannon",
+            "Primary County": "Clay"
         },
         {
-            "Name": "Sher-Han",
-            "County": "Hansford"
+            "Ghost town": "Sher-Han",
+            "Primary County": "Hansford"
         },
         {
-            "Name": "Sherwood",
-            "County": "Irion"
+            "Ghost town": "Sherwood",
+            "Primary County": "Irion"
         },
         {
-            "Name": "Signal Hill",
-            "County": "Hutchinson"
+            "Ghost town": "Signal Hill",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Silver",
-            "County": "Coke"
+            "Ghost town": "Silver",
+            "Primary County": "Coke"
         },
         {
-            "Name": "Sipe Springs",
-            "County": "Comanche"
+            "Ghost town": "Sipe Springs",
+            "Primary County": "Comanche"
         },
         {
-            "Name": "Sipe Springs",
-            "County": "Milam"
+            "Ghost town": "Sipe Springs",
+            "Primary County": "Milam"
         },
         {
-            "Name": "Sivells Bend",
-            "County": "Cooke"
+            "Ghost town": "Sivells Bend",
+            "Primary County": "Cooke"
         },
         {
-            "Name": "Slide",
-            "County": "Lubbock"
+            "Ghost town": "Slide",
+            "Primary County": "Lubbock"
         },
         {
-            "Name": "Smeltertown",
-            "County": "El Paso"
+            "Ghost town": "Smeltertown",
+            "Primary County": "El Paso"
         },
         {
-            "Name": "Smithfield",
-            "County": "Tarrant"
+            "Ghost town": "Smithfield",
+            "Primary County": "Tarrant"
         },
         {
-            "Name": "Soash",
-            "County": "Howard"
+            "Ghost town": "Soash",
+            "Primary County": "Howard"
         },
         {
-            "Name": "Sowers",
-            "County": "Dallas"
+            "Ghost town": "Sowers",
+            "Primary County": "Dallas"
         },
         {
-            "Name": "Spanish Fort",
-            "County": "Montague"
+            "Ghost town": "Spanish Fort",
+            "Primary County": "Montague"
         },
         {
-            "Name": "Spurlin",
-            "County": "Hamilton"
+            "Ghost town": "Spurlin",
+            "Primary County": "Hamilton"
         },
         {
-            "Name": "Starrville",
-            "County": "Smith"
+            "Ghost town": "Starrville",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Sterley",
-            "County": "Floyd"
+            "Ghost town": "Sterley",
+            "Primary County": "Floyd"
         },
         {
-            "Name": "Sterling",
-            "County": "Robertson"
+            "Ghost town": "Sterling",
+            "Primary County": "Robertson"
         },
         {
-            "Name": "Steward's Mill",
-            "County": "Freestone"
+            "Ghost town": "Steward's Mill",
+            "Primary County": "Freestone"
         },
         {
-            "Name": "Stiles",
-            "County": "Reagan"
+            "Ghost town": "Stiles",
+            "Primary County": "Reagan"
         },
         {
-            "Name": "Sullivan",
-            "County": "Guadalupe"
+            "Ghost town": "Sullivan",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Sumpter",
-            "County": "Trinity"
+            "Ghost town": "Sumpter",
+            "Primary County": "Trinity"
         },
         {
-            "Name": "Sunnyside",
-            "County": "Menard"
+            "Ghost town": "Sunnyside",
+            "Primary County": "Menard"
         },
         {
-            "Name": "Sunshine Hill",
-            "County": "Wichita"
+            "Ghost town": "Sunshine Hill",
+            "Primary County": "Wichita"
         },
         {
-            "Name": "Sutherland Springs",
-            "County": "Wilson"
+            "Ghost town": "Sutherland Springs",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Swartwout",
-            "County": "Polk"
+            "Ghost town": "Swartwout",
+            "Primary County": "Polk"
         },
         {
-            "Name": "Swastika",
-            "County": "Hale"
+            "Ghost town": "Swastika",
+            "Primary County": "Hale"
         },
         {
-            "Name": "Sweden",
-            "County": "Duval"
+            "Ghost town": "Sweden",
+            "Primary County": "Duval"
         },
         {
-            "Name": "Sweet Home",
-            "County": "Guadalupe"
+            "Ghost town": "Sweet Home",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Sycamore",
-            "County": "Guadalupe"
+            "Ghost town": "Sycamore",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Tarrant",
-            "County": "Hopkins"
+            "Ghost town": "Tarrant",
+            "Primary County": "Hopkins"
         },
         {
-            "Name": "Tascosa",
-            "County": "Oldham"
+            "Ghost town": "Tascosa",
+            "Primary County": "Oldham"
         },
         {
-            "Name": "Tee Pee City",
-            "County": "Motley"
+            "Ghost town": "Tee Pee City",
+            "Primary County": "Motley"
         },
         {
-            "Name": "Tehuacana",
-            "County": "Limestone"
+            "Ghost town": "Tehuacana",
+            "Primary County": "Limestone"
         },
         {
-            "Name": "Telegraph",
-            "County": "Kimble"
+            "Ghost town": "Telegraph",
+            "Primary County": "Kimble"
         },
         {
-            "Name": "Telico",
-            "County": "Ellis"
+            "Ghost town": "Telico",
+            "Primary County": "Ellis"
         },
         {
-            "Name": "Tennyson",
-            "County": "Coke"
+            "Ghost town": "Tennyson",
+            "Primary County": "Coke"
         },
         {
-            "Name": "Terlingua",
-            "County": "Brewster"
+            "Ghost town": "Terlingua",
+            "Primary County": "Brewster"
         },
         {
-            "Name": "Texana",
-            "County": "Jackson"
+            "Ghost town": "Texana",
+            "Primary County": "Jackson"
         },
         {
-            "Name": "Texla",
-            "County": "Orange"
+            "Ghost town": "Texla",
+            "Primary County": "Orange"
         },
         {
-            "Name": "Texon",
-            "County": "Reagan"
+            "Ghost town": "Texon",
+            "Primary County": "Reagan"
         },
         {
-            "Name": "The Grove",
-            "County": "Coryell"
+            "Ghost town": "The Grove",
+            "Primary County": "Coryell"
         },
         {
-            "Name": "Three Oaks",
-            "County": "Wilson"
+            "Ghost town": "Three Oaks",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Thurber",
-            "County": "Erath"
+            "Ghost town": "Thurber",
+            "Primary County": "Erath"
         },
         {
-            "Name": "Tiemann",
-            "County": "Guadalupe"
+            "Ghost town": "Tiemann",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Tigertown",
-            "County": "Washington"
+            "Ghost town": "Tigertown",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Toadsuck",
-            "County": "Grayson"
+            "Ghost town": "Toadsuck",
+            "Primary County": "Grayson"
         },
         {
-            "Name": "Tokio",
-            "County": "Terry"
+            "Ghost town": "Tokio",
+            "Primary County": "Terry"
         },
         {
-            "Name": "Tolbert",
-            "County": "Wilbarger"
+            "Ghost town": "Tolbert",
+            "Primary County": "Wilbarger"
         },
         {
-            "Name": "Toyah",
-            "County": "Reeves"
+            "Ghost town": "Toyah",
+            "Primary County": "Reeves"
         },
         {
-            "Name": "Toyahvale",
-            "County": "Reeves"
+            "Ghost town": "Toyahvale",
+            "Primary County": "Reeves"
         },
         {
-            "Name": "Towash",
-            "County": "Hill"
+            "Ghost town": "Towash",
+            "Primary County": "Hill"
         },
         {
-            "Name": "Trickham",
-            "County": "Coleman"
+            "Ghost town": "Trickham",
+            "Primary County": "Coleman"
         },
         {
-            "Name": "Tucker",
-            "County": "Anderson"
+            "Ghost town": "Tucker",
+            "Primary County": "Anderson"
         },
         {
-            "Name": "Tuckertown",
-            "County": "Navarro"
+            "Ghost town": "Tuckertown",
+            "Primary County": "Navarro"
         },
         {
-            "Name": "Tuff",
-            "County": "Bandera"
+            "Ghost town": "Tuff",
+            "Primary County": "Bandera"
         },
         {
-            "Name": "Tuleta",
-            "County": "Bee"
+            "Ghost town": "Tuleta",
+            "Primary County": "Bee"
         },
         {
-            "Name": "Turpentine",
-            "County": "Jasper"
+            "Ghost town": "Turpentine",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "Twin Sisters",
-            "County": "Blanco"
+            "Ghost town": "Twin Sisters",
+            "Primary County": "Blanco"
         },
         {
-            "Name": "Union Valley",
-            "County": "Wilson"
+            "Ghost town": "Union Valley",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Unity",
-            "County": "Wilson"
+            "Ghost town": "Unity",
+            "Primary County": "Wilson"
         },
         {
-            "Name": "Upland",
-            "County": "Upton"
+            "Ghost town": "Upland",
+            "Primary County": "Upton"
         },
         {
-            "Name": "Upton",
-            "County": "Bastrop"
+            "Ghost town": "Upton",
+            "Primary County": "Bastrop"
         },
         {
-            "Name": "Utica",
-            "County": "Smith"
+            "Ghost town": "Utica",
+            "Primary County": "Smith"
         },
         {
-            "Name": "Vandenburg",
-            "County": "Medina"
+            "Ghost town": "Vandenburg",
+            "Primary County": "Medina"
         },
         {
-            "Name": "Verbena",
-            "County": "Garza"
+            "Ghost town": "Verbena",
+            "Primary County": "Garza"
         },
         {
-            "Name": "Vesrue",
-            "County": "Winkler"
+            "Ghost town": "Vesrue",
+            "Primary County": "Winkler"
         },
         {
-            "Name": "Vieja Springs",
-            "County": "Presidio"
+            "Ghost town": "Vieja Springs",
+            "Primary County": "Presidio"
         },
         {
-            "Name": "Virginia City",
-            "County": "Bailey"
+            "Ghost town": "Virginia City",
+            "Primary County": "Bailey"
         },
         {
-            "Name": "Waring",
-            "County": "Kendall"
+            "Ghost town": "Waring",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Warren",
-            "County": "Fannin"
+            "Ghost town": "Warren",
+            "Primary County": "Fannin"
         },
         {
-            "Name": "Wasp Creek",
-            "County": "Kendall"
+            "Ghost town": "Wasp Creek",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Wastella",
-            "County": "Nolan"
+            "Ghost town": "Wastella",
+            "Primary County": "Nolan"
         },
         {
-            "Name": "Watson",
-            "County": "Red River/Comanche"
+            "Ghost town": "Watson",
+            "Primary County": "Red River/Comanche"
         },
         {
-            "Name": "Watkins",
-            "County": "Terrell"
+            "Ghost town": "Watkins",
+            "Primary County": "Terrell"
         },
         {
-            "Name": "Watkins",
-            "County": "Van Zandt"
+            "Ghost town": "Watkins",
+            "Primary County": "Van Zandt"
         },
         {
-            "Name": "Wayside",
-            "County": "Lynn"
+            "Ghost town": "Wayside",
+            "Primary County": "Lynn"
         },
         {
-            "Name": "Welfare",
-            "County": "Kendall"
+            "Ghost town": "Welfare",
+            "Primary County": "Kendall"
         },
         {
-            "Name": "Wenasco",
-            "County": "Jasper"
+            "Ghost town": "Wenasco",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "White City",
-            "County": "Gaines"
+            "Ghost town": "White City",
+            "Primary County": "Gaines"
         },
         {
-            "Name": "Whiteway",
-            "County": "Hamilton"
+            "Ghost town": "Whiteway",
+            "Primary County": "Hamilton"
         },
         {
-            "Name": "Whiteflat",
-            "County": "Motley"
+            "Ghost town": "Whiteflat",
+            "Primary County": "Motley"
         },
         {
-            "Name": "Whittenburg",
-            "County": "Hutchinson"
+            "Ghost town": "Whittenburg",
+            "Primary County": "Hutchinson"
         },
         {
-            "Name": "Who'd Thought It",
-            "County": "Hopkins"
+            "Ghost town": "Who'd Thought It",
+            "Primary County": "Hopkins"
         },
         {
-            "Name": "Whon",
-            "County": "Coleman"
+            "Ghost town": "Whon",
+            "Primary County": "Coleman"
         },
         {
-            "Name": "Wild Cat Bluff",
-            "County": "Anderson"
+            "Ghost town": "Wild Cat Bluff",
+            "Primary County": "Anderson"
         },
         {
-            "Name": "Williams Ranch",
-            "County": "Mills"
+            "Ghost town": "Williams Ranch",
+            "Primary County": "Mills"
         },
         {
-            "Name": "Winklemann",
-            "County": "Washington"
+            "Ghost town": "Winklemann",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Wintergreen",
-            "County": "Karnes"
+            "Ghost town": "Wintergreen",
+            "Primary County": "Karnes"
         },
         {
-            "Name": "Woodward",
-            "County": "LaSalle"
+            "Ghost town": "Woodward",
+            "Primary County": "LaSalle"
         },
         {
-            "Name": "Woody",
-            "County": "Loving"
+            "Ghost town": "Woody",
+            "Primary County": "Loving"
         },
         {
-            "Name": "Yegua",
-            "County": "Washington"
+            "Ghost town": "Yegua",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Zeirath",
-            "County": "Jasper"
+            "Ghost town": "Zeirath",
+            "Primary County": "Jasper"
         },
         {
-            "Name": "Zella",
-            "County": "McMullen"
+            "Ghost town": "Zella",
+            "Primary County": "McMullen"
         },
         {
-            "Name": "Ziler",
-            "County": "Howard"
+            "Ghost town": "Ziler",
+            "Primary County": "Howard"
         },
         {
-            "Name": "Zionville",
-            "County": "Washington"
+            "Ghost town": "Zionville",
+            "Primary County": "Washington"
         },
         {
-            "Name": "Zorn",
-            "County": "Guadalupe"
+            "Ghost town": "Zorn",
+            "Primary County": "Guadalupe"
         },
         {
-            "Name": "Zuehl",
-            "County": "Guadalupe"
+            "Ghost town": "Zuehl",
+            "Primary County": "Guadalupe"
         }
     ]
 }
