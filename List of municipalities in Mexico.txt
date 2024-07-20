@@ -62,43 +62,43 @@
 61|Gómez Palacio|Durango|372,750|328,159|+13.59%|
 62|Uruapan|Michoacán|356,786|315,329|+13.15%|
 63|Tapachula|Chiapas|353,706|320,456|+10.38%|
-68|Los Cabos|Baja California Sur|351,111|238,487|+47.22%|
-62|Victoria|Tamaulipas|349,688|321,685|+8.71%|
-63|Solidaridad|Quintana Roo|333,800|159,310|+109.53%|
-64|Soledad|San Luis Potosí|332,072|267,839|+23.98%|
-65|Tehuacán|Puebla|327,312|274,907|+19.06%|
-66|Pachuca|Hidalgo|314,331|267,862|+17.35%|
-67|Coatzacoalcos|Veracruz|310,698|305,225|+1.79%|
-68|Santa Catarina|Nuevo León|306,322|270,790|+13.12%|
-69|La Paz|State of Mexico|304,088|253,843|+19.79%|
-70|San Juan del Rio|Querétaro|297,804|241,699|+23.21%|
-71|Tampico|Tamaulipas|297,562|297,057|+0.17%|
-72|Campeche|Campeche|294,077|259,005|+13.54%|
-73|Coacalco de Berriozábal|State of Mexico|293,444|278,203|+5.48%|
-74|La Paz|Baja California Sur|292,241|251,871|+16.03%|
-75|Puerto Vallarta|Jalisco|291,839|255,725|+14.12%|
-76|Guasave|Sinaloa|289,370|285,919|+1.21%|
-77|Huixquilucan|State of Mexico|284,965|242,167|+17.67%|
-78|Chilpancingo|Guerrero|283,354|241,717|+17.23%|
-79|Zumpango|State of Mexico|280,455|159,647|+75.67%|
-80|Texcoco|State of Mexico|277,562|235,151|+18.04%|
-81|Salamanca|Guanajuato|273,417|260,759|+4.85%|
-82|Oaxaca|Oaxaca|270,955|263,145|+2.97%|
-83|Altamira|Tamaulipas|269,790|212,001|+27.26%|
-84|Nogales|Sonora|264,782|220,292|+20.20%|
-85|Carmen|Campeche|248,845|221,094|+12.55%|
-86|Cardenas|Tabasco|243,229|248,507|−2.12%|
-87|Metepec|State of Mexico|242,307|214,162|+13.14%|
-88|Fresnillo|Zacatecas|240,532|213,139|+12.85%|
-89|Monclova|Coahuila|237,951|216,206|+10.06%|
-90|Ocosingo|Chiapas|234,661|198,877|+17.99%|
-91|Othón P. Blanco‡‡|Quintana Roo|233,648|244,616|−4.48%|
-92|El Salto|Jalisco|232,852|138,226|+68.46%|
-93|El Marqués|Querétaro|231,668|116,458|+98.93%|
-94|San Cristobal de las Casas|Chiapas|215,874|185,917|+16.11%|
-95|Jiutepec|Morelos|215,357|196,953|+9.34%|
-96|Comalcalco|Tabasco|214,877|192,802|+11.45%|
-97|Corregidora|Querétaro|212,567|143,073|+48.57%|
-98|Guadalupe|Zacatecas|211,740|159,991|+32.34%|
-99|Ciudad Madero|Tamaulipas|205,933|197,216|+4.42%|
-100|Zamora|Michoacán|204,860|186,102|+10.08%|
+64|Los Cabos|Baja California Sur|351,111|238,487|+47.22%|
+66|Victoria|Tamaulipas|349,688|321,685|+8.71%|
+65|Solidaridad|Quintana Roo|333,800|159,310|+109.53%|
+66|Soledad|San Luis Potosí|332,072|267,839|+23.98%|
+67|Tehuacán|Puebla|327,312|274,907|+19.06%|
+68|Pachuca|Hidalgo|314,331|267,862|+17.35%|
+69|Coatzacoalcos|Veracruz|310,698|305,225|+1.79%|
+70|Santa Catarina|Nuevo León|306,322|270,790|+13.12%|
+71|La Paz|State of Mexico|304,088|253,843|+19.79%|
+72|San Juan del Rio|Querétaro|297,804|241,699|+23.21%|
+73|Tampico|Tamaulipas|297,562|297,057|+0.17%|
+74|Campeche|Campeche|294,077|259,005|+13.54%|
+75|Coacalco de Berriozábal|State of Mexico|293,444|278,203|+5.48%|
+76|La Paz|Baja California Sur|292,241|251,871|+16.03%|
+77|Puerto Vallarta|Jalisco|291,839|255,725|+14.12%|
+78|Guasave|Sinaloa|289,370|285,919|+1.21%|
+79|Huixquilucan|State of Mexico|284,965|242,167|+17.67%|
+80|Chilpancingo|Guerrero|283,354|241,717|+17.23%|
+81|Zumpango|State of Mexico|280,455|159,647|+75.67%|
+82|Texcoco|State of Mexico|277,562|235,151|+18.04%|
+83|Salamanca|Guanajuato|273,417|260,759|+4.85%|
+84|Oaxaca|Oaxaca|270,955|263,145|+2.97%|
+85|Altamira|Tamaulipas|269,790|212,001|+27.26%|
+86|Nogales|Sonora|264,782|220,292|+20.20%|
+87|Carmen|Campeche|248,845|221,094|+12.55%|
+88|Cardenas|Tabasco|243,229|248,507|−2.12%|
+89|Metepec|State of Mexico|242,307|214,162|+13.14%|
+90|Fresnillo|Zacatecas|240,532|213,139|+12.85%|
+91|Monclova|Coahuila|237,951|216,206|+10.06%|
+92|Ocosingo|Chiapas|234,661|198,877|+17.99%|
+93|Othón P. Blanco‡‡|Quintana Roo|233,648|244,616|−4.48%|
+94|El Salto|Jalisco|232,852|138,226|+68.46%|
+95|El Marqués|Querétaro|231,668|116,458|+98.93%|
+96|San Cristobal de las Casas|Chiapas|215,874|185,917|+16.11%|
+97|Jiutepec|Morelos|215,357|196,953|+9.34%|
+98|Comalcalco|Tabasco|214,877|192,802|+11.45%|
+99|Corregidora|Querétaro|212,567|143,073|+48.57%|
+100|Guadalupe|Zacatecas|211,740|159,991|+32.34%|
+101|Ciudad Madero|Tamaulipas|205,933|197,216|+4.42%|
+102|Zamora|Michoacán|204,860|186,102|+10.08%|
